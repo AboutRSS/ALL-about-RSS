@@ -1,11 +1,14 @@
-# All-about-RSS
-A list of all RSS stuff
+# All about RSS
 
+A list of all RSS stuff. Contents organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
 
+- [RSS Readers](#RSS-Readers)
+  - [Apps](#Apps)
+  - [iOS/iPadOS Apps](#iOs/iPadOS-Apps)
 
 ## RSS Readers
 
-### Applications
+### Apps
 
 #### Android Apps
 
@@ -26,6 +29,12 @@ A list of all RSS stuff
 ## Feed Search Engines
 
 ## Tools
+
+## Views
+
+## Individual Experiences
+- [使用RSS订阅实现消息「多元化推送」](https://www.newlearner.site/2019/05/11/rss.html) <sup>[3](https://t.me/aboutrss/3)</sup>
+
 
 ## Information Aggregators
 
