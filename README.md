@@ -4,7 +4,7 @@ A list of all RSS stuff. Contents organized based on the posts in the Telegram C
 
 Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/realSpencerWoo/63). But note that 「ALL about RSS」 is not a Awesome list. Any service/tool that functions well and maintained well or even once functioned well can be listed here.
 
-> _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are totally free. If anything related to the item has been introduced in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss), it will be specified by a superscript number with link to that post in Channel.
+> _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are totally free. If anything related to the item has been introduced in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss), it will be specified by a superscript number with link to that post in Channel._
 
 - [RSS Readers](#rss-readers)
   - [Apps](#Apps)
@@ -18,7 +18,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 #### iOS/iPadOS Apps
 
-- [Reeder](https://reederapp.com/) <sup>[22](https://t.me/aboutrss/22</sup>
+- [Reeder](https://reederapp.com/) <sup>[22](https://t.me/aboutrss/22)</sup>
 
 #### Chrome Apps
 
@@ -29,6 +29,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Self Hosted Readers
 
 - [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/aboutrss/21)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
+- [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/aboutrss/23)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/freshrss.org)
 
 ### Others
 
@@ -42,6 +43,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [NodeRSSbot](https://t.me/NodeRSS_bot) <sup>[5](https://t.me/aboutrss/5)</sup> [![Open-Source Software][oss icon]](https://github.com/fengkx/NodeRSSBot)
 - [flowerss](https://t.me/rssflowbot) <sup>[17](https://t.me/aboutrss/17)</sup> [![Open-Source Software][oss icon]](https://github.com/indes/flowerss-bot)
+
+## QQ RSS bots
+
+- [酷Q](https://cqp.cc/) <sup>[209](https://t.me/aboutrss/209), [524](https://t.me/aboutrss/524)</sup>
 
 ## Podcasts Platform
 
