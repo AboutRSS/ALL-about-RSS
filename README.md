@@ -18,16 +18,16 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 #### iOS/iPadOS Apps
 
-- [Reeder](https://reederapp.com/) <sup>[22](https://t.me/aboutrss/22)</sup>
+- [Reeder](https://reederapp.com/) <sup>[22](https://t.me/aboutrss/22)</sup> [![][iPhone icon]](https://itunes.apple.com/us/app/reeder-4/id1449412357?ls=1&mt=8)[![][Mac icon]](https://itunes.apple.com/us/app/reeder-4/id1449412482?ls=1&mt=12)
 
 #### Chrome Apps
 
-- [小乐RSS阅读器](https://sites.google.com/site/zzllrrrssreader/) <sup>[12](https://t.me/aboutrss/12)</sup> ![Freeware][freeware icon]
+- [小乐RSS阅读器](https://sites.google.com/site/zzllrrrssreader/) <sup>[12](https://t.me/aboutrss/12)</sup> ![Freeware][freeware icon][![][Chrome icon]](https://chrome.google.com/webstore/detail/zzllrr-rss-reader-local/aphanomkkjgledipighdfjnilhfenpam)
 
 #### Windows Apps
 
-- [Royal RSS Reader](http://the-sz.com/products/royal/) <sup>[33](https://t.me/aboutrss/33)</sup> ![Freeware][freeware icon]
-- [RSS Stalker](https://www.microsoft.com/en-us/p/rss-stalker/9n85pv1rjd6v?activetab=pivot:overviewtab) 
+- [Royal RSS Reader](http://the-sz.com/products/royal/) <sup>[33](https://t.me/aboutrss/33)</sup> ![Freeware][freeware icon]![Windows][Windows icon]
+- [RSS Stalker](https://blog.richasy.cn/document/rss/) <sup>[33](https://t.me/aboutrss/33)</sup> [![Windows][Windows icon]](https://www.microsoft.com/store/productId/9N85PV1RJD6V)
 
 ### Hosted Readers
 
@@ -98,7 +98,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## Acknowledgement 
 
-- Operating System Icons: [ICONSDB](https://www.iconsdb.com/) and [Icons8](https://icons8.com)
+- Operating System Icons: [SOFTICONS](https://www.softicons.com/) and [Icons8](https://icons8.com)
 
 ## License
 
@@ -108,5 +108,12 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[oss icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/OSS.svg
+[freeware icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/free.svg
+[Android icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/android.png
+[AppStore icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/AppStore.png
+[Mac icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/icons8-mac-client-16.png
+[iPhone icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/icons8-iphone-16.png
+[Windows icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/icons8-windows-10-16.svg
+[Linux icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/Linux.png
+[Chrome icon]: https://cdn.rawgit.com/AboutRSS/All-about-RSS/master/media/Google_Chrome.png
