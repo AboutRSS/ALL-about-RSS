@@ -108,12 +108,12 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[oss icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/OSS.svg
-[freeware icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/free.svg
+[oss icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png
+[freeware icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png
 [Android icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png
 [AppStore icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/AppStore.png
 [Mac icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png
 [iPhone icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png
-[Windows icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.svg
+[Windows icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png
 [Linux icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png
 [Chrome icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png
