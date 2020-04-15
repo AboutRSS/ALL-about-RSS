@@ -24,11 +24,18 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [小乐RSS阅读器](https://sites.google.com/site/zzllrrrssreader/) <sup>[12](https://t.me/aboutrss/12)</sup> ![Freeware][freeware icon]
 
+#### Windows Apps
+
+- [Royal RSS Reader](http://the-sz.com/products/royal/) <sup>[33](https://t.me/aboutrss/33)</sup> ![Freeware][freeware icon]
+- [RSS Stalker](https://www.microsoft.com/en-us/p/rss-stalker/9n85pv1rjd6v?activetab=pivot:overviewtab) 
+
 ### Hosted Readers
+
+- [Reablle](https://reabble.com/) <sup>[26](https://t.me/aboutrss/26)</sup>
 
 ### Self Hosted Readers
 
-- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/aboutrss/21)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
+- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/aboutrss/21), [37](https://t.me/aboutrss/37)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
 - [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/aboutrss/23)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/freshrss.org)
 
 ### Others
@@ -52,13 +59,19 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## Feed Search Engines
 
-- [KOTOMI RSS](https://moe4sale.in/) <sup>[18](https://t.me/aboutrss/18)</sup>: Anime RSS 索引站，将你的搜索结果订阅为 RSS 源
+- [KOTOMI RSS](https://moe4sale.in/) <sup>[18](https://t.me/aboutrss/18)</sup> : Anime RSS 索引站，将你的搜索结果订阅为 RSS 源
 
 ## Tools
 
 ### RSS2KINDLE
 
-- [Kindle Ear](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/aboutrss/13)</sup> [![Open-Source Software][oss icon]](https://github.com/cdhigh/KindleEar) 
+- [Kindle Ear](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/aboutrss/13), [26](https://t.me/aboutrss/26)</sup> [![Open-Source Software][oss icon]](https://github.com/cdhigh/KindleEar) 
+- [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/aboutrss/26)</sup> ![Freeware][freeware icon]
+- [Reablle](https://reabble.com/) <sup>[26](https://t.me/aboutrss/26)</sup>
+
+### RSS Finding
+
+- [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa) <sup>[47](https://t.me/aboutrss/47)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar) 
 
 ## Views / Discussions
 
@@ -73,6 +86,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/index.html) <sup>[19](https://t.me/aboutrss/19)</sup>
 
 ## Information Aggregators
+
+## NAS
+
+- [群晖](https://www.synology.com/) <sup>[46](https://t.me/aboutrss/46)</sup>
+
+
+## Design
+
+- RSS Icon <sup>[38](https://t.me/aboutrss/38)</sup>
 
 ## Acknowledgement 
 
