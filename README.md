@@ -39,24 +39,25 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [SwipeNews](https://github.com/Tunous/SwipeNews-Issues) <sup>[161](https://t.me/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=me.thanel.swipenews)
 - Palabre Feedly RSS Reader News <sup>[161](https://t.me/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.levelup.palabre)
 - [Newsfold](http://mvilla.it/newsfold/) <sup>[161](https://t.me/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=it.mvilla.android.quote)
-- [Feedbin](https://feedbin.com/apps) [![Online][Online icon]][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
+- [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
 - [Inoreader](https://www.inoreader.com/) <sup>[171](https://t.me/aboutrss/171), [172](https://t.me/aboutrss/172) </sup>
-[![Online][Online icon]][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
+![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
 - [irreader](http://irreader.fatecore.com/) <sup>[173](https://t.me/aboutrss/173)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Freeware][freeware icon]
+- [期待（Angelia）](https://angelia.codeeer.com/) <sup>[185](https://t.me/aboutrss/185)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E6%9C%9F%E5%BE%85/id1461503931?l=zh&ls=1)
 
 ### Wechat Mini App
 
-- [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/aboutrss/165)</sup>
+- [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/aboutrss/165)</sup> ![Freeware][freeware icon]
 
 ### Hosted Readers
 
 - [Reablle](https://reabble.com/) <sup>[26](https://t.me/aboutrss/26), [114](https://t.me/aboutrss/114)</sup> ![Online][Online icon]
 - [ReadCog](https://www.readcog.cn/) <sup>[162](https://t.me/aboutrss/162), [167](https://t.me/aboutrss/167)</sup> ![Online][Online icon]![Freeware][freeware icon]
-- [Feedbin](https://feedbin.com/apps) [![Online][Online icon]][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
+- [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
 
 ### Self Hosted Readers
 
-- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/aboutrss/21), [37](https://t.me/aboutrss/37)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
+- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/aboutrss/21), [37](https://t.me/aboutrss/37), [183](https://t.me/aboutrss/183), [184](https://t.me/aboutrss/184)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
 - [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/aboutrss/23)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/freshrss.org)
 - [rss-web](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/aboutrss/87)</sup> [![Open-Source Software][oss icon]](https://github.com/sin1ght/rss-web)
 - [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/aboutrss/128)</sup> [![Open-Source Software][oss icon]](https://github.com/SSilence/selfoss)
@@ -122,7 +123,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### WEIBO2RSS
 
-- [Weibo to RSS](https://rssfeed.today/weibo/) <sup>[169](https://t.me/aboutrss/169)</sup>
+- [Weibo to RSS](https://rssfeed.today/weibo/) <sup>[169](https://t.me/aboutrss/169)</sup> ![Freeware][freeware icon]
 
 ### Wechat Subscription Accounts to RSS
 
@@ -135,7 +136,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 #### Podcasts
 
-- 中文独立播客 <sup>[130](https://t.me/aboutrss/130）</sup>
+- 中文独立播客 <sup>[130](https://t.me/aboutrss/130)</sup>
 
 ### WordPress related
 
@@ -145,18 +146,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - Views / Discussions About RSS <sup>[4](https://t.me/aboutrss/4), [6](https://t.me/aboutrss/6), [10](https://t.me/aboutrss/10), [11](https://t.me/aboutrss/11), [115](https://t.me/aboutrss/115), [132](https://t.me/aboutrss/132)</sup>
 - Views / Discussions About podcast <sup>[53](https://t.me/aboutrss/53), [129](https://t.me/aboutrss/129)</sup>
-- Individual Experiences <sup>[3](https://t.me/aboutrss/3), [19](https://t.me/aboutrss/19), <sup>[92](https://t.me/aboutrss/92), [139](https://t.me/aboutrss/139), [163](https://t.me/aboutrss/163), [168](https://t.me/aboutrss/168)</sup>
+- Individual Experiences <sup>[3](https://t.me/aboutrss/3), [19](https://t.me/aboutrss/19), [92](https://t.me/aboutrss/92), [139](https://t.me/aboutrss/139), [163](https://t.me/aboutrss/163), [168](https://t.me/aboutrss/168), [182])(https://t.me/aboutrss/182)</sup>
 - For coders <sup>[166](https://t.me/aboutrss/166)
-
-## For Researchers
-
-- [使用 RSS 打造你的科研资讯头条](https://shen.bioinit.com/topic/tech/2019-07-01-rss-for-top-news/) <sup>[67](https://t.me/aboutrss/67)</sup>
+- For Researchers <sup>[67](https://t.me/aboutrss/67)</sup>
 
 ## Information Aggregators
 
 ## NAS
 
-- [群晖](https://www.synology.com/) <sup>[46](https://t.me/aboutrss/46)</sup>
+- [群晖](https://www.synology.com/) <sup>[46](https://t.me/aboutrss/46), [183](https://t.me/aboutrss/183), [184](https://t.me/aboutrss/184)</sup>
 
 ## Design
 
