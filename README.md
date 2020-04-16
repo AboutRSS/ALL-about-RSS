@@ -44,10 +44,12 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
 - [irreader](http://irreader.fatecore.com/) <sup>[173](https://t.me/aboutrss/173)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Freeware][freeware icon]
 - [期待（Angelia）](https://angelia.codeeer.com/) <sup>[185](https://t.me/aboutrss/185)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E6%9C%9F%E5%BE%85/id1461503931?l=zh&ls=1)
+- [lire](http://lireapp.com/) <sup>[189](https://t.me/aboutrss/189)</sup> [![][iPhone icon]](http://itunes.apple.com/app/lire/id550441545?ls=1&mt=8)[![Mac][Mac icon]](https://apps.apple.com/us/app/lire/id1482527526?ls=1&mt=12)
+- [快知](http://kzfeed.com/) <sup>[195](https://t.me/aboutrss/195)</sup> [![Online][Online icon]](http://kzfeed.com/login)[![][iPhone icon]](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android][Android icon]](https://www.coolapk.com/apk/244476)
 
 ### Wechat Mini App
 
-- [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/aboutrss/165)</sup> ![Freeware][freeware icon]
+- [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/aboutrss/165), [190](https://t.me/aboutrss/190)</sup> ![Freeware][freeware icon]
 
 ### Hosted Readers
 
@@ -71,6 +73,9 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [FeedX](https://feedx.net) <sup>[66](https://t.me/aboutrss/66)</sup>
 - [上下闻](https://news.mindynode.com/zh/) <sup>[111](https://t.me/aboutrss/111)</sup> [![Open-Source Software][oss icon]](https://github.com/josherich/RSS-ORG)
 - [RSS屋](https://rss.mifaw.com/) <sup>[112](https://t.me/aboutrss/112)</sup>
+- [Henix's feeds](https://henix.github.io/feeds/) <sup>[186](https://t.me/aboutrss/186)</sup>
+- [MusicButler](https://www.musicbutler.io/) <sup>[187](https://t.me/aboutrss/187)</sup> : lets you know when your favorite musicians and bands have released new music.
+- [rss-源共享](https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB) <sup>[191](https://t.me/aboutrss/191)</sup>
 
 ## Servers of fans
 
@@ -114,7 +119,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [WebRSS](http://www.webrss.com/) <sup>[110](https://t.me/aboutrss/110)</sup> ![Freeware][freeware icon]
 - [Feedity](https://feedity.com/) <sup>[110](https://t.me/aboutrss/110)</sup>
-- [RSS.app](https://rss.app/) <sup>[110](https://t.me/aboutrss/110)</sup>
+- [RSS.app](https://rss.app/) <sup>[110](https://t.me/aboutrss/110), [192](https://t.me/aboutrss/192)</sup>
 - [Feed43](https://feed43.com) <sup>[110](https://t.me/aboutrss/110), [137](https://t.me/aboutrss/137), [138](https://t.me/aboutrss/138), [159](https://t.me/aboutrss/159), [160](https://t.me/aboutrss/160)</sup> ![Freeware][freeware icon]
 
 ### RSS2MAIL
@@ -128,7 +133,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Wechat Subscription Accounts to RSS
 
 - [瞅啥](http://www.gzhshoulu.wang/) <sup>[131](https://t.me/aboutrss/131)</sup>
-- [WeRSS](https://werss.app/) <sup>[133](https://t.me/aboutrss/133)</sup>
+- [WeRSS](https://werss.app/) <sup>[133](https://t.me/aboutrss/133), [195](https://t.me/aboutrss/195)</sup>
+- [今天看啥](http://www.jintiankansha.me/) <sup>[195](https://t.me/aboutrss/195)</sup>
+- [快知](http://kzfeed.com/) <sup>[195](https://t.me/aboutrss/195)</sup> [![Online][Online icon]](http://kzfeed.com/login)[![][iPhone icon]](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android][Android icon]](https://www.coolapk.com/apk/244476)
+- [RSSHub](https://docs.rsshub.app/new-media.html#wei-xin) <sup>[195](https://t.me/aboutrss/195)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub)![Freeware][freeware icon] 
+- [Huginn](https://github.com/huginn/huginn) <sup>[195](https://t.me/aboutrss/195)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn)![Freeware][freeware icon]
 
 ### Aggerogators
 
@@ -140,13 +149,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### WordPress related
 
-- [Plugin MailPoet](https://www.mailpoet.com/) <sup>[170](https://t.me/aboutrss/170）</sup> : deliver RSS content on specific time.
+- [Plugin MailPoet](https://www.mailpoet.com/) <sup>[170](https://t.me/aboutrss/170)</sup> : deliver RSS content on specific time.
 
 ## Posts
 
 - Views / Discussions About RSS <sup>[4](https://t.me/aboutrss/4), [6](https://t.me/aboutrss/6), [10](https://t.me/aboutrss/10), [11](https://t.me/aboutrss/11), [115](https://t.me/aboutrss/115), [132](https://t.me/aboutrss/132)</sup>
 - Views / Discussions About podcast <sup>[53](https://t.me/aboutrss/53), [129](https://t.me/aboutrss/129)</sup>
-- Individual Experiences <sup>[3](https://t.me/aboutrss/3), [19](https://t.me/aboutrss/19), [92](https://t.me/aboutrss/92), [139](https://t.me/aboutrss/139), [163](https://t.me/aboutrss/163), [168](https://t.me/aboutrss/168), [182])(https://t.me/aboutrss/182)</sup>
+- Individual Experiences <sup>[3](https://t.me/aboutrss/3), [19](https://t.me/aboutrss/19), [92](https://t.me/aboutrss/92), [139](https://t.me/aboutrss/139), [163](https://t.me/aboutrss/163), [168](https://t.me/aboutrss/168), [182](https://t.me/aboutrss/182)</sup>
 - For coders <sup>[166](https://t.me/aboutrss/166)
 - For Researchers <sup>[67](https://t.me/aboutrss/67)</sup>
 
@@ -158,7 +167,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## Design
 
-- RSS Icon <sup>[38](https://t.me/aboutrss/38), [91](https://t.me/aboutrss/91)</sup>
+- RSS Icon <sup>[38](https://t.me/aboutrss/38), [91](https://t.me/aboutrss/91), [193](https://t.me/aboutrss/193), [194](https://t.me/aboutrss/194)</sup>
 
 ## Acknowledgement 
 
