@@ -15,10 +15,14 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Open-Source Software][oss icon]  | Open-source software |
 | ![Freeware][freeware icon]  | Totally free |
 | ![Online][Online icon] | Web service available |
-| ![Windows][Windows icon]  | Windows version available |
-| ![Mac][Mac icon]  | Mac version available |
-| ![Linux][Linux icon]  | Linux version available |
+| ![Windows][Windows icon]  | for Windows |
+| ![Mac][Mac icon]  | fo Mac OS |
+| ![Linux][Linux icon]  | for Linux system |
+| ![iOS][iPhone icon]  | for or iOS/iPadOS |
 | ![Chrome][Chrome icon]  | Chrome app or extension available |
+| ![Firefox][Firefox icon]  | Firefox Add-on available |
+| ![Podcast][Podcast icon]  | It's a Podcast episode |
+| ![Video][Video icon]  | It's a Video/Vlog |
 
 - [RSS Readers](#rss-readers)
   - [Apps](#Apps)
@@ -81,6 +85,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Raven Reader](https://ravenreader.app/) <sup>[503](https://t.me/s/aboutrss/503)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/hello-efficiency-inc/raven-reader)
 - [Smart RSS extension](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software][oss icon]](https://github.com/SmartRSS/Smart-RSS)![Freeware][freeware icon]
 - Plenary <sup>[516](https://t.me/s/aboutrss/516)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.spians.plenary)
+- [FeedPop](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software][oss icon]](https://github.com/xs9627/feedpop)![Freeware][freeware icon]
 
 ### Wechat Mini App
 
@@ -335,13 +340,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [瞅啥](http://www.gzhshoulu.wang/) <sup>[131](https://t.me/s/aboutrss/131)</sup>
 - [WeRSS](https://werss.app/) <sup>[133](https://t.me/s/aboutrss/133), [195](https://t.me/s/aboutrss/195)</sup>
 - [今天看啥](http://www.jintiankansha.me/) <sup>[195](https://t.me/s/aboutrss/195)</sup>
-- [快知](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195)</sup> [![Online][Online icon]](http://kzfeed.com/login)[![][iPhone icon]](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android][Android icon]](https://www.coolapk.com/apk/244476)
+- [快知](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Online][Online icon]](http://kzfeed.com/login)[![][iPhone icon]](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android][Android icon]](https://www.coolapk.com/apk/244476)
 - [RSSHub](https://docs.rsshub.app/new-media.html#wei-xin) <sup>[195](https://t.me/s/aboutrss/195)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub)![Freeware][freeware icon] 
-- [Huginn](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn)
+- [Huginn](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn)
 - [Vread](https://www.vreadtech.com/) <sup>[258](https://t.me/s/aboutrss/258), [269](https://t.me/s/aboutrss/269)</sup>
 - [瓦斯阅读](https://qnmlgb.tech/) <sup>[349](https://t.me/s/aboutrss/349)</sup> [![Open-Source Software][oss icon]](https://github.com/tenpiece/wxrss)
 - [RSS订阅源](https://www.rss.wiki/) <sup>[409](https://t.me/s/aboutrss/409), [410](https://t.me/s/aboutrss/410)</sup>
-- 微信公众号RSS by ZMonster <sup>[438](https://t.me/s/aboutrss/438), [515](https://t.me/s/aboutrss/515)</sup>
+- 微信公众号RSS by ZMonster <sup>[438](https://t.me/s/aboutrss/438), [515](https://t.me/s/aboutrss/515), [528](https://t.me/s/aboutrss/528)</sup>
 
 ### FACEBOOK2RSS
 
