@@ -1,11 +1,13 @@
 <p align="center">
 <a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="Screenshot of isRSSdead.com"></img></a><br>
-Screenshot of isRSSdead.com
+<small>Screenshot of isRSSdead.com</small>
 </p>
 
- This is a list of all RSS stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
+----
 
-[![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
+This is a list of all RSS stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
+
+[![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%2Bmembers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%2Bfollowers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
 Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/realSpencerWoo/63). But note that 「ALL about RSS」 is not an _Awesome list_. Any service/tool that functions well and maintained well can be listed here.
 
