@@ -1,4 +1,4 @@
-<p align="center">[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png "Screenshot of isRSSdead.com")](http://isrssdead.com)
+<p align="center">[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png)](http://isrssdead.com)<br>
 Screenshot of isRSSdead.com</p>
 
  This is a list of all RSS stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
