@@ -100,8 +100,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Design](#design)
 - [Services stop supporting RSS](#services-stop-supporting-rss)
 - [Others](#others)
-
-## [RSS × Podcast](#rss--podcast)
+- [RSS × Podcast](#rss--podcast-1)
 - [Podcast apps that will work with your custom RSS link](#podcast-apps-that-will-work-with-your-custom-rss-link)
 - [Aggregators of Podcasts](#aggregators-of-podcasts)
 - [Podcast Statistics](#podcast-statistics)
@@ -112,8 +111,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Podcast Community](#podcast-community)
   - [Discussion Forums](#discussion-forums)
   - [Telegram Groups / Channels](#telegram-groups--channels)
-
-
 - [How to contribute](#how-to-contribute)
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
