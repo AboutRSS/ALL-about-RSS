@@ -36,10 +36,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Wechat Mini Apps](#wechat-mini-apps)
   - [Hosted Readers](#hosted-readers)
   - [Self Hosted Readers](#self-hosted-readers)
-  - [Terminal-based programmable RSS Readers(#terminal-based-programmable-rss-readers)
+  - [Terminal-based programmable RSS Readers](#terminal-based-programmable-rss-readers)
   - [Players](#players)
   - [Other Apps](#other-apps)
-- [Feed Resources/Providers](#feed-resources/providers)
+- [Feed Resources/Providers](#feed-resourcesproviders)
   - [Aggerogators of Indieblogs](#aggerogators-of-indieblogs)
 - [Free Servers](#free-servers)
   - [RSSHub](#rsshub)
@@ -53,12 +53,12 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [QQ](#qq)
   - [WeChat](#wechat)
   - [Mastodon](#mastodon)
-- [Microblogging Platforms](#microblogging-platforms]
+- [Microblogging Platforms](#microblogging-platforms)
 - [Feed Search Engines](#feed-search-engines)
 - [Tools](#tools)
   - [RSS2KINDLE](#rss2kindle)
   - [RSS Feed Finding](#rss-feed-finding)
-  - [PAGE2RSS / HTML2RSS](#page2rss-/-html2rss)
+  - [PAGE2RSS / HTML2RSS](#page2rss--html2rss)
   - [RSS2MAIL](#rss2mail)
   - [RSS2NEWSLETTER](#rss2newsletter)
   - [NEWSLETTER2RSS](#newsletter2rss)
@@ -91,7 +91,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Information Aggregators](#information-aggregators)
 - [RSS Relevant Community](#rss-relevant-community)
   - [Discussion Forums](#discussion-forums)
-  - [Telegram Groups / Channels](#telegram-groups-/-channels)
+  - [Telegram Groups / Channels](#telegram-groups--channels)
 - [Posts by individuals](#posts-by-individuals)
 - [Books](#books)
 - [Academic literature](#academic-literature)
@@ -100,14 +100,19 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Design](#design)
 - [Services stop supporting RSS](#services-stop-supporting-rss)
 - [Others](#others)
-- [RSS × Podcast](#rss-×-podcast)
-  - [Podcast apps that will work with your custom RSS link](#podcast-apps-that-will-work-with-your-custom-rss-links)
-  - [Aggregators of Podcasts](#aggregators-of-podcasts)
-  - [Podcast Statistics](#podcast-statistics)
-  - [Podcast Hosting](#podcast-hosting)
-  - [Podcast Search Engine](#podcast-search-engine)
-  - [Podcast RSS Feed Hosting](#podcast-rss-feed-hosting)
-  - [Views / Discussions About Podcast](#views-/-discussions-about-podcast)
+
+# [RSS × Podcast](#rss-×-podcast)
+- [Podcast apps that will work with your custom RSS link](#podcast-apps-that-will-work-with-your-custom-rss-link)
+- [Aggregators of Podcasts](#aggregators-of-podcasts)
+- [Podcast Statistics](#podcast-statistics)
+- [Podcast Hosting](#podcast-hosting)
+- [Podcast Search Engine](#podcast-search-engine)
+- [Podcast RSS Feed Hosting](#podcast-rss-feed-hosting)
+- [Views / Discussions About RSS and Podcast](#views--discussions-about-rss-and-podcast)
+- [Podcast Community](#podcast-community)
+  - [Discussion Forums](#discussion-forums)
+  - [Telegram Groups / Channels](#telegram-groups--channels)
+
 - [How to contribute](#how-to-contribute)
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
@@ -625,6 +630,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - Instacast [![iOS][iPhone icon]](https://itunes.apple.com/app/instacast-core/id1083868334?mt=8)
 - [Player FM](https://player.fm/) ![Online][Online icon][![iOS][iPhone icon]](https://itunes.apple.com/us/app/podcast-app-by-player-fm/id940568467?mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.player)
 - [bullhorn](https://www.bullhorn.fm/) ![Online][Online icon][![iOS][iPhone icon]](https://apps.apple.com/us/app/bullhorn/id1322513763)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.carrierx.bullhorn&hl=en&referrer=utm_source%3Dko_65915e9b19601d15d%26utm_medium%3D1%26utm_campaign%3Dkobulllhorn-android-o3mo5799cac81c4643%26utm_term%3D%26utm_content%3D%26)
+- [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
 
 ## Aggregators of Podcasts
 
@@ -652,9 +658,19 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [4AM](https://at4am.io/t/topic/6954) <sup>[429](https://t.me/s/aboutrss/429)</sup>
 
-## Views / Discussions About **Podcast**
+## Views / Discussions About RSS and Podcast
 
 - <sup>[53![Podcast][Podcast icon]](https://t.me/s/aboutrss/53), [129](https://t.me/s/aboutrss/129)</sup>
+
+## Podcast Community
+
+### Discussion Forums
+
+- [4AM](https://at4am.io/t/topic/6954)
+
+### Telegram Groups / Channels
+
+- 独立播客 ([Group](https://t.me/listenwithyou) / [Channel](https://t.me/indiepod))
 
 ----
 
