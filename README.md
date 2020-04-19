@@ -23,7 +23,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Freeware][freeware icon]  | Totally free |
 | ![Online][Online icon] | Web service available |
 | ![Windows][Windows icon]  | for Windows |
-| ![Mac][Mac icon]  | fo Mac OS |
+| ![Mac][Mac icon]  | for Mac OS |
 | ![Linux][Linux icon]  | for Linux system |
 | ![iOS][iPhone icon]  | for iOS/iPadOS |
 | ![Chrome][Chrome icon]  | Chrome app or extension available |
@@ -669,7 +669,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### Discussion Forums
 
-- [4AM](https://at4am.io/t/topic/6954)
+- [4AM](https://at4am.io/)
 
 ### Telegram Groups / Channels
 
