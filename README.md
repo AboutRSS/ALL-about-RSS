@@ -94,6 +94,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - Plenary <sup>[516](https://t.me/s/aboutrss/516)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.spians.plenary)
 - [FeedPop](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software][oss icon]](https://github.com/xs9627/feedpop)![Freeware][freeware icon]
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) ![Mac][Mac icon]![iOS][iPhone icon]
+- [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software][oss icon]](https://github.com/sismics/reader)![Freeware][freeware icon]
 
 ### Wechat Mini App
 
@@ -410,6 +411,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedzy RSS Feeds for WordPress](https://themeisle.com/plugins/feedzy-rss-feeds/) <sup>[239](https://t.me/s/aboutrss/239)</sup>
 - [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273)</sup>
 - [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
+- [Feedspot](https://www.feedspot.com/)![Online][Online icon]
 
 ### API
 
@@ -452,6 +454,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [USEPANDA](https://usepanda.com/) <sup>[340](https://t.me/s/aboutrss/340)</sup> [![Online][Online icon]](https://usepanda.com/app/)[![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko)[![][iPhone icon]](https://apps.apple.com/gb/app/panda-lite-browse-product/id934805959)
 - [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
 - [Fraidycat](https://fraidyc.at/) <sup>[415](https://t.me/s/aboutrss/415)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/fraidycat/hecfkgekabkkhiidlinmifelhdooeool)[![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/fraidycat/)![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/kickscondor/fraidycat)
+- [Feedspot](https://www.feedspot.com/)![Online][Online icon]
 
 ## RSS Relevant Community
 
@@ -550,6 +553,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [中文独立播客](https://typlog.com/podlist/) <sup>[130](https://t.me/s/aboutrss/130), [480](https://t.me/s/aboutrss/480)</sup>
 - [PodCast不完全收藏](https://www.douban.com/note/702906996/)
 - [播客 RSS Feed](https://getpodcast.xyz/) <sup>[480](https://t.me/s/aboutrss/480)</sup>
+- [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)
 
 ## Podcast Statistics
 
