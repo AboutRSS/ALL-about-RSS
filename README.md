@@ -100,7 +100,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Design](#design)
 - [Services stop supporting RSS](#services-stop-supporting-rss)
 - [Others](#others)
-- [RSS × Podcast](#rss--podcast-1)
+- [RSS × Podcast](#rss--podcast)
   - [Podcast apps that will work with your custom RSS link](#podcast-apps-that-will-work-with-your-custom-rss-link)
   - [Aggregators of Podcasts](#aggregators-of-podcasts)
   - [Podcast Statistics](#podcast-statistics)
