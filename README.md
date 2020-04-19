@@ -5,7 +5,7 @@
 
 ----
 
-This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
+This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Contents mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
@@ -173,6 +173,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [FeedPop](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software][oss icon]](https://github.com/xs9627/feedpop)![Freeware][freeware icon]
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) ![Mac][Mac icon]![iOS][iPhone icon]
 - [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software][oss icon]](https://github.com/sismics/reader)![Freeware][freeware icon]
+- [RSSOwlnix](https://github.com/Xyrio/RSSOwlnix) ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/Xyrio/RSSOwlnix)![Freeware][freeware icon]
 
 ### Wechat Mini Apps
 
@@ -298,6 +299,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 #### TelegramChannel2RSS bot
 
 - [Channel2RSSBot](https://t.me/Channel2RSSBot) <sup>[420](https://t.me/s/aboutrss/420)</sup>
+
+#### Bot of RSS屋 (a Full Article Extractor Service)
+
+- [RSSWBot](https://t.me/RSSWBot)
 
 ### QQ
 
@@ -545,12 +550,14 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Telegram Groups / Channels
 
 - RSSHub ([Channel](https://t.me/awesomeRSSHub) / [Group](https://t.me/rsshub)) <sup>[229](https://t.me/s/aboutrss/229)</sup>
-- [RSS 交流群](http://tg//join?invite=Ag98F0evTbZwY8HB7oH4fA) 
-- Feeds.Pub ([Group](https://t.me/feedspub_chat))
+- [RSS 交流群](https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA) 
+- Online RSS Reader: Feeds.Pub ([Group](https://t.me/feedspub_chat))
+- RSS Reader App: 期待 - Angelia ([Group](https://t.me/angeliachat))
+- a Full Article Extractor Service: RSS屋 ([Group](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ))
 
 ## Posts by individuals
 
-- Introduce RSS <sup>[339](https://t.me/s/aboutrss/339), [355![Video][Video icon]](https://t.me/s/aboutrss/355), [396](https://t.me/s/aboutrss/396), [416](https://t.me/s/aboutrss/416)</sup>
+- Introduce RSS <sup>[339](https://t.me/s/aboutrss/339), [355![Video][Video icon]](https://t.me/s/aboutrss/355), [396](https://t.me/s/aboutrss/396), [416](https://t.me/s/aboutrss/416), [531](https://t.me/s/aboutrss/531)</sup>
 - Views / Discussions About **RSS** <sup>[4](https://t.me/s/aboutrss/4), [6](https://t.me/s/aboutrss/6), [10](https://t.me/s/aboutrss/10), [11](https://t.me/s/aboutrss/11), [115](https://t.me/s/aboutrss/115), [132](https://t.me/s/aboutrss/132), [241](https://t.me/s/aboutrss/241), [265](https://t.me/s/aboutrss/265), [335](https://t.me/s/aboutrss/335), [350](https://t.me/s/aboutrss/350), [378](https://t.me/s/aboutrss/378), [397](https://t.me/s/aboutrss/397), [447](https://t.me/s/aboutrss/447), [479](https://t.me/s/aboutrss/479)</sup>
 - Individual Experiences <sup>[3](https://t.me/s/aboutrss/3), [19](https://t.me/s/aboutrss/19), [92](https://t.me/s/aboutrss/92), [139](https://t.me/s/aboutrss/139), [163](https://t.me/s/aboutrss/163), [168](https://t.me/s/aboutrss/168), [182](https://t.me/s/aboutrss/182), [240](https://t.me/s/aboutrss/240), [243](https://t.me/s/aboutrss/243), [316](https://t.me/s/aboutrss/316), [318](https://t.me/s/aboutrss/318), [351](https://t.me/s/aboutrss/351), [375](https://t.me/s/aboutrss/375), [406](https://t.me/s/aboutrss/406), [431](https://t.me/s/aboutrss/431), [442](https://t.me/s/aboutrss/442), [453](https://t.me/s/aboutrss/453), [456![Video][Video icon]](https://t.me/s/aboutrss/456), [475](https://t.me/s/aboutrss/475), [514](https://t.me/s/aboutrss/514)</sup>
 - For JavaScript coders <sup>[291](https://t.me/s/aboutrss/291), [370](https://t.me/s/aboutrss/370), [468](https://t.me/s/aboutrss/468), [499](https://t.me/s/aboutrss/499), [511![Video][Video icon]](https://t.me/s/aboutrss/511), [519](https://t.me/s/aboutrss/519)</sup>
@@ -614,8 +621,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [The Podcast App](https://podcast.app/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.streema.podcast&hl=en)[![][iPhone icon]](https://itunes.apple.com/us/app/the-podcast-app/id1199070742?mt=8)
 - [Pocket Casts](https://www.pocketcasts.com/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online][Online icon]](https://play.pocketcasts.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)[![iOS][iPhone icon]](https://itunes.apple.com/au/app/pocket-casts/id414834813)![Freeware][freeware icon]
 - [AntennaPod](https://antennapod.org/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)[![Open-Source Software][oss icon]](https://github.com/antennapod/AntennaPod)![Freeware][freeware icon]
-- [MOON.FM](https://www.moon.fm/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Windows][Windows icon]](ms-windows-store://pdp/?productid=9NMDSZCGGXSJ)[![Mac][Mac icon]](https://apps.apple.com/us/app/moon-fm-premium-podcast-app/id1465712037?mt=12)![Linux][Linux icon][![iOS][iPhone icon]](https://itunes.apple.com/us/app/moon-fm/id1243771413)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.moon.app)
-- [小宇宙](https://xiaoyuzhoufm.com/) <sup>[477](https://t.me/s/aboutrss/477), [484](https://t.me/s/aboutrss/484), [486](https://t.me/s/aboutrss/486), [490](https://t.me/s/aboutrss/490)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E5%B0%8F%E5%AE%87%E5%AE%99-%E4%B8%80%E8%B5%B7%E5%90%AC%E6%92%AD%E5%AE%A2/id1488894313)[![Android][Android icon]](https://xiaoyuzhoufm.com/)
+- [MOON.FM](https://www.moon.fm/) <sup>[473](https://t.me/s/aboutrss/473), [531](https://t.me/s/aboutrss/531)</sup> [![Windows][Windows icon]](ms-windows-store://pdp/?productid=9NMDSZCGGXSJ)[![Mac][Mac icon]](https://apps.apple.com/us/app/moon-fm-premium-podcast-app/id1465712037?mt=12)![Linux][Linux icon][![iOS][iPhone icon]](https://itunes.apple.com/us/app/moon-fm/id1243771413)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.moon.app)
+- [小宇宙](https://xiaoyuzhoufm.com/) <sup>[477](https://t.me/s/aboutrss/477), [484](https://t.me/s/aboutrss/484), [486](https://t.me/s/aboutrss/486), [490](https://t.me/s/aboutrss/490), [531](https://t.me/s/aboutrss/531)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E5%B0%8F%E5%AE%87%E5%AE%99-%E4%B8%80%E8%B5%B7%E5%90%AC%E6%92%AD%E5%AE%A2/id1488894313)[![Android][Android icon]](https://xiaoyuzhoufm.com/)
 - [CastBox](https://castbox.fm/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online][Online icon]](https://castbox.fm/home)[![iOS][iPhone icon]](https://itunes.apple.com/app/castbox-radio/id1243410543?pt=118301901&mt=8&ct=download_page)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast&referrer=utm_source%3Dcastbox_web%26utm_medium%3Dlink%26utm_campaign%3Ddownload_page%26utm_content%3D)
 - [Apple Podcast & iTunes](https://support.apple.com/zh-cn/HT201859) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Windows][Windows icon]](https://www.microsoft.com/p/itunes/9pb2mz1zmb1s?rtc=1&activetab=pivot:overviewtab)![Mac][Mac icon][![iOS][iPhone icon]](https://apps.apple.com/us/app/apple-podcasts/id525463029)
 - [Himalaya](https://www.himalaya.com) [![Online][Online icon]](https://www.himalaya.com/login)[![iOS][iPhone icon]](https://apps.apple.com/us/app/himalaya-fm-radio-audio-books/id1275493456)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.ximalaya.ting.himalaya)
