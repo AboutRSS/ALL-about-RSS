@@ -5,7 +5,7 @@
 
 ----
 
-This is a list of all RSS stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
+This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Contents mainly organized based on the posts in my Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
