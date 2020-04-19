@@ -685,10 +685,12 @@ Any contributions like suggestions and pull requests are welcome.
 
 ## Acknowledgement 
 
+- [The Top 125 Rss Open Source Projects](https://awesomeopensource.com/projects/rss)
+- [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 - Icons: [SOFTICONS](https://www.softicons.com/) and [Icons8](https://icons8.com)
 - [Substats API](https://substats.spencerwoo.com/)
 
-Thank you to all RSS supporters!
+Thank you to all RSS supporters! It's you who have created and still keep developing all these marvelous tools, apps and contents that worth sharing. Furthermore, thanks very much to members / followers of the 「AboutRSS」 channel and twitter accout.
 
 > Please consider supporting my work as a lot of effort take place to generate this list! Thanks a lot.
 
