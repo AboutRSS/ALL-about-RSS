@@ -655,6 +655,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [PodCast不完全收藏](https://www.douban.com/note/702906996/)
 - [播客 RSS Feed](https://getpodcast.xyz/) <sup>[480](https://t.me/s/aboutrss/480)</sup>
 - [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)
+- [Han-language Podcast on Twitter](https://twitter.com/aboutRSS/lists/list1)
 
 ## Podcast Statistics
 
