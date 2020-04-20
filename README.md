@@ -73,6 +73,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Reddit RSS fix](#reddit-rss-fix)
   - [Tumblr RSS fix](#tumblr-rss-fix)
   - [ITUNES2RSS](#itunes2rss)
+  - [RSS2ACTIVITYPUB](#rss2activitypub)
   - [Full Article Extractors](#full-article-extractors)
   - [Workflow Automation](#workflow-automation)
   - [Feed Analytics](#feed-analytics)
