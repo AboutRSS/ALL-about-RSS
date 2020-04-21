@@ -61,7 +61,7 @@ Feel free to help enlarge the collection or improve this page! Submit an edit!
 
 ## Acknowledgement
 
-With [Feedsearch](feedsearch.dev) API,  we can easily tell whether a certain Feed43 feed is active by checking its `item_count` and `last_updated`. Thanks very much.
+With [Feedsearch](https://feedsearch.dev) API,  we can easily tell whether a certain Feed43 feed is active by checking its `item_count` and `last_updated`. Thanks very much.
 
 Instance for generateing dynamic badge by using Sheilds.io:
 
