@@ -5,13 +5,13 @@
 ### Entertainment
 
 |  Feed Title  |  Feed URL  |  Item Count  |
-|  ----  | ----  |
+|  ----  | ----  | ---- |
 | 人人影视字幕下载 | https://node2.feed43.com/1625207886088602.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1625207886088602.xml)](https://node2.feed43.com/1625207886088602.xml) |
 
 ### Travel
 
 |  Feed Title  |  Feed URL  |  Item Count  |
-|  ----  | ----  |
+|  ----  | ----  | ---- |
 | 美国攻略 « 实用可靠的美国生活知识 | https://node2.feed43.com/gonglueus.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgonglueus.xml)](https://node2.feed43.com/gonglueus.xml) |
 | 飞客茶馆 酒店优惠 | https://feed43.com/feikechaguan.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffeikechaguan.xml)](https://node2.feed43.com/feikechaguan.xml) |
 
