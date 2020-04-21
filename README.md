@@ -470,6 +470,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Platypush](https://platypush.readthedocs.io/en/latest/) <sup>[315](https://t.me/s/aboutrss/315)</sup> [![Open-Source Software][oss icon]](https://github.com/BlackLight/platypush)
 - [Zapier](https://zapier.com) <sup>[436](https://t.me/s/aboutrss/436)</sup>
 - [Power Automate](https://flow.microsoft.com/) <sup>[521](https://t.me/s/aboutrss/521)</sup>
+- [RSS for Hackers @ Pipedream](https://rss.pipedream.com/) <sup>[534](https://t.me/s/aboutrss/534)</sup> [![Open-Source Software][oss icon]](https://github.com/PipedreamHQ/pipedream)![Freeware][freeware icon]
 
 ### Feed Analytics
 
@@ -519,6 +520,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [feedi](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/feedi)
 - [Substats](https://api.spencerwoo.com/substats/) <sup>[452](https://t.me/s/aboutrss/452), [470](https://t.me/s/aboutrss/470)</sup> : Serverless Function to Count How Many People are Subscribed to You in Your Favorite Services [![Open-Source Software][oss icon]](https://github.com/spencerwooo/Substats)
 - [Open Reader API](https://rss-sync.github.io/Open-Reader-API/): a common feed-syncing API protocol [![Open-Source Software][oss icon]](https://github.com/rss-sync/Open-Reader-API)
+- [FetchRSS API](https://fetchrss.com/api)
 
 ### RSS2SPEECH
 
