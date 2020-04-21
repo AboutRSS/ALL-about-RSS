@@ -13,7 +13,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ----
 
-> _If anything related to the item has been introduced in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss), it will be specified by a superscript number with link to that post in Channel._
+> _If anything related to the item has been introduced in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss), it will be specified by a superscript number with link to that post in Channel. Those superscripts start with letter "t" mean they are Twitter links._
 
 > _No particular order._
 
@@ -254,6 +254,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Realtime RSS feeds for _Hacker News_](https://hnrss.org) <sup>[465](https://t.me/s/aboutrss/465)</sup> [![Open-Source Software][oss icon]](https://github.com/edavis/hnrss)
 - [Feed Compass](https://vincode.io/feed-compass/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/feed-compass/id1458648487)[![Open-Source Software][oss icon]](https://github.com/vincode-io/FeedCompass)![Freeware][freeware icon]
 - [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software][oss icon]](https://github.com/guanguans/favorite-link)
+- [Feed43 Feeds List](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a subproject of 「ALL about RSS」.
 
 ### Aggerogators of Indieblogs
 
