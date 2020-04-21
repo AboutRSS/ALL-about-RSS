@@ -43,6 +43,8 @@ Yes, because of #NoCode. Well, almost #NoCode. That's the significant difference
 
 Feel free to help enlarge the collection or improve this page! Submit an edit!
 
+You can submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform) too.
+
 ## Acknowledgement
 
 With [Feedsearch](https://feedsearch.dev) API,  we can easily tell whether a certain Feed43 feed is active by checking its `item_count`. Thanks very much.
