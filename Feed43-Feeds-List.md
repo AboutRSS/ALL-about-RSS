@@ -2,38 +2,18 @@
 
 # A list of RSS feeds created by using [Feed43.com](https://feed43.com/)
 
-### Entertainment
-
-|  Feed Title  |  Feed URL  |  Item Count  |
-|  ----  | ----  | ---- |
-| 人人影视字幕下载 | https://node2.feed43.com/1625207886088602.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1625207886088602.xml)](https://node2.feed43.com/1625207886088602.xml) |
-
-### Travel
-
-|  Feed Title  |  Feed URL  |  Item Count  |
-|  ----  | ----  | ---- |
-| 美国攻略 « 实用可靠的美国生活知识 | https://node2.feed43.com/gonglueus.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgonglueus.xml)](https://node2.feed43.com/gonglueus.xml) |
-| 飞客茶馆 酒店优惠 | https://feed43.com/feikechaguan.xml | [![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffeikechaguan.xml)](https://node2.feed43.com/feikechaguan.xml) |
-
-### Video / Vlog
-
-- acfun: 交通事故video https://node2.feed43.com/accident.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Faccident.xml)
-
-### News
-
-- 事實查核報告 | 台灣事實查核中心 https://node2.feed43.com/0137438613414252.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0137438613414252.xml)
-
-### School / University
-
-- 上海对外经贸大学
-  - 教学通知 https://node2.feed43.com/5871420886087030.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5871420886087030.xml)
-  - 讲座 https://node2.feed43.com/0646022510746432.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0646022510746432.xml)
-  - 体育部最新公告 https://node2.feed43.com/6585477606105127.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6585477606105127.xml)
-  - 毕业专栏 https://node2.feed43.com/5205127887417633.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5205127887417633.xml)
-
-### Coding
-
-- MATLAB爱好者 https://node2.feed43.com/matlabaihaozhe.xml ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fmatlabaihaozhe.xml)
+|  Feed Title  |  Feed URL  |  Item Count  | Tags |
+|  ----  | ----  | ---- | ---- |
+| 人人影视字幕下载 | https://node2.feed43.com/1625207886088602.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1625207886088602.xml) | Entertainment |
+| 美国攻略 « 实用可靠的美国生活知识 | https://node2.feed43.com/gonglueus.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgonglueus.xml) |
+| 飞客茶馆 酒店优惠 | https://feed43.com/feikechaguan.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2Ffeikechaguan.xml) | Travel |
+| acfun: 交通事故video | https://node2.feed43.com/accident.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Faccident.xml) | Video; Society; |
+| 事實查核報告 台灣事實查核中心 | https://node2.feed43.com/0137438613414252.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0137438613414252.xml) | News |
+| 上海对外经贸大学 - 教学通知 | https://node2.feed43.com/5871420886087030.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5871420886087030.xml) | University |
+| 上海对外经贸大学 - 讲座 | https://node2.feed43.com/0646022510746432.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2F0646022510746432.xml) | University |
+| 上海对外经贸大学 - 体育部最新公告 | https://node2.feed43.com/6585477606105127.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6585477606105127.xml) | University |
+| 上海对外经贸大学 - 毕业专栏 | https://node2.feed43.com/5205127887417633.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2F5205127887417633.xml) | University |
+| MATLAB爱好者 | https://node2.feed43.com/matlabaihaozhe.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fmatlabaihaozhe.xml) | Coding |
 
 ## What is Feed43 ?
 
