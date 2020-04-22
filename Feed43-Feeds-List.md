@@ -4,7 +4,7 @@
 
 > You can submit en edit, or submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform).
 
-|  Feed Title  |  Feed URL  |  Item Count  | Tags |
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
 |  ----  | ----  | ---- | ---- |
 | 人人影视字幕下载 | https://node2.feed43.com/1625207886088602.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=Last%20updated%20on&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1625207886088602.xml) | Entertainment |
 | 美国攻略 « 实用可靠的美国生活知识 | https://node2.feed43.com/gonglueus.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=Last%20updated%20on&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgonglueus.xml) | Society; Life; |
