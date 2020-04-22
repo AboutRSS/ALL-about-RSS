@@ -16,6 +16,7 @@
 | 上海对外经贸大学 - 体育部最新公告 | https://node2.feed43.com/6585477606105127.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6585477606105127.xml) | University |
 | 上海对外经贸大学 - 毕业专栏 | https://node2.feed43.com/5205127887417633.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2F5205127887417633.xml) | University |
 | MATLAB爱好者 | https://node2.feed43.com/matlabaihaozhe.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fmatlabaihaozhe.xml) | Coding |
+| 累牍 | https://node2.feed43.com/1852414122613212.xml | ![](https://img.shields.io/badge/dynamic/json?color=orange&logo=rss&label=It%20has&query=%24%5B0%5D.item_count&suffix=%20entries&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1852414122613212.xml) | China; Media; |
 
 ## What is Feed43 ?
 
