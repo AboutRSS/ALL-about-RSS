@@ -40,7 +40,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Players](#players)
   - [Other Apps](#other-apps)
 - [Feed Resources/Providers](#feed-resourcesproviders)
-  - [Aggerogators of Indieblogs](#aggerogators-of-indieblogs)
+  - [Aggregators of Indieblogs](#aggregators-of-indieblogs)
 - [Free Servers](#free-servers)
   - [RSSHub](#rsshub)
   - [TTRSS](#ttrss)
@@ -256,7 +256,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software][oss icon]](https://github.com/guanguans/favorite-link)
 - [Feed43 Feeds List](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a subproject of 「ALL about RSS」.
 
-### Aggerogators of Indieblogs
+### Aggregators of Indieblogs
 
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
 - [中文博客RSS订阅](https://t.me/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
