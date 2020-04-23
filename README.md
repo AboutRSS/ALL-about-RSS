@@ -572,9 +572,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - RSSHub ([Channel](https://t.me/awesomeRSSHub) / [Group](https://t.me/rsshub)) <sup>[229](https://t.me/s/aboutrss/229)</sup>
 - [RSS 交流群](https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA) 
-- Online RSS Reader: Feeds.Pub ([Group](https://t.me/feedspub_chat))
+- Online RSS Reader: Feeds.Pub ([Channel](https://t.me/feedspub) / [Group](https://t.me/feedspub_chat))
 - RSS Reader App: 期待 - Angelia ([Group](https://t.me/angeliachat))
 - a Full Article Extractor Service: RSS屋 ([Group](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ))
+- iOS RSS Reader: Prime ([Group](https://t.me/meiyiumingzi))
 
 ## Posts by individuals
 
@@ -629,7 +630,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## Others
 
-- Figures / Developers <sup>[345](https://t.me/s/aboutrss/345)</sup>
+- Figures / Developers <sup>[345](https://t.me/s/aboutrss/345), [538](https://t.me/s/aboutrss/538)</sup>
 - [Is RSS dead?](http://isrssdead.com/) <sup>[376](https://t.me/s/aboutrss/376)</sup>
 
 # RSS × Podcast
