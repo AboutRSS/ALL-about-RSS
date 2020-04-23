@@ -708,7 +708,7 @@ Any contributions like suggestions and pull requests are welcome.
 
 ## Acknowledgement 
 
-- [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
+- [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
 - [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
 - [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 - [OpenSourceWeekly](https://opensourceweekly.org/)
