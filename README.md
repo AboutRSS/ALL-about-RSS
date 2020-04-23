@@ -5,7 +5,7 @@
 
 ----
 
-This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Contents mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss).
+This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Every single sentence in [isRSSdead.com](https://isrssdead.com) has been extended into exact apps, tools and services recorded in this list. Contents mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss). 
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
@@ -708,10 +708,11 @@ Any contributions like suggestions and pull requests are welcome.
 
 ## Acknowledgement 
 
-- [The Top 125 Rss Open Source Projects](https://awesomeopensource.com/projects/rss)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
+- [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
 - [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 - [OpenSourceWeekly](https://opensourceweekly.org/)
-- Icons: [SOFTICONS](https://www.softicons.com/) and [Icons8](https://icons8.com)
+- Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
 - [Substats API](https://substats.spencerwoo.com/)
 
 Thank you to all RSS supporters! It's you who have created these marvelous tools, apps, etc. and still keep bringing new ideas and innovation to the realm of RSS. Furthermore, thanks very much to members / followers of the 「AboutRSS」 channel / twitter account.
