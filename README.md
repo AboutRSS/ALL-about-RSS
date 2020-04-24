@@ -9,7 +9,7 @@ This is a list of all [RSS](https://en.wikipedia.org/wiki/RSS) stuff. Every sing
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
-Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/realSpencerWoo/63). But note that 「ALL about RSS」 is not an _Awesome list_. Any service/tool that functions well and maintained well can be listed here.
+Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an _Awesome list_. Any service/tool that functions well and maintained well can be listed here.
 
 ----
 
@@ -68,6 +68,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [FACEBOOK2RSS](#facebook2rss)
   - [GITHUB ISSUE2RSS](#github-issue2rss)
   - [MATTERS2RSS](#matters2rss)
+  - [ZHIHU2RSS](#zhihu2rss)
+  - [Comments of V2EX post 2 RSS](#comments-of-v2ex-post-2-rss)
   - [RSS2SLACK](#rss2slack)
   - [9GAG2RSS](#9gag2rss)
   - [Reddit RSS fix](#reddit-rss-fix)
@@ -176,6 +178,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software][oss icon]](https://github.com/sismics/reader)![Freeware][freeware icon]
 - [RSSOwlnix](https://github.com/Xyrio/RSSOwlnix) ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/Xyrio/RSSOwlnix)![Freeware][freeware icon]
 - [Vienna](https://www.vienna-rss.com/) [![Mac][Mac icon]](https://github.com/ViennaRSS/vienna-rss/releases/latest)[![Open-Source Software][oss icon]](https://github.com/ViennaRSS)
+- [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) <sup>[540](https://t.me/s/aboutrss/540) [![Windows][Windows icon]](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 
 ### Wechat Mini Apps
 
@@ -439,7 +442,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz)![Freeware][freeware icon]
 
-### Reply of V2EX post 2 RSS
+### Comments of V2EX post 2 RSS
 
 - [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz)![Freeware][freeware icon]
 
