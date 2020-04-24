@@ -4,19 +4,44 @@
 
 > You can submit en edit, or submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform).
 
+## zh-Hans
+
 |  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
 |  ----  | ----  | ---- | ---- |
 | 人人影视字幕下载 | https://node2.feed43.com/1625207886088602.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1625207886088602.xml) | Entertainment |
 | 美国攻略 « 实用可靠的美国生活知识 | https://node2.feed43.com/gonglueus.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgonglueus.xml) | Society; Life; |
 | 飞客茶馆 酒店优惠 | https://feed43.com/feikechaguan.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2Ffeikechaguan.xml) | Travel |
 | acfun: 交通事故video | https://node2.feed43.com/accident.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Faccident.xml) | Video; Society; |
-| 事實查核報告 台灣事實查核中心 | https://node2.feed43.com/0137438613414252.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0137438613414252.xml) | News |
 | 上海对外经贸大学 - 教学通知 | https://node2.feed43.com/5871420886087030.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5871420886087030.xml) | University |
 | 上海对外经贸大学 - 讲座 | https://node2.feed43.com/0646022510746432.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2F0646022510746432.xml) | University |
 | 上海对外经贸大学 - 体育部最新公告 | https://node2.feed43.com/6585477606105127.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6585477606105127.xml) | University |
 | 上海对外经贸大学 - 毕业专栏 | https://node2.feed43.com/5205127887417633.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Ffeed43.com%2F5205127887417633.xml) | University |
 | MATLAB爱好者 | https://node2.feed43.com/matlabaihaozhe.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fmatlabaihaozhe.xml) | Coding |
 | 累牍 | https://node2.feed43.com/1852414122613212.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1852414122613212.xml) | China; Media; |
+| Tag "RSS" on 少数派 | https://node2.feed43.com/2134534252708061.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F2134534252708061.xml) | Internet |
+
+## zh-Hant
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| 事實查核報告 台灣事實查核中心 | https://node2.feed43.com/0137438613414252.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0137438613414252.xml) | News |
+
+## en
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| EU Lodestone Topics | https://node2.feed43.com/euffxivtopics.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Feuffxivtopics.xml) | Entertainment |
+| Chess Futures Table | https://node2.feed43.com/chessfuturesalerts.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fchessfuturesalerts.xml) | Entertainment |
+| DigitalComicMuseum Stats | https://node2.feed43.com/0374187078107761.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0374187078107761.xml) | Entertainment; Comics |
+
+## ja
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| 鳥羽商船高等専門学校 | https://node2.feed43.com/3176718187868714.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3176718187868714.xml) | School |
+| 木更津工業高等専門学校 | https://node2.feed43.com/1805803848237031.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1805803848237031.xml) | School |
+| [Allランキング] ホビーサーチ | https://node2.feed43.com/5853740161276675.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5853740161276675.xml) | Entertainment; Anime; |
+| ニュース＆TOPICS│大阪産業大学 | https://node2.feed43.com/7828288464116471.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F7828288464116471.xml) | School |
 
 ## What is Feed43 ?
 
