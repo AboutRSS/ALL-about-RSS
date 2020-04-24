@@ -33,7 +33,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [RSS Readers](#rss-readers)
   - [Apps](#Apps)
-  - [Wechat Mini Apps](#wechat-mini-apps)
+  - [WeChat Mini Apps](#wechat-mini-apps)
   - [Hosted Readers](#hosted-readers)
   - [Self Hosted Readers](#self-hosted-readers)
   - [Terminal-based / programmable RSS Readers](#terminal-based--programmable-rss-readers)
@@ -655,7 +655,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Podcast Addict](https://www.facebook.com/podcastAddict/) <sup>[442](https://t.me/s/aboutrss/442)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en)
 - [Google Podcast](https://podcasts.google.com/) <sup>[473](https://t.me/s/aboutrss/473), [476](https://t.me/s/aboutrss/476), [482](https://t.me/s/aboutrss/482)</sup> [![Online][Online icon]](https://podcasts.google.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)[![][iPhone icon]](https://apps.apple.com/app/google-podcasts/id1398000105)
 - [The Podcast App](https://podcast.app/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.streema.podcast&hl=en)[![][iPhone icon]](https://itunes.apple.com/us/app/the-podcast-app/id1199070742?mt=8)
-- [Pocket Casts](https://www.pocketcasts.com/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online][Online icon]](https://play.pocketcasts.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)[![iOS][iPhone icon]](https://itunes.apple.com/au/app/pocket-casts/id414834813)![Freeware][freeware icon]
+- [Pocket Casts](https://www.pocketcasts.com/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online][Online icon]](https://play.pocketcasts.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)[![iOS][iPhone icon]](https://itunes.apple.com/au/app/pocket-casts/id414834813)
 - [AntennaPod](https://antennapod.org/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)[![Open-Source Software][oss icon]](https://github.com/antennapod/AntennaPod)![Freeware][freeware icon]
 - [MOON.FM](https://www.moon.fm/) <sup>[473](https://t.me/s/aboutrss/473), [531](https://t.me/s/aboutrss/531)</sup> [![Windows][Windows icon]](ms-windows-store://pdp/?productid=9NMDSZCGGXSJ)[![Mac][Mac icon]](https://apps.apple.com/us/app/moon-fm-premium-podcast-app/id1465712037?mt=12)![Linux][Linux icon][![iOS][iPhone icon]](https://itunes.apple.com/us/app/moon-fm/id1243771413)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.moon.app)
 - [小宇宙](https://xiaoyuzhoufm.com/) <sup>[477](https://t.me/s/aboutrss/477), [484](https://t.me/s/aboutrss/484), [486](https://t.me/s/aboutrss/486), [490](https://t.me/s/aboutrss/490), [531](https://t.me/s/aboutrss/531)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E5%B0%8F%E5%AE%87%E5%AE%99-%E4%B8%80%E8%B5%B7%E5%90%AC%E6%92%AD%E5%AE%A2/id1488894313)[![Android][Android icon]](https://xiaoyuzhoufm.com/)
