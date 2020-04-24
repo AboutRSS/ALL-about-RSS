@@ -36,7 +36,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Wechat Mini Apps](#wechat-mini-apps)
   - [Hosted Readers](#hosted-readers)
   - [Self Hosted Readers](#self-hosted-readers)
-  - [Terminal-based programmable RSS Readers](#terminal-based-programmable-rss-readers)
+  - [Terminal-based / programmable RSS Readers](#terminal-based--programmable-rss-readers)
   - [Players](#players)
   - [Other Apps](#other-apps)
 - [Feed Resources/Providers](#feed-resourcesproviders)
