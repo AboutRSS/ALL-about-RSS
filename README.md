@@ -594,7 +594,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Telegram Groups / Channels
 
 - RSSHub ([Channel](https://t.me/awesomeRSSHub) / [Group](https://t.me/rsshub)) <sup>[229](https://t.me/s/aboutrss/229)</sup>
-- [RSS 交流群](https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA)
+- [RSS 交流群](https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA) 
 - Online RSS Reader: Feeds.Pub ([Channel](https://t.me/feedspub) / [Group](https://t.me/feedspub_chat))
 - RSS Reader App: 期待 - Angelia ([Group](https://t.me/angeliachat))
 - a Full Article Extractor Service: RSS屋 ([Group](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ))
@@ -635,7 +635,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [JSON Feed](https://jsonfeed.org/) <sup>[259](https://t.me/s/aboutrss/259)</sup>
 - [V2EX](https://www.v2ex.com) <sup>[223](https://t.me/s/aboutrss/224), [234](https://t.me/s/aboutrss/234)</sup> : supports JSON Feed
-- [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
+- [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup> 
 - [Feedbin](https://feedbin.com/) <sup>[232](https://t.me/s/aboutrss/232)</sup> : supports JSON Feed ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
 - [RSS API](https://rssapi.net/) <sup>[279](https://t.me/s/aboutrss/279), [283](https://t.me/s/aboutrss/283)</sup> : Convert & subscribe to RSS, ATOM and JSON-Feeds via API
 - [jpmonette/feed](https://github.com/jpmonette/feed) <sup>[281](https://t.me/s/aboutrss/281)</sup> : A RSS, Atom and JSON Feed generator for Node.js
