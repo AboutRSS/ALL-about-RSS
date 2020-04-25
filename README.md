@@ -63,6 +63,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [RSS2NEWSLETTER](#rss2newsletter)
   - [NEWSLETTER2RSS / MAIL2RSS](#newsletter2rss--mail2rss)
   - [TWITTER2RSS](#twitter2rss)
+  - [RSS2TWITTER](#rss2twitter)
   - [INSTAGRAM2RSS](#instagram2rss)
   - [WeChat Subscription Accounts 2 RSS](#wechat-subscription-accounts-2-rss)
   - [FACEBOOK2RSS](#facebook2rss)
@@ -406,6 +407,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [Queryfeed](https://queryfeed.net/) <sup>[225](https://t.me/s/aboutrss/225)</sup>
 
+### RSS2TWITTER
+
+- [py-feedr](https://github.com/M157q/py-feedr): A Python parser to tweet the latest updates from multiple RSS feeds. [![Open-Source Software][oss icon]](https://github.com/M157q/py-feedr)
+
 ### INSTAGRAM2RSS
 
 - [Queryfeed](https://queryfeed.net/) <sup>[225](https://t.me/s/aboutrss/225)</sup>
@@ -561,6 +566,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [FeedBase](http://feedbase.io/) <sup>[495](https://t.me/s/aboutrss/495)</sup>
 - [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software][oss icon]](https://github.com/vincode-io/FeedCurator)![Freeware][freeware icon]
+- [RSS-OPML-to-Markdown](https://github.com/idealclover/RSS-OPML-to-Markdown) [![Open-Source Software][oss icon]](https://github.com/idealclover/RSS-OPML-to-Markdown)
 
 ### Other Tools
 
