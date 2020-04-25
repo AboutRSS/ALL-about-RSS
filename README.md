@@ -567,7 +567,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [FeedBase](http://feedbase.io/) <sup>[495](https://t.me/s/aboutrss/495)</sup>
 - [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software][oss icon]](https://github.com/vincode-io/FeedCurator)![Freeware][freeware icon]
-- [RSS-OPML-to-Markdown](https://github.com/idealclover/RSS-OPML-to-Markdown) [542](https://t.me/s/aboutrss/542) [![Open-Source Software][oss icon]](https://github.com/idealclover/RSS-OPML-to-Markdown)
+- [RSS-OPML-to-Markdown](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software][oss icon]](https://github.com/idealclover/RSS-OPML-to-Markdown)
 
 ### Other Tools
 
