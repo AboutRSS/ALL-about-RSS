@@ -48,6 +48,13 @@
 | 2019年纳院通知                 | https://node2.feed43.com/4060664865657750.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4060664865657750.xml) | School |
 | 微信_开发者工具更新日志              | https://node2.feed43.com/7870745136570860.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F7870745136570860.xml) | Internet |
 | 微信_基础库更新日志                | https://node2.feed43.com/5023138437102314.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5023138437102314.xml) | Internet |
+| 通知公告 - 广州市人民政府门户网站  | https://node2.feed43.com/gzgovtzgg.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fgzgovtzgg.xml) | Goverment |
+| 广州市中小客车指标调控竞价平台 | https://node2.feed43.com/1883106836527876.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F1883106836527876.xml) | Goverment; Society; |
+| 广州市中小客车指标调控管理信息系统 | https://node2.feed43.com/4041088627060161.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4041088627060161.xml) | Goverment; Society; |
+| PAZHOU - 琶洲网 - CANTONFAIR - 展览会 | https://node2.feed43.com/6514015745832273.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6514015745832273.xml) | Business |
+| 中国广州政府 市民办事最新服务 | https://node2.feed43.com/8535476120300802.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F8535476120300802.xml) | Goverment; Society; |
+| 中国海洋发展研究中心 - 通知公告 | https://node2.feed43.com/aocouc.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Faocouc.xml) | Individual |
+| 广东科学中心 | https://node2.feed43.com/4406614362230232.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4406614362230232.xml) | Education |
 | arleyzhang                | https://node2.feed43.com/2738718687802442.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F2738718687802442.xml) | Individual |
 
 ## zh-Hant
@@ -64,6 +71,22 @@
 | Chess Futures Table | https://node2.feed43.com/chessfuturesalerts.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fchessfuturesalerts.xml) | Entertainment |
 | DigitalComicMuseum Stats | https://node2.feed43.com/0374187078107761.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F0374187078107761.xml) | Entertainment; Comics; |
 | Forward Comic                          | https://node2.feed43.com/7487052648530856.xml       | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F7487052648530856.xml) | Entertainment; Comics; |
+| Shonen Jump - LATEST FREE CHAPTERS                              | https://node2.feed43.com/shonenjump.xml               | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fshonenjump.xml) |  |
+| VX Vault - ViriList.php                                         | https://node2.feed43.com/6448617806304553.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6448617806304553.xml) |  |
+| PhishTank knack's submissions                                   | https://node2.feed43.com/3737131755114352.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3737131755114352.xml) |  |
+| Release Notes | Oracle Cloud Infrastructure                     | https://node2.feed43.com/4005088408130100.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4005088408130100.xml) |  |
+| URLhaus Database                                                | https://node2.feed43.com/7253167050382184.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F7253167050382184.xml) |  |
+| Recently Reported Addresses - BitcoinAbuse                      | https://node2.feed43.com/8254054434882027.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F8254054434882027.xml) |  |
+| Crunchyroll - Crunchyroll Manga                                 | https://node2.feed43.com/5176373627633072.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5176373627633072.xml) |  |
+| Ayashige provides a list of suspicious newly registered domains | https://node2.feed43.com/6070261718377574.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F6070261718377574.xml) |  |
+| News Archives - Limerick Post Newspaper                         | https://node2.feed43.com/limerick-post-news.xml       | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Flimerick-post-news.xml) | News |
+| Freedom Quote Of The Day                                        | https://node2.feed43.com/freedomquoteday.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffreedomquoteday.xml) |  |
+| Dev Tracker - SWTOR                                             | https://node2.feed43.com/swtor-devtracker.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fswtor-devtracker.xml) |  |
+| The Aviation Herald Crashes                                     | https://node2.feed43.com/avherald-crash.xml           | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Favherald-crash.xml) |  |
+| Simple Desktops Wallpapers                                      | https://node2.feed43.com/simpledesktop-wallpapers.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fsimpledesktop-wallpapers.xml) |  |
+| BlackBerry/TCL Firmware Builds Releases                         | https://node2.feed43.com/2344688755428562.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F2344688755428562.xml) |  |
+| Legible News                                                    | https://node2.feed43.com/3068865104604836.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3068865104604836.xml) | News |
+| Papers with Code latest                                         | https://node2.feed43.com/paper_with_code.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fpaper_with_code.xml) |  |
 
 ## ja
 
@@ -85,6 +108,35 @@
 | ひろかずのブログ                               | https://node2.feed43.com/hirokazu-blog.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fhirokazu-blog.xml) | Internet |
 | mihoチャネル                               | https://node2.feed43.com/3075133122735608.xml       | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3075133122735608.xml) |   |
 | 愛媛県警察 行方不明者情報                          | https://node2.feed43.com/ehime-missing-info.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fehime-missing-info.xml) | Society |
+
+## fr
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| Gérard Leclerc au jour le jour - France Catholique | https://node2.feed43.com/francecatho-leclercdaily.xml  | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffrancecatho-leclercdaily.xml) |   |
+| Actu du Conseil d'Etat                             | https://node2.feed43.com/actu_ce.xml                   | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Factu_ce.xml) |   |
+| Gérard Leclerc - France Catholique                 | https://node2.feed43.com/francecatho-leclerc.xml       | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffrancecatho-leclerc.xml) |   |
+| L’article du jour - France Catholique              | https://node2.feed43.com/francecatho-articledujour.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Ffrancecatho-articledujour.xml) |   |
+
+## it
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| Notizie e Comunicati Stampa                                  | https://node2.feed43.com/5404465225287766.xml    | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5404465225287766.xml) |   |
+| News Papa Francesco - Tutte le ultime notizie - Vatican News | https://node2.feed43.com/vaticannews-it_papa.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fvaticannews-it_papa.xml) |   |
+
+## de
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| "Rechtsextremismus" im Sächsischen Landtag | https://node2.feed43.com/4324814215236228.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4324814215236228.xml) |   |
+
+## es
+
+|  Feed Title  |  Feed URL  |  Last-updated Time  | Tags |
+|  ----  | ----  | ---- | ---- |
+| x Bs As - El Mensajero de la Costa | https://node2.feed43.com/5078080403058817.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5078080403058817.xml) |   |
+| Argentina unida Datasets                                                        | https://node2.feed43.com/4830242255882261.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4830242255882261.xml) |   |
 
 ## What is Feed43 ?
 
