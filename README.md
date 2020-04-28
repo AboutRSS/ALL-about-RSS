@@ -138,7 +138,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - Palabre Feedly RSS Reader News <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.levelup.palabre)
 - [Newsfold](http://mvilla.it/newsfold/) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=it.mvilla.android.quote)
 - [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)
-  - [The Unreader](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148) <sup>[394](https://t.me/s/aboutrss/394)</sup> : a Feedbin Clilent [![][iPhone icon]](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148)
+  - [The Unreader](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148) <sup>[394](https://t.me/s/aboutrss/394)</sup> : a Feedbin Client [![][iPhone icon]](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148)
 - [Inoreader](https://www.inoreader.com/) <sup>[171](https://t.me/s/aboutrss/171), [172](https://t.me/s/aboutrss/172), [317](https://t.me/s/aboutrss/317), [319](https://t.me/s/aboutrss/319), [358](https://t.me/s/aboutrss/358), [489](https://t.me/s/aboutrss/489), [512](https://t.me/s/aboutrss/512)</sup>
 ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
 - [irreader](http://irreader.fatecore.com/) <sup>[173](https://t.me/s/aboutrss/173)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Freeware][freeware icon]
@@ -426,6 +426,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### TWITTER2RSS
 
 - [Queryfeed](https://queryfeed.net/) <sup>[225](https://t.me/s/aboutrss/225)</sup>
+- [TwitRSS](http://twitrss.me/) [![Open-Source Software][oss icon]](https://github.com/ciderpunx/twitrssme)![Freeware][freeware icon]
 
 ### RSS2TWITTER
 
