@@ -70,7 +70,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [almost everything](#almost-everything)
     - [webpage/html](#webpagehtml)
     - [search results](#search-results)
-    - [newsletters/mail](#newslettersmail)
+    - [newsletter/mail](#newslettermail)
     - [webhook](#webhook)
   - [specifically from (_a certain platform_)](#specifically-from-a-certain-platform)
     - [Twitter](#twitter)
