@@ -97,6 +97,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [RSS2ACTIVITYPUB](#rss2activitypub)
   - [RSS2SPEECH](#rss2speech)
   - [RSS2Notion (feature request)](#rss2Notion)
+  - [RSS2WIDGET](#rss2widget)
 - [RSS feed customization/enhancement](#rss-feed-customizationenhancement)
   - [Reddit RSS fix](#reddit-rss-fix)
   - [Tumblr RSS fix](#tumblr-rss-fix)
@@ -104,7 +105,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [WordPress plugins](#wordpress-plugins)
   - [Feed item filtering](#feed-item-filtering)
   - [Combine multiple feeds into one](#combine-multiple-feeds-into-one)
-  - [Widget to display RSS feed items](#widget-to-display-rss-feed-items)
 - [Ease RSS feed subscribing process](#ease-rss-feed-subscribing-process)
   - [RSS Feed Finding/Detection](#rss-feed-findingdetection)
   - [iOS shortcut](#ios-shortcut)
@@ -569,6 +569,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - Feature Request <sup>[461](https://t.me/s/aboutrss/461)</sup>
 
+### RSS2WIDGET
+
+- [feedwind](https://feed.mikle.com/) <sup>[233](https://t.me/s/aboutrss/233)</sup>
+- [Feedzy RSS Feeds for WordPress](https://themeisle.com/plugins/feedzy-rss-feeds/) <sup>[239](https://t.me/s/aboutrss/239)</sup>
+- [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273)</sup>
+- [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
+- [Feedspot](https://www.feedspot.com/)![Online][Online icon]
+- [MOONMOON](https://moonmoon.org/) [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon)
+
 ## RSS feed customization/enhancement
 
 ### Reddit RSS fix
@@ -602,15 +611,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Mixer](http://rssmixer.com/) <sup>[250](https://t.me/s/aboutrss/250)</sup>
 - [FEED.INFORMER](http://feed.informer.com/) <sup>[250](https://t.me/s/aboutrss/250)</sup>
 - [Feedspot’s RSSCombiner](https://www.feedspot.com/rsscombiner/) <sup>[311](https://t.me/s/aboutrss/311)</sup>
-
-### Widget to display RSS feed items
-
-- [feedwind](https://feed.mikle.com/) <sup>[233](https://t.me/s/aboutrss/233)</sup>
-- [Feedzy RSS Feeds for WordPress](https://themeisle.com/plugins/feedzy-rss-feeds/) <sup>[239](https://t.me/s/aboutrss/239)</sup>
-- [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273)</sup>
-- [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
-- [Feedspot](https://www.feedspot.com/)![Online][Online icon]
-- [MOONMOON](https://moonmoon.org/) [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon)
 
 ## Ease RSS feed subscribing process
 
