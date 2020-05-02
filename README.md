@@ -5,7 +5,7 @@
 
 ----
 
-This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every single sentence in [isRSSdead.com](https://isrssdead.com) has been extended into exact apps, tools and services recorded in this list. Contents mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss). 
+This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every single sentence in [isRSSdead.com](http://isrssdead.com) has been extended into exact apps, tools and services recorded in this list. Contents mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss). 
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20members&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Daboutrss&logo=twitter)](https://twitter.com/aboutrss)
 
@@ -39,7 +39,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Terminal-based / programmable RSS Readers](#terminal-based--programmable-rss-readers)
   - [Players](#players)
   - [Other Apps](#other-apps)
-- [Feed Resources/Providers](#feed-resourcesproviders)
+- [Feed Resources/Providers/Recommendations](#feed-resourcesprovidersrecommendations)
   - [Aggregators of Indieblogs](#aggregators-of-indieblogs)
 - [Free Servers](#free-servers)
   - [RSSHub](#rsshub)
@@ -60,6 +60,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [RSS Feed Finding](#rss-feed-finding)
   - [Almost EVERYTHING2RSS](#almost-everything2rss)
   - [PAGE2RSS / HTML2RSS](#page2rss--html2rss)
+  - [Search Results 2 RSS](#search-results-2-rss)
   - [RSS2MAIL](#rss2mail)
   - [RSS2NEWSLETTER](#rss2newsletter)
   - [NEWSLETTER2RSS / MAIL2RSS](#newsletter2rss--mail2rss)
@@ -256,14 +257,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Zotero](https://zotero.org) <sup>[451](https://t.me/s/aboutrss/451)</sup> ![Online][Online icon]![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon]
 - [sensor.feedparser](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software][oss icon]](https://github.com/custom-components/feedparser)
 
-## Feed Resources/Providers
+## Feed Resources/Providers/Recommendations
 
 - [上下闻](https://news.mindynode.com/zh/) <sup>[111](https://t.me/s/aboutrss/111)</sup> [![Open-Source Software][oss icon]](https://github.com/josherich/RSS-ORG)
 - [Henix's feeds](https://henix.github.io/feeds/) <sup>[186](https://t.me/s/aboutrss/186)</sup>
 - [MusicButler](https://www.musicbutler.io/) <sup>[187](https://t.me/s/aboutrss/187)</sup> : lets you know when your favorite musicians and bands have released new music.
 - [rss-源共享](https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB) <sup>[191](https://t.me/s/aboutrss/191)</sup>
 - [HK TV series feed for RSS Player](http://allenlow.com/blog/2019/09/22/%E6%B8%AF%E5%89%A7rss-player%E5%90%8E%E5%A4%87rss%E9%93%BE%E6%8E%A5%E5%88%86%E4%BA%AB/) <sup>[270](https://t.me/s/aboutrss/270)</sup>
-- [Google Alerts](https://www.google.com/alerts) <sup>[303](https://t.me/s/aboutrss/303)</sup>
 - [远程工作职位的 rss 聚合](http://dynamic.yuanjingtech.com/rss/remote-work-jobs.xml) <sup>[320](https://t.me/s/aboutrss/320)</sup>
 - Personal Feed Recommendation <sup>[313](https://t.me/s/aboutrss/313), [338](https://t.me/s/aboutrss/338)</sup>
 - [RSS Kubernetes](https://t.me/rss_kubernetes) <sup>[401](https://t.me/s/aboutrss/401)</sup>
@@ -274,6 +274,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software][oss icon]](https://github.com/guanguans/favorite-link)
 - [Feed43 Feeds List](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.
 - [RSS-IT人](https://github.com/Gracker/Rss-IT)
+- [软件开发相关RSS源推荐](https://blog.liyaodong.com/posts/rss-list-for-software-development/) <sup>[557](https://t.me/s/aboutrss/557)</sup>
 
 ### Aggregators of Indieblogs
 
@@ -388,7 +389,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS button for Safari](https://rss-extension.bitpiston.com/) <sup>[321](https://t.me/s/aboutrss/321), [414](https://t.me/s/aboutrss/414)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/rss-button-for-safari/id1437501942?ls=1&mt=12)
 - [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss) <sup>[321](https://t.me/s/aboutrss/321)</sup>  [![Open-Source Software][oss icon]](https://github.com/shgysk8zer0/awesome-rss) [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/)
 - [Feedbro](https://nodetics.com/feedbro/) <sup>[321](https://t.me/s/aboutrss/321)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa) [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/feedbroreader/)
-- [Want My RSS](https://github.com/Reeywhaar/want-my-rss) [![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/want-my-rss/)
+- [Want My RSS](https://github.com/Reeywhaar/want-my-rss) <sup>[558](https://t.me/s/aboutrss/558)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/want-my-rss/)[![Open-Source Software][oss icon]](https://github.com/Reeywhaar/want-my-rss)
 
 ### Almost EVERYTHING2RSS
 
@@ -405,7 +406,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [FetchRSS](http://fetchrss.com/) <sup>[248](https://t.me/s/aboutrss/248), [427](https://t.me/s/aboutrss/427)</sup>
 - [Inoreader](https://www.inoreader.com/) <sup>[508](https://t.me/s/aboutrss/508)</sup>
 ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
-- [PolitePol](http://politepol.com/) [![Open-Source Software][oss icon]](https://github.com/taroved/pol)
+- [PolitePol](http://politepol.com/) [![Open-Source Software][oss icon]](https://github.com/taroved/pol) <sup>[556](https://t.me/s/aboutrss/556)</sup>
+
+### Search Results 2 RSS
+
+- [Google Alerts](https://www.google.com/alerts) <sup>[303](https://t.me/s/aboutrss/303)</sup>
 
 ### RSS2MAIL
 
@@ -503,7 +508,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/) <sup>[268](https://t.me/s/aboutrss/268)</sup> [![][Chrome icon]](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
 - [RSS of only top-level comments](https://www.reddit.com/r/rss/comments/ekffc2/is_it_possible_to_have_an_rss_of_only_toplevel/) <sup>[341](https://t.me/s/aboutrss/341)</sup>
-- [reddit.0qz.fun](https://reddit.0qz.fun/) <sup>[555](https://t.me/s/aboutrss/555)</sup>
+- [reddit.0qz.fun](https://reddit.0qz.fun/) <sup>[555](https://t.me/s/aboutrss/555)</sup>: improved reddit rss feed supports videos, gifs, and images
 
 ### Tumblr RSS fix
 
@@ -640,6 +645,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - RSS Reader App: 期待 - Angelia ([Group](https://t.me/angeliachat))
 - a Full Article Extractor Service: RSS屋 ([Group](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ))
 - iOS RSS Reader: Prime ([Group](https://t.me/meiyiumingzi))
+- a Page2RSS service: PolitePol ([Group](https://t.me/joinchat/FuHC1Q-m9ZL7wu_aSmY8PA))
+- [Inoreader 交流群](https://t.me/joinchat/EqQ3nEOEbMHqQHLd6ai-SQ)
 
 ## Posts by individuals
 
