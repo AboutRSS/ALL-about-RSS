@@ -23,9 +23,9 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Freeware][freeware icon]  | Totally free |
 | ![Online][Online icon] | Web service available, with link to its official webpage |
 | ![Windows][Windows icon]  | for Windows, with link to its download page |
-| ![Mac][Mac icon]  | for Mac OS, with link to its Apple stpre page |
-| ![Linux][Linux icon]  | for Linux system, with link to its Apple store page |
-| ![iOS][iPhone icon]  | for iOS/iPadOS, with link to its iOS/iPadOS download page |
+| ![Mac][Mac icon]  | for Mac OS, with link to its Apple store page |
+| ![Linux][Linux icon]  | for Linux system, with link to its offical download page |
+| ![iOS][iPhone icon]  | for iOS/iPadOS, with link to its Apple store page |
 | ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
