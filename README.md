@@ -19,15 +19,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 |  Icon  |  Annotation  |
 |  ----  | ----  |
-| ![Open-Source Software][oss icon]  | Open-source software |
+| ![Open-Source Software][oss icon]  | Open-source software with link to its repo if it has |
 | ![Freeware][freeware icon]  | Totally free |
-| ![Online][Online icon] | Web service available |
-| ![Windows][Windows icon]  | for Windows |
-| ![Mac][Mac icon]  | for Mac OS |
-| ![Linux][Linux icon]  | for Linux system |
-| ![iOS][iPhone icon]  | for iOS/iPadOS |
-| ![Chrome][Chrome icon]  | Chrome app or extension available |
-| ![Firefox][Firefox icon]  | Firefox Add-on available |
+| ![Online][Online icon] | Web service available, with link to its official webpage |
+| ![Windows][Windows icon]  | for Windows, with link to its download page |
+| ![Mac][Mac icon]  | for Mac OS, with link to its Apple stpre page |
+| ![Linux][Linux icon]  | for Linux system, with link to its Apple store page |
+| ![iOS][iPhone icon]  | for iOS/iPadOS, with link to its iOS/iPadOS download page |
+| ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
+| ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
 | ![Video][Video icon]  | It's a Video/Vlog |
 
@@ -39,6 +39,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Terminal-based / programmable RSS Readers](#terminal-based--programmable-rss-readers)
   - [Players](#players)
   - [Other Apps](#other-apps)
+  - [TestFlight](#testflight)
 - [Free Servers](#free-servers)
   - [RSSHub](#rsshub)
   - [TTRSS](#ttrss)
@@ -91,6 +92,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [RSS2SPEECH](#rss2speech)
   - [RSS2Notion (feature request)](#rss2Notion)
   - [RSS2WIDGET](#rss2widget)
+  - [RSS2ARCHIVE](#rss2archive)
 - [RSS feed customization/enhancement](#rss-feed-customizationenhancement)
   - [Reddit RSS fix](#reddit-rss-fix)
   - [Tumblr RSS fix](#tumblr-rss-fix)
@@ -237,7 +239,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### Self Hosted Readers
 
-- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
+- [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444), [559](https://t.me/s/aboutrss/559)</sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
 - [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/s/aboutrss/23), [304](https://t.me/s/aboutrss/304), [348](https://t.me/s/aboutrss/348), [435](https://t.me/s/aboutrss/435)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/FreshRSS)
 - [rss-web](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/s/aboutrss/87)</sup> [![Open-Source Software][oss icon]](https://github.com/sin1ght/rss-web)
 - [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software][oss icon]](https://github.com/SSilence/selfoss)
@@ -271,6 +273,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [Zotero](https://zotero.org) <sup>[451](https://t.me/s/aboutrss/451)</sup> ![Online][Online icon]![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon]
 - [sensor.feedparser](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software][oss icon]](https://github.com/custom-components/feedparser)
+
+### TestFlight
+
+- [RSS Reader Prime](https://testflight.apple.com/join/7GwtCsAs)
+- [期待 - Angelia](https://testflight.apple.com/join/i37NXl07)
 
 ## Free Servers
 
@@ -349,7 +356,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ## Workflow Automation
 
 - [Pipes](https://www.pipes.digital/) <sup>[526](https://t.me/s/aboutrss/526)</sup> [![Open-Source Software][oss icon]](https://github.com/pipes-digital/pipes)
-- [IFTTT](https://ifttt.com) <sup>[260](https://t.me/s/aboutrss/260), [436](https://t.me/s/aboutrss/436)</sup>
+- [IFTTT](https://ifttt.com) <sup>[260](https://t.me/s/aboutrss/260), [436](https://t.me/s/aboutrss/436), [561](https://t.me/s/aboutrss/561)</sup>
 - [Huginn](https://github.com/huginn/huginn) <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn)
 - [Platypush](https://platypush.readthedocs.io/en/latest/) <sup>[315](https://t.me/s/aboutrss/315)</sup> [![Open-Source Software][oss icon]](https://github.com/BlackLight/platypush)
 - [Zapier](https://zapier.com) <sup>[436](https://t.me/s/aboutrss/436)</sup>
@@ -519,6 +526,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedly action for Google Assistant](https://blog.feedly.com/hey-google-talk-to-feedly/) <sup>[292](https://t.me/s/aboutrss/292)</sup>
 - [Narro](https://www.narro.co/rss-feeds) <sup>[412](https://t.me/s/aboutrss/412)</sup>
 - Plenary <sup>[516](https://t.me/s/aboutrss/516)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.spians.plenary)
+- [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSS2NOTION
 
@@ -532,6 +540,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
 - [Feedspot](https://www.feedspot.com/)![Online][Online icon]
 - [MOONMOON](https://moonmoon.org/) [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon)
+
+### RSS2ARCHIVE
+
+- [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox)
 
 ## RSS feed customization/enhancement
 
@@ -763,6 +775,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Player FM](https://player.fm/) ![Online][Online icon][![iOS][iPhone icon]](https://itunes.apple.com/us/app/podcast-app-by-player-fm/id940568467?mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=fm.player)
 - [bullhorn](https://www.bullhorn.fm/) ![Online][Online icon][![iOS][iPhone icon]](https://apps.apple.com/us/app/bullhorn/id1322513763)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.carrierx.bullhorn&hl=en&referrer=utm_source%3Dko_65915e9b19601d15d%26utm_medium%3D1%26utm_campaign%3Dkobulllhorn-android-o3mo5799cac81c4643%26utm_term%3D%26utm_content%3D%26)
 - [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
+- [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+- [Cosmicast](https://twitter.com/cosmicastapp) <sup>[564](https://t.me/s/aboutrss/564)</sup> [![iOS][iPhone icon]](https://apps.apple.com/gb/app/cosmicast/id1435195637)[![Open-Source Software][oss icon]](https://github.com/Tigorn/Cosmicast)
 
 ## Aggregators of Podcasts / Podcast Navigation
 
@@ -772,6 +786,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)
 - [Han-language Podcast on Twitter](https://twitter.com/aboutRSS/lists/list1)
 - [播客 × 万花筒](https://pod.wht.one/)
+
+## Podcast Feed Customization
+
+- [Listen Notes](https://www.listennotes.com/) <sup>[522](https://t.me/s/aboutrss/522)</sup>
+- [huffduffer](https://huffduffer.com/) <sup>[562](https://t.me/s/aboutrss/562)</sup>
 
 ## Podcast Statistics
 
