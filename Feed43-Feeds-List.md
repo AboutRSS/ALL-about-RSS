@@ -2,7 +2,7 @@
 
 # A list of RSS feeds created by using [Feed43.com](https://feed43.com/)
 
-> You can submit en edit, or submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform).
+> You can submit an edit, or submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform).
 
 ## zh-Hans
 
@@ -87,6 +87,7 @@
 | BlackBerry/TCL Firmware Builds Releases                         | https://node2.feed43.com/2344688755428562.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F2344688755428562.xml) |  |
 | Legible News                                                    | https://node2.feed43.com/3068865104604836.xml         | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3068865104604836.xml) | News |
 | Papers with Code latest                                         | https://node2.feed43.com/paper_with_code.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fpaper_with_code.xml) |  |
+| [Flipboard] CR News - All Stories                                 | https://ellation.feed43.com/0575755464020530.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fellation.feed43.com%2F0575755464020530.xml) | Anime; Entertainment;  |
 
 ## ja
 
@@ -108,6 +109,12 @@
 | ひろかずのブログ                               | https://node2.feed43.com/hirokazu-blog.xml          | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fhirokazu-blog.xml) | Internet |
 | mihoチャネル                               | https://node2.feed43.com/3075133122735608.xml       | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3075133122735608.xml) |   |
 | 愛媛県警察 行方不明者情報                          | https://node2.feed43.com/ehime-missing-info.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fehime-missing-info.xml) | Society |
+| [Allランキング] ホビーサーチ                          | https://node2.feed43.com/5853740161276675.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F5853740161276675.xml) |  |
+| 開店閉店（愛媛）                     | https://node2.feed43.com/kaiten-heiten_ehime.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fkaiten-heiten_ehime.xml) |  |
+| 新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療（中国・四国・九州地方） | https://node2.feed43.com/online_shinryo_03.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fonline_shinryo_03.xml) | News;Society; |
+| 新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療（中部・近畿地方） | https://node2.feed43.com/online_shinryo_02.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fonline_shinryo_02.xml) | News;Society; |
+| 新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療（北海道・東北・関東地方） | https://node2.feed43.com/online_shinryo_01.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Fonline_shinryo_01.xml) | News;Society; |
+| 長岡工業高等専門学校新着情報RSS | https://node2.feed43.com/3507544017658513.xml     | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F3507544017658513.xml) | School |
 
 ## fr
 
