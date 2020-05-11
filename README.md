@@ -149,7 +149,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Stalker](https://blog.richasy.cn/document/rss/) <sup>[33](https://t.me/s/aboutrss/33), [68](https://t.me/s/aboutrss/68)</sup> [![Windows][Windows icon]](https://www.microsoft.com/store/productId/9N85PV1RJD6V)
 - [Winds](https://getstream.io/winds/) <sup>[90](https://t.me/s/aboutrss/90)</sup> [![Online][Online icon]](https://winds.getstream.io/)![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/getstream/winds/)
 - [Readon](https://starkrimson.github.io/2017/09/06/ReadOnIntroduction/) <sup>[113](https://t.me/s/aboutrss/113)</sup> [![][iPhone icon]](https://itunes.apple.com/us/app/readon-%E4%B8%80%E4%B8%AA-rss-%E9%98%85%E8%AF%BB%E5%99%A8/id1212717344?l=zh&ls=1&mt=8)
-- [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+- [FeedMe](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 - Rolly RSS Reader <sup>[140](https://t.me/s/aboutrss/140)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.blend.rolly)
 - [News+](http://noinnion.com/newsplus/) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.noinnion.android.newsplus) [![Open-Source Software][oss icon]](https://github.com/noinnion/newsplus)
 - [Readably](https://twitter.com/readablyapp) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.isaiasmatewos.readably)
@@ -204,6 +204,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) <sup>[540](https://t.me/s/aboutrss/540)</sup> [![Windows][Windows icon]](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 - [深蓝阅读 bluereader](https://bluereader.org/) [![Online][Online icon]](https://bluereader.org/login)[![iOS][iPhone icon]](https://itunes.apple.com/cn/app/shen-lan-yue-du/id793002024?ls=1&mt=8)[![Android][Android icon]](https://bluereader.org/app)
 - [RSS Guard](https://github.com/martinrotter/rssguard) <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard)![Freeware][freeware icon]
+- [NewsWave](https://newswaveapp.com/) <sup>[584](https://t.me/s/aboutrss/584)</sup> [![iOS][iPhone icon]](https://itunes.apple.com/us/app/newswave/id1373172727?ls=1&mt=8)
 
 ### Wechat Mini Apps
 
@@ -288,17 +289,17 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSSHub
 
-- https://uneasy.win/rss/ by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup>
-- https://rsshub.ioiox.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497)</sup>
-- https://rss.shab.fun/ by [MYELF](https://myelf.club/) <sup>[550](https://t.me/s/aboutrss/550)</sup>
+- https://uneasy.win/rss/ by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Funeasy.win%2Frss%2F)
+- https://rsshub.ioiox.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.ioiox.com%2F)
+- https://rss.shab.fun/ by [MYELF](https://myelf.club/) <sup>[550](https://t.me/s/aboutrss/550)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.shab.fun%2F)
 
 ### TTRSS
 
-- https://rss.ioiox.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497)</sup>
+- https://rss.ioiox.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.ioiox.com%2F)
 
 ### FreshRSS
 
-- https://rss.othing.xyz/ <sup>[518](https://t.me/s/aboutrss/518)</sup>
+- https://rss.othing.xyz/ <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F)
 
 ### RSS-Bridge
 
@@ -310,6 +311,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [ttrss-theme-rsshub](https://github.com/DIYgod/ttrss-theme-rsshub) <sup>[302](https://t.me/s/aboutrss/302)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/ttrss-theme-rsshub)
 - [Pink-Feedly Theme for Tiny Tiny RSS](https://t.me/s/realSpencerWoo/85) <sup>[439](https://t.me/s/aboutrss/439)</sup> [![Open-Source Software][oss icon]](https://gist.github.com/spencerwooo/60d15d83737542f11845bcc4742f9510#gistcomment-3158254)
+- [Tiny Tiny RSS Feedlish Theme](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software][oss icon]](https://github.com/Gravemind/tt-rss-feedlish-theme)
 
 ### DEVONthink
 
@@ -370,6 +372,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Zapier](https://zapier.com) <sup>[436](https://t.me/s/aboutrss/436)</sup>
 - [Power Automate](https://flow.microsoft.com/) <sup>[521](https://t.me/s/aboutrss/521)</sup>
 - [RSS for Hackers @ Pipedream](https://rss.pipedream.com/) <sup>[534](https://t.me/s/aboutrss/534)</sup> [![Open-Source Software][oss icon]](https://github.com/PipedreamHQ/pipedream)![Freeware][freeware icon]
+- [n8n.io](https://n8n.io/) [![Open-Source Software][oss icon]](https://github.com/n8n-io/n8n)
 
 ## Information Aggregators
 
