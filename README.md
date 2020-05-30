@@ -329,7 +329,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### FreshRSS
 
-- https://rss.othing.xyz/ <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F)
+- https://rss.othing.xyz/ by [yzqzss | 一座桥在水上](blog.othing.xyz) <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F)
 
 ### RSS-Bridge
 
