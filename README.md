@@ -31,6 +31,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
 | ![Video][Video icon]  | It's a Video/Vlog |
 
+- [RSS Specification Extension](#rss-specification-extension)
 - [RSS Readers](#rss-readers)
   - [Apps](#Apps)
   - [WeChat Mini Apps](#wechat-mini-apps)
@@ -77,11 +78,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [9GAG](#9gag)
     - [Hacker News](#hacker-news)
     - [iTunes](#itunes)
+    - [SoundCloud](#soundcloud)
     - [Links on social streams](#links-on-social-streams)
     - [Weibo (微博)](#weibo-%E5%BE%AE%E5%8D%9A)
     - [WeChat Subscription Accounts (微信公众号)](#wechat-subscription-accounts-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)
     - [Zhihu (知乎)](#zhihu-%E7%9F%A5%E4%B9%8E)
     - [Comments of V2EX post](#comments-of-v2ex-post)
+  - [RSS Editor](#rsseditor)
 - [Information spreading/forwarding via RSS feeds](#information-spreadingforwarding-via-rss-feeds)
   - [RSS2KINDLE](#rss2kindle)
   - [RSS2MAIL](#rss2mail)
@@ -146,6 +149,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [License](#license)
 
 ----
+
+## RSS Specification Extension
+
+- [Media RSS Specification](https://www.rssboard.org/media-rss)
+- [GeoRSS](http://www.georss.org/) <sup>[657](https://t.me/s/aboutrss/657)</sup>
 
 ## RSS Readers
 
@@ -217,6 +225,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r/) <sup>[611](https://t.me/s/aboutrss/611)</sup> [![Windows][Windows icon]](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r/)
 - [Feeds by Felfele](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS][iPhone icon]](https://testflight.apple.com/join/icUTHYbo)[![Android][Android icon]](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software][oss icon]](https://github.com/felfele/feeds)![Freeware][freeware icon]
 - [gReader](http://noinnion.com/greader/) <sup>[627](https://t.me/s/aboutrss/627)</sup> [![Android][Android icon]](https://github.com/noinnion/greader/tree/master/apk)[![Open-Source Software][oss icon]](https://github.com/noinnion/greader/)
+- Ego Reader <sup>[651](https://t.me/s/aboutrss/651)</sup> [![iOS][iPhone icon]](https://apps.apple.com/cn/app/ego-reader-rss%E9%98%85%E8%AF%BB%E5%99%A8/id1509189573)
 
 ### Wechat Mini Apps
 
@@ -440,6 +449,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
 - [PolitePol](http://politepol.com/) [![Open-Source Software][oss icon]](https://github.com/taroved/pol) <sup>[556](https://t.me/s/aboutrss/556)</sup>
 - [FeedOcean](https://feedocean.com/) <sup>[594](https://t.me/s/aboutrss/594)</sup>
+- [Feed Creater 2.0](https://createfeed.fivefilters.org/) <sup>[650](https://t.me/s/aboutrss/650)</sup>
 
 #### search results
 
@@ -504,6 +514,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 #### Itunes
 
 - [Itunes to RSS by PodShows](https://podshows.fr/itunesrss) <sup>[314](https://t.me/s/aboutrss/314)</sup>
+- [GetRSSfeed](http://getrssfeed.com/) <sup>[656](https://t.me/s/aboutrss/656)</sup>
+
+#### SoundCloud
+
+- [GetRSSfeed](http://getrssfeed.com/) <sup>[656](https://t.me/s/aboutrss/656)</sup>
 
 #### Links on social streams
 
@@ -536,6 +551,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 #### Comments of V2EX post
 
 - [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz)![Freeware][freeware icon]
+
+### RSS Editor
+
+- [RSSme](http://www.amlpages.com/rssme.shtml) <sup>[649](https://t.me/s/aboutrss/649)</sup> ![Freeware][freeware icon]
 
 ## Information spreading/forwarding via RSS feeds
 
@@ -602,7 +621,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273)</sup>
 - [elink](https://elink.io/) <sup>[392](https://t.me/s/aboutrss/392)</sup> ![Online][Online icon]
 - [Feedspot](https://www.feedspot.com/)![Online][Online icon]
-- [MOONMOON](https://moonmoon.org/) [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon)
+- [MOONMOON](https://moonmoon.org/) <sup>[648](https://t.me/s/aboutrss/648)</sup> [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon)
+- [TINT](https://www.tintup.com/blog/the-best-rss-widget/) <sup>[652](https://t.me/s/aboutrss/652)</sup>
 
 ### RSS2ARCHIVE
 
@@ -636,6 +656,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Feed item filtering
 
 - [siftrss](https://siftrss.com/) <sup>[223](https://t.me/s/aboutrss/223)</sup> ![Freeware][freeware icon]
+- [RSSFilter](https://rssfilter.netlify.app/) <sup>[655](https://t.me/s/aboutrss/655)</sup> [![Open-Source Software][oss icon]](https://github.com/bcongdon/rssfilter)
 
 ### Combine multiple feeds into one
 
@@ -834,6 +855,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [waifu!d for aria2](https://github.com/pcmid/waifud) <sup>[276](https://t.me/s/aboutrss/276)</sup> : a downloader bot [![Open-Source Software][oss icon]](https://github.com/ttttmr/UserJS)
 - [Collect-Info-Research](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software][oss icon]](https://github.com/p1g3/Collect-Info-Research)
 - [RSS & you-get](https://left.pink/archives/2712) <sup>[494](https://t.me/s/aboutrss/494)</sup> : 自动下载B站收藏视频至VPS
+- [Mapnews.io](https://mapnews.io/) <sup>[657](https://t.me/s/aboutrss/657)</sup> : Today's News on a Map [![Open-Source Software][oss icon]](https://github.com/TristanMenzinger/Mapnews)
 
 # RSS × Podcast
 
