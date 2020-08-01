@@ -43,7 +43,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Players](#players)
   - [Other Apps](#other-apps)
   - [TestFlight](#testflight)
-- [RSS Readers/Tools/Services Connections Demonstrated by An Interactive Node Chart](#rss-readers-tools-services-connections-demonstrated-by-an-interactive-node-chart)
+- [RSS Readers/Tools/Services Connections Demonstrated by An Interactive Node Chart](#rss-readerstoolsservices-connections-demonstrated-by-an-interactive-node-chart)
 - [Free Servers](#free-servers)
   - [RSSHub](#rsshub)
   - [TTRSS](#ttrss)
@@ -83,7 +83,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [iTunes](#itunes)
     - [SoundCloud](#soundcloud)
     - [Links on social streams](#links-on-social-streams)
-    - [Annotation / Bookmarking](#annotation---bookmarking)
+    - [Annotation / Bookmarking](#annotation--bookmarking)
     - [Weibo (微博)](#weibo-%E5%BE%AE%E5%8D%9A)
     - [WeChat Subscription Accounts (微信公众号)](#wechat-subscription-accounts-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)
     - [Zhihu (知乎)](#zhihu-%E7%9F%A5%E4%B9%8E)
@@ -1104,6 +1104,7 @@ Any contributions like suggestions and pull requests are welcome.
 - [RSS 项目: a WorkFlowy list](https://workflowy.com/#/6e20a3531287)
 - Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
 - [Substats API](https://substats.spencerwoo.com/)
+- [Flourish](https://flourish.studio)
 
 Thank you to all RSS supporters! It's you who have created these marvelous tools, apps, etc. and still keep bringing new ideas and innovation to the realm of RSS. Furthermore, thanks very much to members / followers of the 「AboutRSS」 [channel](https://t.me/s/aboutrss) / [twitter](https://twitter.com/aboutrss) account.
 
