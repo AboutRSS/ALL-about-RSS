@@ -500,6 +500,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - https://hub.slarker.me/ by [canner@V2EX](https://www.v2ex.com/t/690755#reply19) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Fhub.slarker.me)
 - https://datatube.dev/ by [@BaiduInc](https://twitter.com/BaiduInc/status/1322233602894143488) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Fdatatube.dev) <sup>[867](https://t.me/s/aboutrss/867)</sup>
 - https://rsshub.qufy.me/ by [@queensferryme](https://github.com/queensferryme) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.qufy.me%2F)
+- https://rsshub.wkfg.me/ by [@三丰](https://t.me/junbaor) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.wkfg.me%2F)
 
 ### TTRSS
 
