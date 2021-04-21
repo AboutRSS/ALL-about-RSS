@@ -56,6 +56,10 @@
 | 中国海洋发展研究中心 - 通知公告 | https://node2.feed43.com/aocouc.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2Faocouc.xml) | Education |
 | 广东科学中心 | https://node2.feed43.com/4406614362230232.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F4406614362230232.xml) | Education |
 | arleyzhang                | https://node2.feed43.com/2738718687802442.xml | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=ON&query=%24%5B0%5D.last_updated&url=https%3A%2F%2Ffeedsearch.dev%2Fapi%2Fv1%2Fsearch%3Furl%3Dhttps%3A%2F%2Fnode2.feed43.com%2F2738718687802442.xml) | Individual |
+| 中国证监会要闻 | https://node2.feed43.com/1465728165034432.xml | | Goverment |
+| 财新网滚动新闻 | https://node2.feed43.com/3157864067501600.xml | | Media; News |
+| 未央网快讯 | https://node2.feed43.com/weiyangxexpress.xml |  | Media; News |
+| 界面新闻金融快讯 | https://node2.feed43.com/2020371658335106.xml | | Media; News |
 
 ## zh-Hant
 
