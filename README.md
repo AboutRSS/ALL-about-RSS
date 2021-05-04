@@ -41,7 +41,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [Specification Converters](#specification-converters)
   - [RSS Extensions](#rss-extensions)
 - [RSS Feed Validator](#-rss-feed-validator)
-- [RSS Readers](#rss-readers)
+- [RSS Readers](#-rss-readers)
   - [Apps](#Apps)
   - [WeChat Mini Apps](#wechat-mini-apps)
   - [Hosted Readers](#hosted-readers)
