@@ -565,15 +565,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### TTRSS
 
-- https://rss.rssforever.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
-- http://rss.probe.earth:8280/tt-rss/ by [Probe](https://probe.earth/) <sup>[586](https://t.me/s/aboutrss/586)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.probe.earth:8280%2Ftt-rss%2F)
-- https://tt-rss.snopyta.org/ by [Snopyta.org](https://snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ftt-rss.snopyta.org%2F)
-- https://ttr.uneasy.win/ by [胜之不易](https://uneasy.win/tiny-tiny-rss%E6%9C%8D%E5%8A%A1%E5%99%A8/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fttr.uneasy.win) <sup>[867](https://t.me/s/aboutrss/867)</sup>
+- https://rss.rssforever.com/ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F) (Will close at 2021/06/01)
+- http://rss.probe.earth:8280/tt-rss/ by [Probe](https://probe.earth/) <sup>[586](https://t.me/s/aboutrss/586)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.probe.earth:8280%2Ftt-rss%2F) (Closed register)
+- https://tt-rss.snopyta.org/ by [Snopyta.org](https://snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ftt-rss.snopyta.org%2F) (Closed register)
+- https://ttr.uneasy.win/ by [胜之不易](https://uneasy.win/tiny-tiny-rss%E6%9C%8D%E5%8A%A1%E5%99%A8/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fttr.uneasy.win) <sup>[867](https://t.me/s/aboutrss/867)</sup> (Register:https://shimo.im/forms/GgyrgjhqjrYwCDjv/fill)
 
 ### FreshRSS
 
-- https://rss.othing.xyz/ by [yzqzss | 一座桥在水上](https://blog.othing.xyz) <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F)
-- https://rss.alex0.dev by [Alex Kuang](https://alex0.dev/blog/web/self-hosted-freshrss-open-registration/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.alex0.dev%2F)
+- https://rss.othing.xyz/ by [yzqzss | 一座桥在水上](https://blog.othing.xyz) <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F) (Allow register)
+- https://rss.alex0.dev by [Alex Kuang](https://alex0.dev/blog/web/self-hosted-freshrss-open-registration/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.alex0.dev%2F) (Closed register)
 
 ### RSS-Bridge
 
