@@ -60,6 +60,9 @@
 | 财新网滚动新闻 | https://node2.feed43.com/3157864067501600.xml | | Media; News |
 | 未央网快讯 | https://node2.feed43.com/weiyangxexpress.xml |  | Media; News |
 | 界面新闻金融快讯 | https://node2.feed43.com/2020371658335106.xml | | Media; News |
+| 品牌星球BrandStar | https://node2.feed43.com/brandstarcn.xml | | Media; Life |
+| TOPYS | https://node2.feed43.com/topys.xml | | Media; Life |
+| 集智俱乐部 | https://node2.feed43.com/swarma.xml | | Academy; Media |
 
 ## zh-Hant
 
