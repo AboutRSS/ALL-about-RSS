@@ -1056,7 +1056,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [siftrss](https://siftrss.com/) <sup>[223](https://t.me/s/aboutrss/223)</sup> ![Freeware][freeware icon]
 - [RSSFilter](https://rssfilter.netlify.app/) <sup>[655](https://t.me/s/aboutrss/655)</sup> [![Open-Source Software][oss icon]](https://github.com/bcongdon/rssfilter)
-- [grepfeed](https://serene-river-17732.herokuapp.com/) <sup>[716](https://t.me/s/aboutrss/716)</sup> [![Open-Source Software][oss icon]](https://github.com/gromnitsky/grepfeed)
+- [grepfeed](https://grepfeed.sigwait.tk/) <sup>[716](https://t.me/s/aboutrss/716)</sup> [![Open-Source Software][oss icon]](https://github.com/gromnitsky/grepfeed)
 - [Feed Control](https://feedcontrol.fivefilters.org/) <sup>[919](https://t.me/s/aboutrss/919)</sup>
 - [RSS Generator](https://synk.info/) <sup>[952](https://t.me/s/aboutrss/952)</sup>
 
