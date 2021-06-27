@@ -653,6 +653,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [@newsbot](https://mastodon.social/@newsbot) <sup>[387](https://t.me/s/aboutrss/387)</sup> [![Open-Source Software][oss icon]](https://github.com/yogthos/mastodon-bot)
 
+### Matrix 
+
+- [@RSSBot](https://matrix.to/#/@rss:t2bot.io) <sup>[000](https://t.me/s/aboutrss/000)</sup> [![Open-Source Software][oss icon]](https://github.com/maubot/rss)
+
 ### 钉钉
 
 - 钉钉 RSS 推送机器人 <sup>[839](https://t.me/s/aboutrss/839)</sup>
