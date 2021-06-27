@@ -796,6 +796,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Notifier](https://notifier.in/) <sup>[545](https://t.me/s/aboutrss/545)</sup>
 - [TelegramRSS](https://tg.i-c-a.su/) <sup>[569](https://t.me/s/aboutrss/569)</sup> [![Open-Source Software][oss icon]](https://github.com/xtrime-ru/TelegramRSS)![Freeware][freeware icon]
 - [Metogram](https://metogram.com/) <sup>[696](https://t.me/s/aboutrss/696)</sup>
+- [Newspopper `Demo Soon!`](https://github.com/rzkmak/newspopper) <sup>[000](https://t.me/s/aboutrss/000)</sup> [!Open-Source Software][OSS icon](https://github.com/rzkmak/newspopper)![Freeware][freeware icon]
+- [Rui `Demo Soon`](https://github.com/rzkmak/rui) <sup>[000](https://t.me/s/aboutrss/000)</sup> [!Open-Source Software][OSS icon](https://github.com/rzkmak/rui)![Freeware][freeware icon]
 
 #### 9GAG
 
