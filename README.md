@@ -653,6 +653,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [@newsbot](https://mastodon.social/@newsbot) <sup>[387](https://t.me/s/aboutrss/387)</sup> [![Open-Source Software][oss icon]](https://github.com/yogthos/mastodon-bot)
 
+### Matrix 
+
+- [@RSSBot](https://matrix.to/#/@rss:t2bot.io) <sup>[000](https://t.me/s/aboutrss/000)</sup> [![Open-Source Software][oss icon]](https://github.com/maubot/rss)
+
 ### 钉钉
 
 - 钉钉 RSS 推送机器人 <sup>[839](https://t.me/s/aboutrss/839)</sup>
@@ -942,6 +946,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [PosterBot](https://t.me/pstrbot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 - [rssPubBot](https://t.me/rssPubBot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 - [RSS to Telegram Bot (Weibo Edition)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) <sup>[786](https://t.me/s/aboutrss/786)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
+- [Newspopper](https://github.com/rzkmak/newspopper) (`Demo Soon`!) <sup>[000](https://t.me/s/aboutrss/000)</sup> [![Open-Source Software][OSS icon]](https://github.com/rzkmak/newspopper)
+- [Rui](https://github.com/rzkmak/rui) (`Demo Soon`!)<sup>[000](https://t.me/s/aboutrss/000)</sup> [![Open-Source Software][OSS icon]](https://github.com/rzkmak/rui)
 
 ### RSS2ACTIVITYPUB
 
