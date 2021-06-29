@@ -73,6 +73,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [酷Q Plugin](#%E9%85%B7q-plugin)
   - [WeChat](#wechat)
   - [Mastodon](#mastodon)
+  - [Matrix](#matrix)
 - [Microblogging Platforms](#-microblogging-platforms)
 - [Feed Search Engines](#-feed-search-engines)
 - [Workflow Automation](#-workflow-automation)
