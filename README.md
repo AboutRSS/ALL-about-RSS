@@ -568,7 +568,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### RSSHub
 
 - https://johnrosen1.com/rsshub/ by [John Rosen](https://johnrosen1.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Funeasy.win%2Frss%2F)
-- https://uneasy.win/rss/ by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Funeasy.win%2Frss%2F)
+- https://rsshub.uneasy.win/ by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Funeasy.win%2Frss%2F)
 - http://rsshub.rssforever.com by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.rssforever.com%2F)
 - https://rss.shab.fun/ by [MYELF](https://myelf.club/) <sup>[550](https://t.me/s/aboutrss/550)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.shab.fun%2F)
 - http://rss.probe.earth:1200 by [Probe](https://probe.earth/) <sup>[586](https://t.me/s/aboutrss/586)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.probe.earth:1200)
