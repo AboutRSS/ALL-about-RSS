@@ -597,7 +597,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### FreshRSS
 
-- https://rss.othing.xyz/ by [yzqzss | 一座桥在水上](https://blog.othing.xyz) <sup>[518](https://t.me/s/aboutrss/518)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.othing.xyz%2F) (Invitation required)
 - https://rss.alex0.dev by [Alex Kuang](https://alex0.dev/blog/web/self-hosted-freshrss-open-registration/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.alex0.dev%2F) (user:demo passwd:freshdemo)
 - http://freshrss.fanfpy.top/ by [fanfpy](https://fanfpy.top/) <sup>[1074](https://t.me/s/aboutrss/1074)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Ffreshrss.fanfpy.top%2F)
 - http://rss.iridium.cyou/ by [IRIDIUM](https://docs.iridium.cyou/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.iridium.cyou%2F)
