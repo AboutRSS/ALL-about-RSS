@@ -590,7 +590,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### TTRSS
 
-- ~~https://rss.rssforever.com/~~ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
 - http://rss.probe.earth:8280/tt-rss/ by [Probe](https://probe.earth/) <sup>[586](https://t.me/s/aboutrss/586)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.probe.earth:8280%2Ftt-rss%2F) (Registration Closed)
 - https://tt-rss.snopyta.org/ by [Snopyta.org](https://snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ftt-rss.snopyta.org%2F) (Registration Closed)
 - https://ttr.uneasy.win/ by [胜之不易](https://uneasy.win/tiny-tiny-rss%E6%9C%8D%E5%8A%A1%E5%99%A8/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fttr.uneasy.win) <sup>[867](https://t.me/s/aboutrss/867)</sup> (Registration: https://shimo.im/forms/GgyrgjhqjrYwCDjv/fill)
@@ -602,6 +601,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - http://freshrss.fanfpy.top/ by [fanfpy](https://fanfpy.top/) <sup>[1074](https://t.me/s/aboutrss/1074)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Ffreshrss.fanfpy.top%2F)
 - http://rss.iridium.cyou/ by [IRIDIUM](https://docs.iridium.cyou/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.iridium.cyou%2F)
 - https://rss.cry33.com by [逍遥隐士](https://cry33.com/archives/651.html) <sup>[1077](https://t.me/s/aboutrss/1077)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.cry33.com)
+- https://rss.rssforever.com/ by [思有云 - IOIOX](https://www.ioiox.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
 
 ### RSS-Bridge
 
