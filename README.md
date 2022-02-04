@@ -610,7 +610,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - https://rsshub.wkfg.me/ by [@三丰](https://t.me/junbaor) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.wkfg.me%2F)
 - https://rss.hee.ink/ by [蒟蒻](https://hee.ink/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.hee.ink%2F)
 - https://rsshub.cry33.com by [逍遥隐士](https://cry33.com/archives/651.html) <sup>[1077](https://t.me/s/aboutrss/1077)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.cry33.com)
-- https://rss.fatpandac.tk by [@Fatpandac](https://t.me/Fatpandac) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.fatpandac.tk)
+- https://rss.fatpandac.com by [@Fatpandac](https://t.me/Fatpandac) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.fatpandac.com)
 
 ### TTRSS
 - ~~https://rss.rssforever.com/~~ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
