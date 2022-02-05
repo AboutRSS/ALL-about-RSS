@@ -687,6 +687,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Bot](https://t.me/rss_bot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 - [RobotRSS](https://t.me/PyRSSBot) <sup>[1009](https://t.me/s/aboutrss/1009)</sup> [![Open-Source Software][oss icon]](https://github.com/cbrgm/telegram-robot-rss)
 - [RobotRSS](https://t.me/PyRSS2Bot) <sup>[1009](https://t.me/aboutrss/1009?comment=7227)</sup> [![Open-Source Software][oss icon]](https://github.com/BoKKeR/RSS-to-Telegram-Bot)
+- [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 
 #### Bot of RSS屋 (a Full Article Extractor Service)
 
@@ -1035,7 +1036,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [rss_bot](https://t.me/rss_bot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 - [PosterBot](https://t.me/pstrbot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 - [rssPubBot](https://t.me/rssPubBot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
-- [RSS to Telegram Bot (Weibo Edition)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
+- [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [Newspopper](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software][OSS icon]](https://github.com/rzkmak/newspopper)
 - [Rui](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software][OSS icon]](https://github.com/rzkmak/rui)
 
