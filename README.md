@@ -1501,7 +1501,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Collect-Info-Research](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software][oss icon]](https://github.com/p1g3/Collect-Info-Research)
 - [Mapnews.io](https://mapnews.io/) <sup>[657](https://t.me/s/aboutrss/657)</sup> : Today's News on a Map [![Open-Source Software][oss icon]](https://github.com/TristanMenzinger/Mapnews)
 - Amazon Author Page: ([An Instance](https://www.amazon.com/Laura-Gibbs/e/B002BMEFVA?ref_=dbs_p_ebk_r00_abau_000000)) <sup>[697](https://t.me/s/aboutrss/697)</sup>
-- [Rest In Peace Google Reader](https://www.ripgooglereader.com/) <sup>[1001](https://t.me/s/aboutrss/1001)</sup>
+- [Rest In Peace Google Reader](https://web.archive.org/web/20210420205654/https://www.ripgooglereader.com/) <sup>[1001](https://t.me/s/aboutrss/1001)</sup>
 
 ### Figures / Developers
 
