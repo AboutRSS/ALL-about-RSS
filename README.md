@@ -882,7 +882,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Userscript: Export YouTube Subscriptions to RSS OPML](https://greasyfork.org/scripts/418574) <sup>[915](https://t.me/s/aboutrss/915)</sup> [![Open-Source Software][oss icon]](https://github.com/theborg3of5/Userscripts/tree/master/youtubeRSSExport)![Freeware][freeware icon]
 - [Youtube RSS Extractor](https://jeffkeeling.github.io/youtube_rss_extractor/) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Open-Source Software][oss icon]](https://github.com/jeffkeeling/youtube_rss_extractor)![Freeware][freeware icon]
 - [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/youtube-rss-finder/)[![Open-Source Software][oss icon]](https://github.com/teddy-gustiaux/youtube-rss-finder)![Freeware][freeware icon]
-- [rss.yt](https://rss.yt/) <sup>[1115](https://t.me/s/aboutrss/1115)</sup> ![Freeware][freeware icon]
+- [~~rss.yt~~](https://rss.yt/) <sup>[1115](https://t.me/s/aboutrss/1115)</sup> ![Freeware][freeware icon]
 
 #### Itunes
 
