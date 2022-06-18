@@ -1,4 +1,8 @@
 <p align="center">
+<a href="https://gitcoin.co/grants/5980/about-rss" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/aboutrss-on-gitcoin-round-14.png" alt="We are on Gitcoin Grants Round 14 !"></img></a><br>
+</p>
+
+<p align="center">
 <a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="Screenshot of isRSSdead.com"></img></a><br>
 <small>Screenshot of isRSSdead.com</small>
 </p>
@@ -150,7 +154,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Obtain translated RSS feed](#obtain-translated-rss-feed)
   - [XSL template for XML](#xsl-template-for-xml)
   - [Retrive old items from a RSS feed](#retrive-old-items-from-a-rss-feed)
-  - [Change RSS feed into vertical text view])(#change-rss-feed-into-vertical-text-view)
+  - [Change RSS feed into vertical text view](#change-rss-feed-into-vertical-text-view)
 - [Ease RSS feed subscribing process and reading experience](#-ease-rss-feed-subscribing-process-and-reading-experience)
   - [RSS Feed Finding/Detection](#rss-feed-findingdetection)
   - [Subscribing Button](#subscribing-button)
@@ -394,8 +398,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [LinkLonk](https://linklonk.com/) <sup>[1154](https://t.me/s/aboutrss/1154)</sup> ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.linklonk.twa)![Freeware][freeware icon]
 - RSSCube <sup>[1164](https://t.me/s/aboutrss/1164)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/rsscube-rss%E9%98%85%E8%AF%BB%E5%99%A8/id1602812291)
 - RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
-[Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
-- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/apple-store/id1608040212?pt=124046351)
+- [Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
+- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
 - [Substack Reader](https://reader.substack.com/) <sup>[1184](https://t.me/s/aboutrss/1184)</sup> [![iOS][iPhone icon]](http://substack.com/app/get-ios)![Online][Online icon]
 - [News](https://f-droid.org/packages/co.appreactor.news/) <sup>[1190](https://t.me/s/aboutrss/1190)</sup> [![Open-Source Software][oss icon]](https://github.com/bubelov/news)[![Android][Android icon]](https://f-droid.org/packages/co.appreactor.news/)![Freeware][freeware icon]
@@ -481,7 +485,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [sumi.news](https://sumi.news) <sup>[1168](https://t.me/s/aboutrss/1168)</sup> ![Online][Online icon]
 - [Qi Reader](https://www.qireader.com/) <sup>[1174](https://t.me/s/aboutrss/1174)</sup> ![Online][Online icon]
 - [RSS·Cafe](https://rss.cafe/) <sup>[1192](https://t.me/s/aboutrss/1192)</sup> ![Online][Online icon]
-- [期待 綫上版](https://v2rss.com/) <sup>[1204](https://t.me/s/aboutrss/1204</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E6%9C%9F%E5%BE%85/id1461503931)![Online][Online icon]
+- [期待 綫上版](https://v2rss.com/) <sup>[1204](https://t.me/s/aboutrss/1204)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/%E6%9C%9F%E5%BE%85/id1461503931)![Online][Online icon]
 
 ### Self Hosted Readers
 
@@ -1557,7 +1561,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - Apple News <sup>[324](https://t.me/s/aboutrss/324)</sup>
 - [百度RSS新闻订阅功能](https://wanyaxing.com/blog/20191213115747.html)
 - [New Twitter API Drops Support for RSS](https://mashable.com/2012/09/05/twitter-api-rss/)
-- [Raindrop.io](https://raindropio.canny.io/) <sup>[399](https://t.me/s/aboutrss/399)</sup>
+- [Raindrop.io](https://raindropio.canny.io/): every collection still has public RSS feed but Raindrop does not plan to support further improvements for RSS due to possible privacy issues. <sup>[399](https://t.me/s/aboutrss/399)</sup>
 - [Buffer](https://buffer.com/) <sup>[619](https://t.me/s/aboutrss/619)</sup> : sunset the content feed feature
 - [Reuters](https://Reuters.com) <sup>[689](https://t.me/s/aboutrss/689), [695](https://t.me/s/aboutrss/695)</sup> : officially killing off RSS support
 - [Web of Science](https://clarivate.com/webofsciencegroup/wp-content/uploads/sites/2/dlm_uploads/2019/11/WoS534-1-external-release-notes.pdf): As of November, 2019, the ability to make new RSS feeds in Web of Science has been removed.
@@ -1751,6 +1755,7 @@ Thank you to all RSS supporters! It's you who have created these marvelous tools
 #### Donators
 
 - [@XMRer](https://twitter.com/XMRer/status/1517387830020145152)
+- [Donators from Gitcoin](https://gitcoin.co/grants/5980/about-rss?tab=contributions)
 
 #### Sharing APP Promo codes with my Telegram Channel subscribers
 
