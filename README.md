@@ -295,7 +295,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Readably](https://twitter.com/readablyapp) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.isaiasmatewos.readably)
 - [SwipeNews](https://github.com/Tunous/SwipeNews-Issues) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=me.thanel.swipenews)
 - Palabre Feedly RSS Reader News <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.levelup.palabre)
-- [Newsfold](http://mvilla.it/newsfold/) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=it.mvilla.android.quote)
+- [~~Newsfold~~](http://mvilla.it/newsfold/) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=it.mvilla.android.quote)
 - [Feedbin](https://feedbin.com/) <sup>[732](https://t.me/s/aboutrss/732)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin)
   - [The Unreader](https://apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148) <sup>[394](https://t.me/s/aboutrss/394), [1151](https://t.me/s/aboutrss/1151)</sup> : a Feedbin Client [![][iPhone icon]](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148)
 - [Inoreader](https://www.inoreader.com/) <sup>[171](https://t.me/s/aboutrss/171), [172](https://t.me/s/aboutrss/172), [317](https://t.me/s/aboutrss/317), [319](https://t.me/s/aboutrss/319), [358](https://t.me/s/aboutrss/358), [489](https://t.me/s/aboutrss/489), [512](https://t.me/s/aboutrss/512), [598](https://t.me/s/aboutrss/598), [606](https://t.me/s/aboutrss/606), [934](https://t.me/s/aboutrss/934)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
@@ -455,7 +455,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [深蓝阅读 bluereader](https://bluereader.org/) [![Online][Online icon]](https://bluereader.org/login)[![iOS][iPhone icon]](https://itunes.apple.com/cn/app/shen-lan-yue-du/id793002024?ls=1&mt=8)[![Android][Android icon]](https://bluereader.org/app)
 - [~~flowreader~~](https://flowreader.com/) ![Online][Online icon]
 - [reedah](https://www.reedah.com/) ![Online][Online icon]
-- [FeedFox](https://feedfox.netlify.app/) <sup>[609](https://t.me/s/aboutrss/609)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/manikandanraji/feedfox)![Freeware][freeware icon]
+- [~~FeedFox~~](https://feedfox.netlify.app/) <sup>[609](https://t.me/s/aboutrss/609)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/manikandanraji/feedfox)![Freeware][freeware icon]
 - [Feedsubs](https://feedsubs.com/) <sup>[633](https://t.me/s/aboutrss/633)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/NicolasLM/feedsubs)![Freeware][freeware icon]
 - [~~Feediary~~](https://blog.feediary.com/posts/2019-09-02-goodbye/) <sup>[238](https://t.me/s/aboutrss/238)</sup>
 - [WeReader](https://WeReader.app) <sup>[675](https://t.me/s/aboutrss/675)</sup> ![Online][Online icon]
@@ -1057,7 +1057,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### RSS2MAIL
 
 - [Feedsub](https://www.feedsub.com/) <sup>[278](https://t.me/s/aboutrss/278)</sup>
-- [RSS-To-Email](https://rss-to-email.portablecto.com/) <sup>[307](https://t.me/s/aboutrss/307)</sup> [![Open-Source Software][oss icon]](https://github.com/portable-cto/rss-to-email)
+- [~~RSS-To-Email~~](https://rss-to-email.portablecto.com/) <sup>[307](https://t.me/s/aboutrss/307)</sup> [![Open-Source Software][oss icon]](https://github.com/portable-cto/rss-to-email)
 - [Feedblitz](https://www.feedblitz.com/) <sup>[481](https://t.me/s/aboutrss/481)</sup>
 - [Power Automate](https://flow.microsoft.com/) <sup>[521](https://t.me/s/aboutrss/521)</sup>
 - [rss2mail](https://github.com/skx/rss2email) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software][oss icon]](https://github.com/skx/rss2email)
@@ -1401,7 +1401,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software][oss icon]](https://github.com/kilimchoi/engineering-blogs/)
 - [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 - [Awesome-techCN-feeds](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
-- [Refined Blog](https://refined.blog/)
+- [~~Refined Blog~~](https://refined.blog/)
 
 #### Crypto or Blockchain relevant
 
@@ -1768,7 +1768,7 @@ Any contributions like suggestions or pull requests are welcome.
 - [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
 - [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
 - [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
-- [OpenSourceWeekly](https://fatalentropy.com/open-source-weekly/)
+- [~~OpenSourceWeekly~~](https://fatalentropy.com/open-source-weekly/)
 - [RSS 工具大全 by 幻璧](https://blog.wizos.me/20180412-134.html)
 - [RSS 项目: a WorkFlowy list](https://workflowy.com/#/6e20a3531287)
 - Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
