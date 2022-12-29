@@ -674,6 +674,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - https://rsshub.cry33.com by [逍遥隐士](https://cry33.com/archives/651.html) <sup>[1077](https://t.me/s/aboutrss/1077)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.cry33.com)
 - https://rss.fatpandac.com by [@Fatpandac](https://t.me/Fatpandac) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.fatpandac.com)
 - http://rss.7nftday.xyz:1200/ by [@skyone39888636](https://twitter.com/skyone39888636/status/1544129847873613824) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.7nftday.xyz%3A1200%2F)
+- https://rsshub.ktachibana.party by [@KTachibanaM](https://github.com/KTachibanaM) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.ktachibana.party)
 
 ### TTRSS
 - ~~https://rss.rssforever.com/~~ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
