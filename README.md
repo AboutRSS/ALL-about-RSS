@@ -687,7 +687,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - https://rss.alex0.dev by [Alex Kuang](https://alex0.dev/blog/web/self-hosted-freshrss-open-registration/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.alex0.dev%2F) (user:demo passwd:freshdemo)
 - http://freshrss.fanfpy.top/ by [fanfpy](https://fanfpy.top/) <sup>[1074](https://t.me/s/aboutrss/1074)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Ffreshrss.fanfpy.top%2F)
-- http://rss.iridium.cyou/ by [IRIDIUM](https://docs.iridium.cyou/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Frss.iridium.cyou%2F)
 - https://rss.cry33.com by [逍遥隐士](https://cry33.com/archives/651.html) <sup>[1077](https://t.me/s/aboutrss/1077)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.cry33.com)
 - https://rss.rssforever.com/ by [思有云 - IOIOX](https://www.ioiox.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
 - https://freshrss.uneasy.win/ by [胜之不易](https://uneasy.win/freshrss%e6%9c%8d%e5%8a%a1%e5%99%a8%e6%b5%8b%e8%af%95/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ffreshrss.uneasy.win%2F) <sup>[1207](https://t.me/s/aboutrss/1207)</sup>
