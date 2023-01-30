@@ -24,7 +24,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Online][Online icon] | Web service available, with link to its official webpage |
 | ![Windows][Windows icon]  | for Windows, with link to its download page |
 | ![Mac][Mac icon]  | for Mac OS, with link to its Apple store page |
-| ![Linux][Linux icon]  | for Linux system, with link to its offical download page |
+| ![Linux][Linux icon]  | for Linux system, with link to its official download page |
 | ![iOS][iPhone icon]  | for iOS/iPadOS, with link to its Apple store page |
 | ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
@@ -152,7 +152,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Combine multiple feeds into one](#combine-multiple-feeds-into-one)
   - [Obtain translated RSS feed](#obtain-translated-rss-feed)
   - [XSL template for XML](#xsl-template-for-xml)
-  - [Retrive old items from a RSS feed](#retrive-old-items-from-a-rss-feed)
+  - [Retrieve old items from a RSS feed](#retrieve-old-items-from-a-rss-feed)
   - [Change RSS feed into vertical text view](#change-rss-feed-into-vertical-text-view)
   - [Search across a certain RSS Feed](#search-across-a-certain-rss-feed)
 - [Ease RSS feed subscribing process and reading experience](#-ease-rss-feed-subscribing-process-and-reading-experience)
@@ -392,7 +392,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [知微](https://github.com/wizos/loread) <sup>[943](https://t.me/s/aboutrss/943)</sup> [![Android][Android icon]](http://www.coolapk.com/apk/168423)
 - [Ark View](https://www.definestudio.in/2018/02/introducing-ark-view.html) <sup>[971](https://t.me/s/aboutrss/971)</sup> [![Windows][Windows icon]](https://www.microsoft.com/store/apps/9pfxdzf5hkfv)
 - [Brook](https://github.com/adamsanderson/brook) <sup>[976](https://t.me/s/aboutrss/976)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/brook-feed-reader/)[![Open-Source Software][oss icon]](https://github.com/adamsanderson/brook)![Freeware][freeware icon]
-- [Socialife / News Siute by Sony](http://socialife.sony.net/en_ww/what-is/) <sup>[997](https://t.me/s/aboutrss/997)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sony.nfx.app.sfrc)
+- [Socialife / News Suite by Sony](http://socialife.sony.net/en_ww/what-is/) <sup>[997](https://t.me/s/aboutrss/997)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sony.nfx.app.sfrc)
 - [Stories Now](https://n4no.com/projects/storiesNow/) <sup>[1002](https://t.me/s/aboutrss/1002)</sup> [![iOS][iPhone icon]](http://apps.apple.com/pl/app/stories-now/id1557096867)[![Android][Android icon]](http://play.google.com/store/apps/details?id=com.n4no.storiesNow)
 - [Newsfeeder](https://newsfeeder.esstudio.site/) <sup>[1017](https://t.me/s/aboutrss/1017)</sup> ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Newsfeeder)[![Open-Source Software][oss icon]](https://github.com/sempostma/newsfeeder)![Freeware][freeware icon]
 - [feedo](https://feedo-android.github.io/) <sup>[1018](https://t.me/s/aboutrss/1018)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.evalution.feedo)![Freeware][freeware icon]
@@ -869,7 +869,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
 - [PolitePol](http://politepol.com/) [![Open-Source Software][oss icon]](https://github.com/taroved/pol) <sup>[556](https://t.me/s/aboutrss/556)</sup>
 - [~~FeedOcean~~](https://feedocean.com/) <sup>[594](https://t.me/s/aboutrss/594)</sup>
-- [Feed Creater 2.0](https://createfeed.fivefilters.org/) <sup>[650](https://t.me/s/aboutrss/650), [1005](https://t.me/s/aboutrss/1005)</sup>
+- [Feed Creator 2.0](https://createfeed.fivefilters.org/) <sup>[650](https://t.me/s/aboutrss/650), [1005](https://t.me/s/aboutrss/1005)</sup>
 - [HTML2RSS](https://html2rss.github.io) <sup>[795](https://t.me/s/aboutrss/795)</sup> [![Open-Source Software][oss icon]](https://github.com/gildesmarais/html2rss)
 - [rsstodolist](https://rsstodolist.eu/) <sup>[905](https://t.me/s/aboutrss/905)</sup> [![Open-Source Software][oss icon]](https://github.com/paulgreg/rsstodolist-appengine)![Freeware][freeware icon]
 - [Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/) <sup>[1066](https://t.me/s/aboutrss/1066)</sup> [![Open-Source Software][oss icon]](https://gitlab.com/vincenttunru/feed-me-up-scotty/)
@@ -1329,7 +1329,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
 - [pretty-feed-v3](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 
-### Retrive old items from a RSS feed
+### Retrieve old items from a RSS feed
 
 - [Backfeed](http://backfeed.strangecode.com/) <sup>[991](https://t.me/s/aboutrss/991)</sup>
 - [rerss](https://rerss.xyz/) <sup>[1160](https://t.me/s/aboutrss/1160)</sup> ![Freeware][freeware icon]
