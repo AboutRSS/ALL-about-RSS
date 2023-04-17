@@ -699,7 +699,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### FreshRSS
 
-- https://feeds.flossboxin.org.in by [vdbhb59](https://github.com/vdbhb59) ![Website](https://img.shields.io/badge/website-up-brightgreen) (user:demo2023 passwd:demodemo)
+- https://feeds.flossboxin.org.in by [vdbhb59](https://github.com/vdbhb59) ![Website](https://img.shields.io/website?down_color=Red&down_message=Down&style=plastic&up_color=Green&up_message=Up&url=https%3A%2F%2Ffeeds.flossboxin.org.in) (user:demo2023 passwd:demodemo)
 - https://rss.alex0.dev by [Alex Kuang](https://alex0.dev/blog/web/self-hosted-freshrss-open-registration/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.alex0.dev%2F) (user:demo passwd:freshdemo)
 - http://freshrss.fanfpy.top/ by [fanfpy](https://fanfpy.top/) <sup>[1074](https://t.me/s/aboutrss/1074)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Ffreshrss.fanfpy.top%2F)
 - https://rss.cry33.com by [逍遥隐士](https://cry33.com/archives/651.html) <sup>[1077](https://t.me/s/aboutrss/1077)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.cry33.com)
