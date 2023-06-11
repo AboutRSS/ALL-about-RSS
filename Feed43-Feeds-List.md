@@ -2,6 +2,8 @@
 
 # A list of RSS feeds created by using [Feed43.com](https://feed43.com/)
 
+# ⛔ Note: Feed43 is down. Hence, none feed listed here works any more.
+
 > You can submit an edit, or submit your Feed43-based RSS feed via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScmUiWeUlxQrrV_HsZCkxH0btGfkUkZsr_n_M50gtXtzrBdsQ/viewform).
 
 ## zh-Hans
