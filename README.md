@@ -33,7 +33,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [What is RSS](#-what-is-rss)
   - [an IMAGE to explain what RSS is](#an-image-to-explain-what-rss-is)
-  - [an VIDEO to explain what RSS is](#an-video-to-explain-what-rss-is)
+  - [a VIDEO to explain what RSS is](#an-video-to-explain-what-rss-is)
   - [a WEBPAGE (in English) to explain what RSS is](#a-webpage-in-english-to-explain-what-rss-is)
   - [a WEBPAGE (in Chinese) to explain what RSS is](#a-webpage-in-chinese-to-explain-what-rss-is)
 - [Web Feed Specifications or Extensions](#-web-feed-specifications-or-extensions)
@@ -181,10 +181,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Utilize RSS to automate downloading / Broadcatching](#-utilize-rss-to-automate-downloading--broadcatching)
   - [Clients that support RSS](#clients-that-support-rss)
 - [RSS Relevant Community](#-rss-relevant-community)
-  - [Social Newwork Based on RSS Feed](#social-network-based-on-rss-feed)
+  - [Social Network Based on RSS Feed](#social-network-based-on-rss-feed)
   - [Discussion Forums](#discussion-forums)
   - [Telegram Groups / Channels](#telegram-groups--channels)
-  - [Offical Mastodon Accounts of RSS relevant Apps/Tools/Services/Developers](#offical-mastodon-accounts-of-rss-relevant-appstoolsservicesdevelopers-1301)
+  - [Official Mastodon Accounts of RSS relevant Apps/Tools/Services/Developers](#official-mastodon-accounts-of-rss-relevant-appstoolsservicesdevelopers-1301)
 - [Posts by individuals](#-posts-by-individuals)
   - [Views / Discussions / Experiences](#views--discussions-experiences)
   - [Tutorials when knowing how to run code](#tutorials-when-knowing-how-to-run-code)
@@ -609,7 +609,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS services powered by utilizing Obsidian
 
-- [Obisidian-RSS](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software][oss icon]](https://github.com/joethei/obsidian-rss)
+- [Obsidian-RSS](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software][oss icon]](https://github.com/joethei/obsidian-rss)
 
 ### Players
 
@@ -1267,7 +1267,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [BalloonRSS](https://embyt.github.io/balloonrss/index.html) <sup>[851](https://t.me/s/aboutrss/851)</sup> [![Windows][Windows icon]](https://embyt.github.io/balloonrss/download.html)[![Open-Source Software][oss icon]](https://github.com/embyt/balloonrss)![Freeware][freeware icon]
 - [INK RSS](https://channel.1nk.workers.dev/channel) <sup>[1078](https://t.me/s/aboutrss/1078)</sup> [![Open-Source Software][oss icon]](https://github.com/pureink/inkrss)![Freeware][freeware icon]
 
-#### Webpage Monitor Services with capability of moniting RSS Feed <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
+#### Webpage Monitor Services with capability of monitoring RSS Feed <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
 - [Check酱](https://gitee.com/easychen/checkchan-dist)
 - [Distill.io](https://distill.io/)
@@ -1304,7 +1304,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS2Podcast
 
-- [POD GINIE](https://pod-genie.com/) <sup>[1318](https://t.me/s/aboutrss/1318)</sup>
+- [POD GENIE](https://pod-genie.com/) <sup>[1318](https://t.me/s/aboutrss/1318)</sup>
 
 ## ✨ RSS feed customization/enhancement
 
@@ -1335,7 +1335,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### Tumblr RSS fix
 
-- [Tumblr RSS feed with orginal-size image](https://blog.wizos.me/20180412-139.html) <sup>[289](https://t.me/s/aboutrss/289)</sup> ![Open-Source Software][oss icon]
+- [Tumblr RSS feed with original-size image](https://blog.wizos.me/20180412-139.html) <sup>[289](https://t.me/s/aboutrss/289)</sup> ![Open-Source Software][oss icon]
 
 ### Feed Analytics
 
@@ -1611,7 +1611,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## 🤝 RSS Relevant Community
 
-### Social Newwork Based on RSS Feed
+### Social Network Based on RSS Feed
 
 - [~~kalaksi~~](https://www.kalaksi.com/) <sup>[975](https://t.me/s/aboutrss/975)</sup>
 - [flus](https://flus.fr/) <sup>[1106](https://t.me/s/aboutrss/1106)</sup>
@@ -1647,7 +1647,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - Read You: an Android RSS Reader ([Group](https://t.me/ReadYouApp)) <sup>[1201](https://t.me/s/aboutrss/1201)</sup>
 - RSSEverything ([Group](https://t.me/rsseverything)) <sup>[1313](https://t.me/s/aboutrss/1313)</sup>
 
-### Offical Mastodon Accounts of RSS relevant Apps/Tools/Services/Developers <sup>[1301](https://t.me/s/aboutrss/1301)</sup>
+### Official Mastodon Accounts of RSS relevant Apps/Tools/Services/Developers <sup>[1301](https://t.me/s/aboutrss/1301)</sup>
 
 - Feedbin: [@feedbin@feedbin.social](https://feedbin.social/@feedbin)
 - Unread: [@unread@mastodon.goldenhillsoftware.com](https://mastodon.goldenhillsoftware.com/@unread)
