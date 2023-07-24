@@ -738,6 +738,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS-Bridge
 
+- https://rss-bridge.org/bridge01/ (Official instance)
 - [Public Hosts](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html) <sup>[576](https://t.me/s/aboutrss/576)</sup>
 
 ### Miniflux
