@@ -735,6 +735,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - https://freshrss.feeded.xyz/ by [胜之不易](https://feeded.xyz/freshrss%e6%9c%8d%e5%8a%a1%e5%99%a8/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ffreshrss.feeded.xyz%2F) <sup>[1207](https://t.me/s/aboutrss/1207)</sup>
 - https://rss.husay.cc by [胡鹤仙](https://twitter.com/huhexian/status/1554282344668098561) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.husay.cc%2F) (Registration disabled)
 - https://feed.slarker.me by [Slark](https://slarker.me/rss-service/) <sup>[1268](https://t.me/s/aboutrss/1268)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Ffeed.slarker.me)
+- https://titrvar.com/p by [Titrvar فارسی](https://titrvar.com/)
 
 ### RSS-Bridge
 
