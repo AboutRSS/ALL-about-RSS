@@ -30,6 +30,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
 | ![Video][Video icon]  | It's a Video/Vlog |
+| ![AI][AI icon] | AI integrated |
 
 - [What is RSS](#-what-is-rss)
   - [an IMAGE to explain what RSS is](#an-image-to-explain-what-rss-is)
@@ -160,6 +161,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Retrieve old items from a RSS feed](#retrieve-old-items-from-a-rss-feed)
   - [Change RSS feed into vertical text view](#change-rss-feed-into-vertical-text-view)
   - [Search across a certain RSS Feed](#search-across-a-certain-rss-feed)
+  - [RSS Feed integrated with AI generated content](#rss-feed-integrated-with-ai-generated-content)
 - [Ease RSS feed subscribing process and reading experience](#-ease-rss-feed-subscribing-process-and-reading-experience)
   - [RSS Feed Finding/Detection](#rss-feed-findingdetection)
   - [Subscribing Button](#subscribing-button)
@@ -267,6 +269,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [h-feed](https://indieweb.org/h-feed) <sup>[711](https://t.me/s/aboutrss/711)</sup>
 - [RSS3](https://rss3.io/) <sup>[1030](https://t.me/s/aboutrss/1030)</sup>
 - [LOUD Feed Format](https://readme.loud.so/): Proposal for a podcasting-first feed syndication protocol [![Open-Source Software][oss icon]](https://github.com/LOUD-Feed-Format)
+- [Schema Structured Syndication](https://3s-docs.org/) <sup>[1352](https://t.me/s/aboutrss/1352)</sup>
 
 #### Specification Converters
 
@@ -440,6 +443,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS 阅读器](https://logspot.hocgin.top/addone-rss-reader) <sup>[1312](https://t.me/s/aboutrss/1312)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/bfdoopgbjcacghflbbdikollnphobemo)![Freeware][freeware icon]
 - [MeRead](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android][Android icon]](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software][oss icon]](https://github.com/gvenusleo/meread)![Freeware][freeware icon]
 - [Feedy](https://krillapps.com/feedy/) [![Mac][Mac icon]](https://itunes.apple.com/app/feedy-rss-client/id588288104)
+- [Stratum](https://andrewzuo.com/a-brief-history-of-stratum-9b286c238ad7) <sup>[1348](https://t.me/s/aboutrss/1348)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/id6445805598)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.amorfatite.keystone)![AI][AI icon]
+- [FeedFlow](https://www.feedflow.dev/) <sup>[1355](https://t.me/s/aboutrss/1355)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.prof18.feedflow)[![iOS][iPhone icon]](https://apps.apple.com/us/app/feedflow-rss-reader/id6447210518)[![Mac][Mac icon]](https://github.com/prof18/feed-flow/releases/)[![Open-Source Software][oss icon]](https://github.com/prof18/feed-flow/)![Freeware][freeware icon]
+- [Read Copilot](https://cybertrek.eu.org/) <sup>[1360](https://t.me/s/aboutrss/1360)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/read-copilot/id6449242676)![AI][AI icon]
+- [Den for RSS](https://den.io/) <sup>[1362](https://t.me/s/aboutrss/1362)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/den-for-rss/id1528917651)[![Mac][Mac icon]](https://den.io/)[![Open-Source Software][oss icon]](https://github.com/garrettrayj/den)
+- [ReadBot](https://apps.apple.com/app/readbot/id6449085999) <sup>[1370](https://t.me/s/aboutrss/1370)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/readbot/id6449085999)![AI][AI icon]
 
 ### Wechat Mini Apps
 
@@ -459,7 +467,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273), [1109![Video][Video icon]](https://t.me/s/aboutrss/1109)</sup> ![Online][Online icon]
 - [Inoreader](https://www.inoreader.com/) <sup>[171](https://t.me/s/aboutrss/171), [172](https://t.me/s/aboutrss/172), [317](https://t.me/s/aboutrss/317), [319](https://t.me/s/aboutrss/319), [358](https://t.me/s/aboutrss/358), [489](https://t.me/s/aboutrss/489), [512](https://t.me/s/aboutrss/512), [598](https://t.me/s/aboutrss/598), [606](https://t.me/s/aboutrss/606), [798](https://t.me/s/aboutrss/798), [838](https://t.me/s/aboutrss/838), [907](https://t.me/s/aboutrss/907), [934](https://t.me/s/aboutrss/934)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
   - [Irodr](https://irodr.netlify.app/) <sup>[902](https://t.me/s/aboutrss/902)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/azu/irodr)![Freeware][freeware icon]
-- [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.devhd.feedly)
+- [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.devhd.feedly)![AI][AI icon]
   - [Feedly Notifier](https://olsh.me/Feedly-Notifier/) <sup>[913](https://t.me/s/aboutrss/913)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)[![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/feedly-notifier/)[![Open-Source Software][oss icon]](https://github.com/olsh/Feedly-Notifier/)![Freeware][freeware icon]
 - [USEPANDA](https://usepanda.com/) <sup>[340](https://t.me/s/aboutrss/340)</sup> [![Online][Online icon]](https://usepanda.com/app/)[![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko)[![][iPhone icon]](https://apps.apple.com/gb/app/panda-lite-browse-product/id934805959)
 - [The Old Reader](https://theoldreader.com/) <sup>[346](https://t.me/s/aboutrss/346)</sup> [![Online][Online icon]](https://theoldreader.com/users/sign_in)
@@ -527,12 +535,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [ReadWise Reader](https://readwise.io/read) <sup>[1265](https://t.me/s/aboutrss/1265)</sup> ![Online][Online icon]
 - [MoFeed](https://mofeed.news/) <sup>[1303](https://t.me/s/aboutrss/1303)</sup> ![Online][Online icon]
 - [FeedGears](https://www.feedgears.com/) <sup>[1310](https://t.me/s/aboutrss/1310)</sup> ![Online][Online icon]![Freeware][freeware icon]
-- [GistReader](https://gistreader.com/) <sup>[1315](https://t.me/s/aboutrss/1315)</sup> ![Online][Online icon]
+- [GistReader](https://gistreader.com/) <sup>[1315](https://t.me/s/aboutrss/1315)</sup> ![Online][Online icon]![AI][AI icon]
 - [FeedGrid](https://feedgrid.io/) <sup>[1317](https://t.me/s/aboutrss/1317)</sup> ![Online][Online icon]
-- [Apricot](https://theapricot.io/) <sup>[1325](https://t.me/s/aboutrss/1325)</sup> ![Online][Online icon]
+- [Apricot](https://theapricot.io/) <sup>[1325](https://t.me/s/aboutrss/1325)</sup> ![Online][Online icon]![AI][AI icon]
+- [Vore](https://vore.website/) <sup>[1345](https://t.me/s/aboutrss/1345)</sup> ![Online][Online icon]
 
 ### Self Hosted Readers
-- [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup>
+- [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
 - [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444), [559](https://t.me/s/aboutrss/559), [610](https://t.me/s/aboutrss/610), [640](https://t.me/s/aboutrss/640), [800](https://t.me/s/aboutrss/800), [827](https://t.me/s/aboutrss/827), [831](https://t.me/s/aboutrss/831), [841](https://t.me/s/aboutrss/841), [853](https://t.me/s/aboutrss/853), [1040](https://t.me/s/aboutrss/1040),[1094](https://t.me/s/aboutrss/1094) </sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
   - [Awesome TTRSS](http://ttrss.henry.wang/) <sup>[211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [371](https://t.me/s/aboutrss/371)</sup> [![Open-Source Software][oss icon]](https://github.com/HenryQW/Awesome-TTRSS)
   - [docker-ttrss](https://github.com/x86dev/docker-ttrss) [![Open-Source Software][oss icon]](https://github.com/x86dev/docker-ttrss)
@@ -641,6 +650,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Stario Launcher](https://www.producthunt.com/products/stario-launcher) <sup>[1297](https://t.me/s/aboutrss/1297)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.stario.launcher)
 - [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software][oss icon]](https://github.com/gedoor/legado)![Freeware][freeware icon]
 - [Mastofeeder](https://mastofeeder.com/) <sup>[1327](https://t.me/s/aboutrss/1327)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software][oss icon]](https://github.com/jehna/mastofeeder)
+- [PlainApp](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software][oss icon]](https://github.com/ismartcoding/plain-app)
 
 ### TestFlight / Early Access
 
@@ -692,7 +702,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSSHub
 
-- https://johnrosen1.com/rsshub/ by [John Rosen](https://johnrosen1.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Funeasy.win%2Frss%2F)
 - https://rsshub.feeded.xyz/ by [胜之不易](https://feeded.xyz/rsshub%e6%9c%8d%e5%8a%a1%e5%99%a8/) <sup>[70](https://t.me/s/aboutrss/70), [1284](https://t.me/s/aboutrss/1284)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.feeded.xyz)
 - http://rsshub.rssforever.com by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.rssforever.com%2F)
 - https://rss.shab.fun/ by [MYELF](https://myelf.club/) <sup>[550](https://t.me/s/aboutrss/550)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.shab.fun%2F)
@@ -715,8 +724,9 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - http://rss.7nftday.xyz:1200/ by [@skyone39888636](https://twitter.com/skyone39888636/status/1544129847873613824) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.7nftday.xyz%3A1200%2F)
 - https://rsshub.ktachibana.party by [@KTachibanaM](https://github.com/KTachibanaM) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.ktachibana.party)
 - https://rsshub.top/ by [書书](https://shuzizhinan.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.top)
-- https://rsshub.sharerom.ml by [易燃又美味的凝胶](https://t.me/rsshub/272484) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.sharerom.ml)
+- https://rsshub.aierliz.xyz by [易燃又美味的凝胶](https://t.me/rsshub/272484) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.aierliz.xyz)
 - https://rsshub.services.woodland.cafe by [untitaker](https://github.com/untitaker) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.services.woodland.cafe)
+- https://rss.feiyuyu.net/ by [肥鱼](https://www.feiyuyu.net/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.feiyuyu.net)
 
 ### TTRSS
 - ~~https://rss.rssforever.com/~~ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
@@ -887,6 +897,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 #### multiple sources
 
 - [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub)
+  - [RSSbot](https://github.com/yindaheng98/RSSBot): connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software][oss icon]](https://github.com/yindaheng98/RSSBot)
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software][oss icon]](https://github.com/RSS-Bridge/rss-bridge)
 - [Huginn](https://github.com/huginn/huginn) <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272), [329](https://t.me/s/aboutrss/329), [855](https://t.me/s/aboutrss/855)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn)
 - [RSS.app](https://rss.app/) <sup>[110](https://t.me/s/aboutrss/110), [192](https://t.me/s/aboutrss/192)</sup>
@@ -918,6 +929,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [ChangeDetection](https://lemonade.changedetection.io/start) <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 - [RSSEverything](https://rss.stephenslab.top/) <sup>[1313](https://t.me/s/aboutrss/1313)</sup>
 - [Feedmaker](https://feedmaker.fly.dev/)
+- [RSSHub](https://docs.rsshub.app/routes/other#zhuan-huan) <sup>[1359](https://t.me/s/aboutrss/1359)</sup>
+- [RSS Bridge](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge) <sup>[1353](https://t.me/s/aboutrss/1353), [1359](https://t.me/s/aboutrss/1359)</sup>
 
 #### text
 
@@ -940,6 +953,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Notifier](https://notifier.in/) <sup>[545](https://t.me/s/aboutrss/545)</sup>
 - [emails2rss](http://emails2rss.appspot.com/) <sup>[1076](https://t.me/s/aboutrss/1076)</sup>
 - [Mailnesia](https://mailnesia.com/) <sup>[1076](https://t.me/s/aboutrss/1076)</sup>
+- [Feed4Mail](https://feed4.email/) <sup>[1350](https://t.me/s/aboutrss/1350)</sup>
 
 #### webhook
 
@@ -967,10 +981,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 #### Instagram
 
-- [Queryfeed](https://queryfeed.net/) <sup>[225](https://t.me/s/aboutrss/225)</sup>
-- [rss.yuji.ne.jp](https://rss.yuji.ne.jp) <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software][oss icon]](https://github.com/yujixr/instarss)![Freeware][freeware icon]
-- [Bibliogram](https://bibliogram.art/) <sup>[677](https://t.me/s/aboutrss/677)</sup>[![Open-Source Software][oss icon]](https://github.com/cloudrac3r/bibliogram)
-  - [bibliogram.nopyta.org](https://bibliogram.snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup>
+- ~~[Queryfeed](https://queryfeed.net/)~~ <sup>[225](https://t.me/s/aboutrss/225)</sup>
+- ~~[rss.yuji.ne.jp](https://rss.yuji.ne.jp)~~ <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software][oss icon]](https://github.com/yujixr/instarss)![Freeware][freeware icon]
+- ~~[Bibliogram](https://bibliogram.art/)~~ <sup>[677](https://t.me/s/aboutrss/677)</sup>[![Open-Source Software][oss icon]](https://github.com/cloudrac3r/bibliogram)
+  - ~~[bibliogram.nopyta.org](https://bibliogram.snopyta.org/)~~ <sup>[680](https://t.me/s/aboutrss/680)</sup>
 
 #### Facebook
 
@@ -1011,6 +1025,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Realtime RSS feeds for _Hacker News_](https://hnrss.org) <sup>[465](https://t.me/s/aboutrss/465)</sup> [![Open-Source Software][oss icon]](https://github.com/edavis/hnrss)![Freeware][freeware icon]
 - [Headllines](https://headllines.com/) <sup>[796](https://t.me/s/aboutrss/796)</sup> [![Open-Source Software][oss icon]](https://github.com/headllines)![Freeware][freeware icon]
 - [Hacker News Digest](http://hackernews.betacat.io/) <sup>[802](https://t.me/s/aboutrss/802)</sup> [![Open-Source Software][oss icon]](https://github.com/polyrabbit/hacker-news-digest)![Freeware][freeware icon]
+- [Hacker News RSS Feed for Busy People](https://hackernewsrss.com/) <sup>[1371](https://t.me/s/aboutrss/1371)</sup> ![Freeware][freeware icon]
 
 #### YouTube
 
@@ -1048,6 +1063,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Delicious](http://del.icio.us) <sup>[737](https://t.me/s/aboutrss/737)</sup>
 - [Raindrop](https://raindrop.io)
 - [wallabag](https://wallabag.org/en) <sup>[1057](https://t.me/s/aboutrss/1057)</sup> [![Open-Source Software][oss icon]](https://github.com/wallabag/wallabag)
+- [LinkyRSS](https://linkyrssdemo.inmytree.co.za/) <sup>[1341](https://t.me/s/aboutrss/1341)</sup> ![AI][AI icon]
+- [Omnivore](https://omnivore.app/) <sup>[1368](https://t.me/s/aboutrss/1368)</sup> [![Open-Source Software][oss icon]](https://github.com/omnivore-app/omnivore)
 
 #### WebArchive
 
@@ -1169,6 +1186,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Bulletyn](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware][freeware icon]
 - [Taco Digest](https://tacodigest.com/) <sup>[1146](https://t.me/s/aboutrss/1146)</sup>
 - [Subworthy](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware][freeware icon]
+- [Digest](https://usedigest.com/) <sup>[1361](https://t.me/s/aboutrss/1361)</sup> ![Freeware][freeware icon]
 
 ### RSS2TWITTER
 
@@ -1299,7 +1317,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS2Mastodon
 
-- [Mastogeed](https://mastofeed.org/) <sup>[1272](https://t.me/s/aboutrss/1272)</sup>
+- [Mastofeed](https://mastofeed.org/) <sup>[1272](https://t.me/s/aboutrss/1272)</sup>
+- [feedsin.space](https://feedsin.space/) <sup>[1344](https://t.me/s/aboutrss/1344)</sup>
 
 ### RSS2Webhook
 
@@ -1314,6 +1333,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Toolbox
 
 - [RSS Gizmos](https://rssgizmos.com/) <sup>[1326](https://t.me/s/aboutrss/1326)</sup>
+- [feedless](https://feedless.org/getting-started) <sup>[1340](https://t.me/s/aboutrss/1340)</sup> [![Open-Source Software][oss icon]](https://github.com/damoeb/feedless)
 
 ### Full Article Extractors
 
@@ -1331,10 +1351,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### Reddit RSS fix
 
-- [Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/) <sup>[268](https://t.me/s/aboutrss/268)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
-- [RSS of only top-level comments](https://www.reddit.com/r/rss/comments/ekffc2/is_it_possible_to_have_an_rss_of_only_toplevel/) <sup>[341](https://t.me/s/aboutrss/341)</sup>
-- [reddit.0qz.fun](https://reddit.0qz.fun/) <sup>[555](https://t.me/s/aboutrss/555)</sup>: improved reddit rss feed supports videos, gifs, and images
-- [Reddit Top RSS](https://reddit-top-rss.herokuapp.com/) <sup>[1206](https://t.me/s/aboutrss/1206)</sup> [![Open-Source Software][oss icon]](https://github.com/johnwarne/reddit-top-rss/)
+- ~~[Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/)~~ <sup>[268](https://t.me/s/aboutrss/268)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
+- ~~[RSS of only top-level comments](https://www.reddit.com/r/rss/comments/ekffc2/is_it_possible_to_have_an_rss_of_only_toplevel/)~~ <sup>[341](https://t.me/s/aboutrss/341)</sup>
+- ~~[reddit.0qz.fun](https://reddit.0qz.fun/)~~ <sup>[555](https://t.me/s/aboutrss/555)</sup>: improved reddit rss feed supports videos, gifs, and images
+- ~~[Reddit Top RSS](https://reddit-top-rss.herokuapp.com/)~~ <sup>[1206](https://t.me/s/aboutrss/1206)</sup> [![Open-Source Software][oss icon]](https://github.com/johnwarne/reddit-top-rss/)
 
 ### Tumblr RSS fix
 
@@ -1381,6 +1401,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 - [Use Google Sheet translate RSS item content](https://twitter.com/LorandBodo/status/1414887449189396510) <sup>[1070](https://t.me/s/aboutrss/1070)</sup>
 - [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/)
+- [RSS Translator](https://www.rsstranslator.com/) <sup>[1372](https://t.me/s/aboutrss/1372)</sup>
 
 ### XSL template for XML
 
@@ -1400,13 +1421,18 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [Semantic Search across any RSS feed with Diva](https://www.diva.so/demo) <sup>[1229](https://t.me/s/aboutrss/1229)</sup> ![Freeware][freeware icon]
 
+### RSS Feed integrated with AI generated content
+
+- [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
+- [RSS-GPT](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSS-GPT)![AI][AI icon]
+
 ## 👁‍🗨 Ease RSS feed subscribing process and reading experience
 
 ### RSS Feed Finding/Detection
 
 - [RSSHub Radar](https://diygod.me/rsshub-radar/) <sup>[47](https://t.me/s/aboutrss/47), [116](https://t.me/s/aboutrss/116)</sup> [![][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/)[![Windows][Windows icon]](https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar)
 - [Easy to RSS](https://idealclover.top/projects.html) [![][Chrome icon]](https://chrome.google.com/webstore/detail/easy-to-rss/hbcmpkcpbnecinpngdnfbnknfkdpdfli)[![Open-Source Software][oss icon]](https://github.com/idealclover/easy-to-rss)
-- [RSS+](https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss)
+- [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
 - [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software][oss icon]](https://github.com/DBeath/feedsearch-crawler)![Freeware][freeware icon]
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) <sup>[321](https://t.me/s/aboutrss/321)</sup> ![Chrome][Chrome icon]
 - [RSS button for Safari](https://rss-extension.bitpiston.com/) <sup>[321](https://t.me/s/aboutrss/321), [414](https://t.me/s/aboutrss/414)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/rss-button-for-safari/id1437501942?ls=1&mt=12)
@@ -1416,12 +1442,16 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feed Hawk](https://www.goldenhillsoftware.com/feed-hawk/) <sup>[593](https://t.me/s/aboutrss/593)</sup> [![iOS][iPhone icon]](https://itunes.apple.com/us/app/feed-hawk/id1093873777?ls=1&mt=8&at=11l4K5)
 - [RSSPreview](https://github.com/aureliendavid/rsspreview) [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software][oss icon]](https://github.com/aureliendavid/rsspreview)
 - [Inoreader browser extension](https://www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html) [![][Chrome icon]](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)[![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/rss-reader-extension-inoreader/)[![Windows][Windows icon]](https://microsoftedge.microsoft.com/addons/detail/rss-reader-extension-by-/lbjfhdjlblncekgomhadnnpampcahhal)
-- [RSSBud](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064)</sup> : iOS-version RSSHub Radar [![iOS][iPhone icon]](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software][oss icon]](https://github.com/Cay-Zhang/RSSBud)
+- [RSSBud](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS][iPhone icon]](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software][oss icon]](https://github.com/Cay-Zhang/RSSBud)
 - [RSSAid](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android][Android icon]](https://github.com/lt94/RSSAid/releases)[![Open-Source Software][oss icon]](https://github.com/lt94/RSSAid/)![Freeware][freeware icon]
 - [RSS Finder](https://rss-finder-web-app.vercel.app/) <sup>[1003](https://t.me/s/aboutrss/1003)</sup> [![Open-Source Software][oss icon]](https://github.com/alexdevero/rss-finder-web-app)
 - [Another RSS Finder](https://rss-finder.rook1e.com/) [![Open-Source Software][oss icon]](https://github.com/0x2E/rss-finder)
 - RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
 - [Thirdplace Discovery](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~thirdplace)![Freeware][freeware icon]
+- [Get RSS Feed URL](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software][oss icon]](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware][freeware icon]
+- [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon]
+- [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
+- [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
 
 ### Subscribing Button
 
@@ -1535,7 +1565,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - ~~[Feed43 Feeds List](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.~~
 - My Telegram channel sharing RSS feeds collected by others
-  - [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210) [6](https://t.me/s/aboutrss/1273) [7](https://t.me/s/aboutrss/1296) [8](https://t.me/s/aboutrss/1320) 
+  - [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210) [6](https://t.me/s/aboutrss/1273) [7](https://t.me/s/aboutrss/1296) [8](https://t.me/s/aboutrss/1320) [9](https://t.me/aboutrss/s/1349) [10](https://t.me/s/aboutrss/1371)
 - <strike>[Henix's feeds](https://henix.github.io/feeds/)</strike> <sup>[186](https://t.me/s/aboutrss/186)</sup>
 - [rss-源共享](https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB) <sup>[191](https://t.me/s/aboutrss/191)</sup>
 - [「一天世界」推荐的RSS订阅列表](https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/) <sup>[313](https://t.me/s/aboutrss/313)</sup>
@@ -1623,6 +1653,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [RSS node at V2EX](https://www.v2ex.com/go/rss) <sup>[230](https://t.me/s/aboutrss/230)</sup>
 - [/r/rss : a subreddit](https://www.reddit.com/r/rss/)
+- [RSS-Public Mailing List](https://groups.google.com/g/rss-public)
 
 ### Telegram Groups / Channels
 
@@ -1660,13 +1691,14 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - NetNewsWire: [@NetNewsWire@micro.blog](https://micro.blog/netnewswire)
 - Inoreader: [@Inoreader@mastodon.social](https://mastodon.social/@Inoreader)
 - Dave Winer：[@davew@mastodon.social](https://mastodon.social/@davew)
+- RSS ADVISORY BOARD: [@rssboard@mastodon.social](https://mastodon.social/@rssboard)
 
 ## ✒ Posts by individuals
 
 ### Views / Discussions / Experiences
 
 - Collections shared in the Telegram Channel
-  - [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260), , [44](https://t.me/s/aboutrss/1268), [45](https://t.me/s/aboutrss/1278), [46](https://t.me/s/aboutrss/1284), [47](https://t.me/s/aboutrss/1290), [48](https://t.me/s/aboutrss/1295), [49](https://t.me/s/aboutrss/1302), [50](https://t.me/s/aboutrss/1307), [51](https://t.me/s/aboutrss/1316), [52](https://t.me/s/aboutrss/1328), 
+  - [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260), , [44](https://t.me/s/aboutrss/1268), [45](https://t.me/s/aboutrss/1278), [46](https://t.me/s/aboutrss/1284), [47](https://t.me/s/aboutrss/1290), [48](https://t.me/s/aboutrss/1295), [49](https://t.me/s/aboutrss/1302), [50](https://t.me/s/aboutrss/1307), [51](https://t.me/s/aboutrss/1316), [52](https://t.me/s/aboutrss/1328), [53](https://t.me/s/aboutrss/1339), [54](https://t.me/s/aboutrss/1347), [55](https://t.me/s/aboutrss/1357), [56](https://t.me/s/aboutrss/1369)
 - Introduce RSS <sup>[339](https://t.me/s/aboutrss/339), [355![Video][Video icon]](https://t.me/s/aboutrss/355), [396](https://t.me/s/aboutrss/396), [416](https://t.me/s/aboutrss/416), [531](https://t.me/s/aboutrss/531), [552](https://t.me/s/aboutrss/552), [635](https://t.me/s/aboutrss/635), [679](https://t.me/s/aboutrss/679), [950](https://t.me/s/aboutrss/950), [1014](https://t.me/s/aboutrss/1014)</sup>
 - Views / Discussions About **RSS** <sup>[4](https://t.me/s/aboutrss/4), [6](https://t.me/s/aboutrss/6), [10](https://t.me/s/aboutrss/10), [11](https://t.me/s/aboutrss/11), [115](https://t.me/s/aboutrss/115), [132](https://t.me/s/aboutrss/132), [241](https://t.me/s/aboutrss/241), [265](https://t.me/s/aboutrss/265), [335](https://t.me/s/aboutrss/335), [350](https://t.me/s/aboutrss/350), [378](https://t.me/s/aboutrss/378), [397](https://t.me/s/aboutrss/397), [447](https://t.me/s/aboutrss/447), [479](https://t.me/s/aboutrss/479), [605](https://t.me/s/aboutrss/605), [938](https://t.me/s/aboutrss/938), [957](https://t.me/s/aboutrss/957)</sup>
 - Individual Experiences <sup>[3](https://t.me/s/aboutrss/3), [19](https://t.me/s/aboutrss/19), [92](https://t.me/s/aboutrss/92), [139](https://t.me/s/aboutrss/139), [163](https://t.me/s/aboutrss/163), [168](https://t.me/s/aboutrss/168), [182](https://t.me/s/aboutrss/182), [240](https://t.me/s/aboutrss/240), [243](https://t.me/s/aboutrss/243), [316](https://t.me/s/aboutrss/316), [318](https://t.me/s/aboutrss/318), [351](https://t.me/s/aboutrss/351), [375](https://t.me/s/aboutrss/375), [406](https://t.me/s/aboutrss/406), [431](https://t.me/s/aboutrss/431), [442](https://t.me/s/aboutrss/442), [453](https://t.me/s/aboutrss/453), [456![Video][Video icon]](https://t.me/s/aboutrss/456), [475](https://t.me/s/aboutrss/475), [514](https://t.me/s/aboutrss/514), [543](https://t.me/s/aboutrss/543), [591![Video][Video icon]](https://t.me/s/aboutrss/591), [638![Podcast][Podcast icon]](https://t.me/s/aboutrss/638), [641![Podcast][Podcast icon]](https://t.me/s/aboutrss/641), [718](https://t.me/s/aboutrss/718), [720](https://t.me/s/aboutrss/720), [783](https://t.me/s/aboutrss/783), [784](https://t.me/s/aboutrss/784), [861](https://t.me/s/aboutrss/861), [877](https://t.me/s/aboutrss/877), [900](https://t.me/s/aboutrss/900), [903](https://t.me/s/aboutrss/903), [907](https://t.me/s/aboutrss/907), [921![Podcast][Podcast icon]](https://t.me/s/aboutrss/921), [979](https://t.me/s/aboutrss/979), [1095](https://t.me/s/aboutrss/1010), [1095](https://t.me/s/aboutrss/1010)</sup>
@@ -1676,7 +1708,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Tutorials when knowing how to run code
 
 - Collections shared in the Telegram channel
-  - [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263), [16](https://t.me/s/aboutrss/1276), [17](https://t.me/s/aboutrss/1280), [18](https://t.me/s/aboutrss/1286), [19](https://t.me/s/aboutrss/1293), [20](https://t.me/s/aboutrss/1300), [21](https://t.me/s/aboutrss/1304), [22](https://t.me/s/aboutrss/1311), [23](https://t.me/s/aboutrss/1323), [24](https://t.me/s/aboutrss/1336), 
+  - [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263), [16](https://t.me/s/aboutrss/1276), [17](https://t.me/s/aboutrss/1280), [18](https://t.me/s/aboutrss/1286), [19](https://t.me/s/aboutrss/1293), [20](https://t.me/s/aboutrss/1300), [21](https://t.me/s/aboutrss/1304), [22](https://t.me/s/aboutrss/1311), [23](https://t.me/s/aboutrss/1323), [24](https://t.me/s/aboutrss/1336), [25](https://t.me/aboutrss/s/1343), [26](https://t.me/aboutrss/s/1353), [27](https://t.me/s/aboutrss/1366)
 - For JavaScript coders <sup>[291](https://t.me/s/aboutrss/291), [370](https://t.me/s/aboutrss/370), [468](https://t.me/s/aboutrss/468), [499](https://t.me/s/aboutrss/499), [511![Video][Video icon]](https://t.me/s/aboutrss/511), [519](https://t.me/s/aboutrss/519), [589](https://t.me/s/aboutrss/589), [634](https://t.me/s/aboutrss/634), [842](https://t.me/s/aboutrss/842), [1023](https://t.me/s/aboutrss/1023)</sup>
 - For Python coders <sup>[166](https://t.me/s/aboutrss/166), [330](https://t.me/s/aboutrss/330), [356](https://t.me/s/aboutrss/356), [367](https://t.me/s/aboutrss/367), [565](https://t.me/s/aboutrss/565), [776](https://t.me/s/aboutrss/776)</sup>
 - For PHP coders <sup>[454](https://t.me/s/aboutrss/454), [714](https://t.me/s/aboutrss/714)</sup>
@@ -1852,6 +1884,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [中文播客分析](http://beta.moon.fm/podcasts/data) <sup>[520](https://t.me/s/aboutrss/520)</sup>
 - [PodFest China 2020 中文播客听众与消费调研](https://podfestchina.com/survey/2020) <sup>[588](https://t.me/s/aboutrss/588)</sup>
+- [Podcast-Standard](https://podcast-standard.org/) <sup>[1351](https://t.me/s/aboutrss/1351)</sup>
 
 ## Podcast Hosting
 
@@ -1918,8 +1951,8 @@ Any contributions like suggestions or pull requests are welcome.
 <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2022-about-rss-contributor-2022-logo-1661975591967.png&w=1920&q=75" height="250px" > <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2021-about-rss-contributor-2021-logo-1661975587563.png&w=1920&q=75" height="250px" > <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2020-about-rss-contributor-2020-logo-1661975583629.png&w=1920&q=75" height="250px" >
 
 ## 💖 Acknowledgement
-
-- [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
+https://twitter.com/liangwenhao3
+- [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner&style=social)](https://twitter.com/davewiner), [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid&style=social)](https://twitter.com/crid), [![Twitter Follow](https://img.shields.io/twitter/follow/liangwenhao3?label=%40liangwenhao3&style=social)](https://twitter.com/liangwenhao3) and others who are also focusing on RSS ecosystem.
 - [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
 - [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 - [~~OpenSourceWeekly~~](https://fatalentropy.com/open-source-weekly/)
@@ -1978,3 +2011,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Online icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
+[AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
