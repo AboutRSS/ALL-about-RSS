@@ -26,6 +26,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Mac][Mac icon]  | for Mac OS, with link to its Apple store page |
 | ![Linux][Linux icon]  | for Linux system, with link to its official download page |
 | ![iOS][iPhone icon]  | for iOS/iPadOS, with link to its Apple store page |
+| ![Android][Android icon]  | for Android, with link to its Play store page |
 | ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
