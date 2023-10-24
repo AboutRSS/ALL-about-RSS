@@ -1180,14 +1180,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Publicate](https://publicate.it/) <sup>[738](https://t.me/s/aboutrss/738)</sup>
 - [Nourish](https://www.nouri.sh/)
 - [Feedbutler](https://feedbutler.app/en/) <sup>[789](https://t.me/s/aboutrss/789)</sup>
-- [FeedMailu](https://feedmailu.com/) <sup>[814](https://t.me/s/aboutrss/814)</sup> ![Freeware][freeware icon]
+- [~~FeedMailu~~](https://feedmailu.com/) <sup>[814](https://t.me/s/aboutrss/814)</sup> ![Freeware][freeware icon]
 - [RSSbyEmail](https://rssby.email/) <sup>[829](https://t.me/s/aboutrss/829)</sup>
 - [FlipRSS](https://fliprss.com/) <sup>[872](https://t.me/s/aboutrss/872)</sup>
-- [Revue](https://www.getrevue.co/) <sup>[989](https://t.me/s/aboutrss/989)</sup>
-- [Bulletyn](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware][freeware icon]
+- [~~Revue~~](https://www.getrevue.co/) <sup>[989](https://t.me/s/aboutrss/989)</sup>
+- [~~Bulletyn~~](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware][freeware icon]
 - [Taco Digest](https://tacodigest.com/) <sup>[1146](https://t.me/s/aboutrss/1146)</sup>
-- [Subworthy](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware][freeware icon]
+- [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware][freeware icon]
 - [Digest](https://usedigest.com/) <sup>[1361](https://t.me/s/aboutrss/1361)</sup> ![Freeware][freeware icon]
+- [Buttondown](https://buttondown.email/)
 
 ### RSS2TWITTER
 
