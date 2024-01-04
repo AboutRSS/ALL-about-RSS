@@ -932,6 +932,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedmaker](https://feedmaker.fly.dev/)
 - [RSSHub](https://docs.rsshub.app/routes/other#zhuan-huan) <sup>[1359](https://t.me/s/aboutrss/1359)</sup>
 - [RSS Bridge](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge) <sup>[1353](https://t.me/s/aboutrss/1353), [1359](https://t.me/s/aboutrss/1359)</sup>
+- [Feedropolis](https://feedropolis.cryptic.link/) [![Open-Source Software][oss icon]](https://gitlab.com/stormking/feedropolis) [![Online][Online icon]](https://feedropolis.cryptic.link/)
 
 #### text
 
