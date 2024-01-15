@@ -449,6 +449,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Read Copilot](https://cybertrek.eu.org/) <sup>[1360](https://t.me/s/aboutrss/1360)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/read-copilot/id6449242676)![AI][AI icon]
 - [Den for RSS](https://den.io/) <sup>[1362](https://t.me/s/aboutrss/1362)</sup> [![iOS][iPhone icon]](https://apps.apple.com/us/app/den-for-rss/id1528917651)[![Mac][Mac icon]](https://den.io/)[![Open-Source Software][oss icon]](https://github.com/garrettrayj/den)
 - [ReadBot](https://apps.apple.com/app/readbot/id6449085999) <sup>[1370](https://t.me/s/aboutrss/1370)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/readbot/id6449085999)![AI][AI icon]
+- [ReadYou](https://github.com/Ashinch/ReadYou) [![Android][Android icon]](https://github.com/Ashinch/ReadYou/releases)
 
 ### Wechat Mini Apps
 
