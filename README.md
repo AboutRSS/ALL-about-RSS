@@ -1877,7 +1877,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ## Turn Podcast/MP3 into Video via Podcast Feed
 
 - [HEADLINER](https://headliner.app/) <sup>[698](https://t.me/s/aboutrss/698)</sup>
-- [Podcast RSS Generator](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generateee it using GitHub Actions.
+- [Podcast RSS Generator](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generate it using GitHub Actions.
 
 ## Turn Webpage into Podcast
 
