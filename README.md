@@ -483,12 +483,12 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feeds Pub](https://feeds.pub) <sup>[485](https://t.me/s/aboutrss/485), [523](https://t.me/s/aboutrss/523)</sup> ![Online][Online icon]
 - [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
 - [BazQux](https://bazqux.com/) <sup>[381](https://t.me/s/aboutrss/381)</sup> ![Online][Online icon]
-- [FeedHQ](https://feedhq.org/) ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/feedhq/feedhq)
+- [FeedHQ](https://feedhq.org/) ![Online][Online icon][![Open-Source Software](https://github.com/feedhq/feedhq)
 - [Simple RSS Reader](https://simplerssreader.com/) ![Online][Online icon]
 - [Miniflux](https://miniflux.app/hosting.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [740](https://t.me/s/aboutrss/740)</sup> [![Online][Online icon]](https://miniflux.app/hosting.html)[![Open-Source Software][oss icon]](https://github.com/miniflux/miniflux)
   - [Heroku-Miniflux](https://github.com/sayomelu/heroku-miniflux) <sup>[945](https://t.me/s/aboutrss/945)</sup> [![Open-Source Software][oss icon]](https://github.com/sayomelu/heroku-miniflux)
 - [Nooshub](https://www.nooshub.com/) <sup>[396](https://t.me/s/aboutrss/396)</sup> ![Online][Online icon]
-- [CommaFeed](https://www.commafeed.com/) <sup>[1332](https://t.me/s/aboutrss/1332), [1293](https://t.me/s/aboutrss/1293)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed)![Freeware][freeware icon] 
+- [CommaFeed](https://www.commafeed.com/) <sup>[1332](https://t.me/s/aboutrss/1332), [1293](https://t.me/s/aboutrss/1293)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed)![Freeware][freeware icon]
 - [深蓝阅读 bluereader](https://bluereader.org/) [![Online][Online icon]](https://bluereader.org/login)[![iOS][iPhone icon]](https://itunes.apple.com/cn/app/shen-lan-yue-du/id793002024?ls=1&mt=8)[![Android][Android icon]](https://bluereader.org/app)
 - [~~flowreader~~](https://flowreader.com/) ![Online][Online icon]
 - [reedah](https://www.reedah.com/) ![Online][Online icon]
@@ -835,7 +835,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [@newsbot](https://mastodon.social/@newsbot) <sup>[387](https://t.me/s/aboutrss/387)</sup> [![Open-Source Software][oss icon]](https://github.com/yogthos/mastodon-bot)
 
-### Matrix 
+### Matrix
 
 - [@RSSBot](https://matrix.to/#/@rss:t2bot.io) [![Open-Source Software][oss icon]](https://github.com/maubot/rss)
 
@@ -1196,7 +1196,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [py-feedr](https://github.com/M157q/py-feedr) <sup>[551](https://t.me/s/aboutrss/551)</sup>: A Python parser to tweet the latest updates from multiple RSS feeds. [![Open-Source Software][oss icon]](https://github.com/M157q/py-feedr)
 - [socialdog](https://social-dog.net/en/)
 - [Feedio](https://feedio.co) <sup>[678](https://t.me/s/aboutrss/678)</sup>
-- [dlvr.it](https://dlvrit.com) <sup>[702](https://t.me/s/aboutrss/702)</sup> 
+- [dlvr.it](https://dlvrit.com) <sup>[702](https://t.me/s/aboutrss/702)</sup>
 
 ### RSS2SLACK
 
@@ -1877,6 +1877,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ## Turn Podcast/MP3 into Video via Podcast Feed
 
 - [HEADLINER](https://headliner.app/) <sup>[698](https://t.me/s/aboutrss/698)</sup>
+- [Podcast RSS Generator](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generateee it using GitHub Actions.
 
 ## Turn Webpage into Podcast
 
@@ -1972,8 +1973,8 @@ Thank you to all RSS supporters! It's you who have created these marvelous tools
 
 ### Contributors
 
-<a href="https://github.com/aboutrss/all-about-rss/graphs/contributors"> 
-  <img src="https://contrib.rocks/image?repo=aboutrss/all-about-rss" /> 
+<a href="https://github.com/aboutrss/all-about-rss/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aboutrss/all-about-rss" />
 </a>
 
 ### Sponsors
