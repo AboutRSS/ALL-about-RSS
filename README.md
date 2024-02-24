@@ -458,6 +458,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Quickify](https://quickify.app/) <sup>[1399](https://t.me/s/aboutrss/1399)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=quick.read.app)
 - [Collie](https://parksb.github.io/work/18.html) <sup>[1402](https://t.me/s/aboutrss/1402)</sup> ![Mac][Mac icon]![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - Aggregator News <sup>[1415](https://t.me/s/aboutrss/1415)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
+- [Wire](https://wirereader.app) [![iOS][iPhone icon]]([id6456571712](https://apps.apple.com/us/app/wire-rss-news-reader/id1438331258))
 
 ### Wechat Mini Apps
 
@@ -881,6 +882,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [The RSS Discovery Engine](https://rdengine.herokuapp.com/) <sup>[1136](https://t.me/s/aboutrss/1136)</sup>
 - [Feedle](https://feedle.world/) <sup>[1277](https://t.me/s/aboutrss/1277)</sup>
 - [rss.ag](http://rss.ag/)
+- [Wire](https://search.wirereader.app/)
 
 ## 🔱 Workflow Automation
 
