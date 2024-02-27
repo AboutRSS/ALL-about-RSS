@@ -555,6 +555,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Readine](https://pwa.readine.app/) <sup>[1389](https://t.me/s/aboutrss/1389)</sup> ![Online][Online icon]
 - [Feeds Fun](https://feeds.fun/) <sup>[1404](https://t.me/s/aboutrss/1404)</sup> ![Online][Online icon]![AI][AI icon][![Open-Source Software][oss icon]](https://github.com/Tiendil/feeds.fun)
 - [Freshet](https://freshet.net/) <sup>[1411](https://t.me/s/aboutrss/1411)</sup> ![Online][Online icon]
+- [Awakari](https://awakari.com/) ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/awakari)![Freeware][freeware icon]
 
 ### Self Hosted Readers
 - [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
@@ -836,7 +837,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RobotRSS](https://t.me/PyRSS2Bot) <sup>[1009](https://t.me/aboutrss/1009?comment=7227)</sup> [![Open-Source Software][oss icon]](https://github.com/BoKKeR/RSS-to-Telegram-Bot)
 - [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [Fidder](https://t.me/FidderBot) <sup>[1209](https://t.me/aboutrss/1209)</sup>
-- [G Reader](https://t.me/GReaderBot) <sup>[1386](https://t.me/s/aboutrss/1386)</sup> [![Open-Source Software][oss icon]](https://github.com/nikstar/greader)
+- [G Reader](https://t.me/GReaderBot) <sup>[1386](https://t.me/s/aboutrss/1386)</sup> [![Open-Source Software][oss icon]](https://github.com/nikstar/greader
+- [AwakariBot](https://t.me/AwakariBot) [![Open-Source Software][oss icon]](https://github.com/awakari/bot-telegram)
 
 #### Bot of RSS屋 (a Full Article Extractor Service)
 
@@ -883,6 +885,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedle](https://feedle.world/) <sup>[1277](https://t.me/s/aboutrss/1277)</sup>
 - [rss.ag](http://rss.ag/)
 - [Wire](https://search.wirereader.app/)
+- [Awakari](https://awakari.com/login.html)
 
 ## 🔱 Workflow Automation
 
