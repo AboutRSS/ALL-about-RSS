@@ -837,7 +837,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RobotRSS](https://t.me/PyRSS2Bot) <sup>[1009](https://t.me/aboutrss/1009?comment=7227)</sup> [![Open-Source Software][oss icon]](https://github.com/BoKKeR/RSS-to-Telegram-Bot)
 - [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [Fidder](https://t.me/FidderBot) <sup>[1209](https://t.me/aboutrss/1209)</sup>
-- [G Reader](https://t.me/GReaderBot) <sup>[1386](https://t.me/s/aboutrss/1386)</sup> [![Open-Source Software][oss icon]](https://github.com/nikstar/greader
+- [G Reader](https://t.me/GReaderBot) <sup>[1386](https://t.me/s/aboutrss/1386)</sup> [![Open-Source Software][oss icon]](https://github.com/nikstar/greader)
 - [AwakariBot](https://t.me/AwakariBot) [![Open-Source Software][oss icon]](https://github.com/awakari/bot-telegram)
 
 #### Bot of RSS屋 (a Full Article Extractor Service)
