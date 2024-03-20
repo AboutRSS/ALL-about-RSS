@@ -803,6 +803,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Miniflux
 
 - [reminiflux](https://reminiflux.github.io/) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software][oss icon]](https://github.com/reminiflux/reminiflux)
+- [miniflux-theme-reeder](https://github.com/rootknight/Miniflux-Theme-Reeder) [![Open-Source Software][oss icon]](https://github.com/rootknight/Miniflux-Theme-Reeder)
 
 ## 🤖 RSS bots
 
