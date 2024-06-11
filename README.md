@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="Screenshot of isRSSdead.com"></img></a><br>
+<a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="An image containing the text: 'You wanted to know: Is RSS dead? Lots of feeds. All popular blogging platforms support RSS. As do most news orgs. Lots of feed reading software. And lots of users. Podcasting is booming. It's open, no platform vendor, anyone can use it. So no, RSS is not dead.'. Followed by a green candy heart with the letters RSS impressed."></img></a><br>
 <small>Screenshot of isRSSdead.com</small>
 </p>
 
