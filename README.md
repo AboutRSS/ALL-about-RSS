@@ -888,6 +888,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [rss.ag](http://rss.ag/)
 - [Wire](https://search.wirereader.app/)
 - [Awakari](https://awakari.com/login.html)
+- [Blogroll Network](https://alexsci.com/rss-blogroll-network/) [![Open-Source Software][oss icon]](https://github.com/ralexander-phi/rss-blogroll-network) ![Freeware][freeware icon]
 
 ## 🔱 Workflow Automation
 
