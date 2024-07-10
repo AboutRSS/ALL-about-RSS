@@ -888,7 +888,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [rss.ag](http://rss.ag/)
 - [Wire](https://search.wirereader.app/)
 - [Awakari](https://awakari.com/login.html)
-- [Blogroll Network](https://alexsci.com/rss-blogroll-network/) [![Open-Source Software][oss icon]](https://github.com/ralexander-phi/rss-blogroll-network) ![Freeware][freeware icon]
 
 ## 🔱 Workflow Automation
 
@@ -1630,6 +1629,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Single Feed Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527857429467172864) <sup>[1221](https://t.me/s/aboutrss/1221)</sup>
 - [RSS Feed Bundles Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527674304921362432) <sup>[1230](https://t.me/s/aboutrss/1230)</sup>
 - [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
+- [Blogroll Network](https://alexsci.com/rss-blogroll-network/) [![Open-Source Software][oss icon]](https://github.com/ralexander-phi/rss-blogroll-network) ![Freeware][freeware icon]
 
 ### Aggregators of Indieblogs
 
