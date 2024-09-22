@@ -475,6 +475,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Your News](https://yournews.app/) <sup>[1436](https://t.me/s/aboutrss/1436)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.your_news)
 - [Fiper](https://www.fiper.net/en/) <sup>[1445](https://t.me/s/aboutrss/1445)</sup> [![Online][Online icon]](https://app.fiper.net/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=net.fiper)[![iOS][iPhone icon]](https://itunes.apple.com/app/fiper/id1292032406)
 - [PoweReader](https://powereader.app/) <sup>[1452](https://t.me/s/aboutrss/1452)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/powereader-ai-powered-rss/id6479644903)[![Mac][Mac icon]](https://apps.apple.com/app/powereader-ai-powered-rss/id6479644903)![AI][AI icon]
+- [Follow](https://follow.is/) [![Online][Online icon]](https://app.follow.is/)[![Windows][Windows icon]](https://follow.is/download)[![Mac][Mac icon]](https://follow.is/download)[![Linux][Linux icon]](https://follow.is/download)![AI][AI icon]
 
 ### Wechat Mini Apps
 
