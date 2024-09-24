@@ -634,7 +634,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Cypht](https://cypht.org/) <sup>[1226](https://t.me/s/aboutrss/1226)</sup> [![Open-Source Software][oss icon]](https://github.com/jasonmunro/cypht)
 
 ### Terminal-based / programmable RSS readers
-
+- [cast-text](https://github.com/piqoni/cast-text) [![Open-Source Software][oss icon]](https://github.com/piqoni/cast-text)![Freeware][freeware icon]![Linux][Linux icon]![Mac][Mac icon]![Windows][Windows icon]: a zero-latency, easy-to-use, rss reader. 
 - [newsbeuter](https://newsbeuter.org/) <sup>[340](https://t.me/s/aboutrss/340)</sup> ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/akrennmair/newsbeuter/tree/master)![Freeware][freeware icon]
 - [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software][oss icon]](https://github.com/newsboat/newsboat) ![Linux][Linux icon]![Mac][Mac icon]
 - [feed2exec](https://feed2exec.readthedocs.io/en/stable/) <sup>[391](https://t.me/s/aboutrss/391)</sup> [![Open-Source Software][oss icon]](https://gitlab.com/anarcat/feed2exec)
