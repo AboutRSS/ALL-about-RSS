@@ -780,6 +780,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - https://rsshub.aierliz.xyz by [易燃又美味的凝胶](https://t.me/rsshub/272484) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.aierliz.xyz)
 - https://rsshub.services.woodland.cafe by [untitaker](https://github.com/untitaker) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.services.woodland.cafe)
 - https://rss.feiyuyu.net/ by [肥鱼](https://www.feiyuyu.net/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.feiyuyu.net)
+- https://rsshub.ddns.net/ by [Web9upper](https://github.com/web9upper) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frsshub.ddns.net)
 
 ### TTRSS
 - ~~https://rss.rssforever.com/~~ by [思有云 - IOIOX](https://www.ioiox.com/) <sup>[497](https://t.me/s/aboutrss/497), [922](https://t.me/s/aboutrss/922)</sup> ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Frss.rssforever.com%2F)
