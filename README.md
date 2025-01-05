@@ -1379,6 +1379,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS2DISCORD
 
+- [Mirror.bot](https://mirror.bot/) ![Online][Online icon]
 - [MonitoRSS](https://MonitoRSS.xyz) <sup>[787](https://t.me/s/aboutrss/787)</sup>
 - [Readybot](https://readybot.io/) <sup>[1231](https://t.me/s/aboutrss/1231)</sup>
 - [EchoFeed](https://echofeed.app/) <sup>[1447](https://t.me/s/aboutrss/1447)</sup> [![Open-Source Software][oss icon]](https://github.com/rknightuk/echo)
