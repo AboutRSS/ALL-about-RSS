@@ -476,6 +476,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Fiper](https://www.fiper.net/en/) <sup>[1445](https://t.me/s/aboutrss/1445)</sup> [![Online][Online icon]](https://app.fiper.net/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=net.fiper)[![iOS][iPhone icon]](https://itunes.apple.com/app/fiper/id1292032406)
 - [PoweReader](https://powereader.app/) <sup>[1452](https://t.me/s/aboutrss/1452)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/powereader-ai-powered-rss/id6479644903)[![Mac][Mac icon]](https://apps.apple.com/app/powereader-ai-powered-rss/id6479644903)![AI][AI icon]
 - [Follow](https://follow.is/) [![Online][Online icon]](https://app.follow.is/)[![Windows][Windows icon]](https://follow.is/download)[![Mac][Mac icon]](https://follow.is/download)[![Linux][Linux icon]](https://follow.is/download)![AI][AI icon]
+- [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 
 ### Wechat Mini Apps
 
@@ -625,6 +626,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Refeed](https://refeedreader.com/) <sup>[1422](https://t.me/s/aboutrss/1422)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/michaelkremenetsky/Refeed)
 - [Fusion](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion)
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software][oss icon]](https://github.com/srcrs/rss-reader)
+- [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 
 ### RSS Reader in Email System
 
@@ -907,6 +909,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [Radio3io](http://radio3.io/) <sup>[483](https://t.me/s/aboutrss/483)</sup>
 - [Micro.blog](https://micro.blog) <sup>[488](https://t.me/s/aboutrss/488), [835](https://t.me/s/aboutrss/835)</sup>
+- [Social Reader](https://github.com/hyphacoop/reader.distributed.press)
 
 ## 🔍 Feed Search Engines
 
