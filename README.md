@@ -634,6 +634,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Fusion](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion)
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software][oss icon]](https://github.com/srcrs/rss-reader)
 - [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
+- [Karakeep](https://github.com/karakeep-app/karakeep)
+- [Django link archive](https://github.com/rumca-js/Django-link-archive)
 
 ### RSS Reader in Email System
 
@@ -1646,6 +1648,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [SyndiKit](https://github.com/brightdigit/SyndiKit): Swift Package for Decoding RSS Feeds <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/brightdigit/SyndiKit)
 - [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/simplepie/simplepie/)
 - [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software][oss icon]](https://github.com/sebastienrousseau/rssgen)
+- [Crawler-Buddy](https://github.com/rumca-js/crawler-buddy): A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
 
 ## ⛓ OPML management
 
