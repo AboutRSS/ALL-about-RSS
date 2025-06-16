@@ -634,8 +634,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Fusion](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion)
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software][oss icon]](https://github.com/srcrs/rss-reader)
 - [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
-- [Karakeep](https://github.com/karakeep-app/karakeep)
-- [Django link archive](https://github.com/rumca-js/Django-link-archive)
 
 ### RSS Reader in Email System
 
@@ -1388,6 +1386,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### RSS2ARCHIVE
 
 - [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox)
+- [Karakeep](https://github.com/karakeep-app/karakeep)
+- [Django link archive](https://github.com/rumca-js/Django-link-archive)
 
 ### RSS2GitHub
 
