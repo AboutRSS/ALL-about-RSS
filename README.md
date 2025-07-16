@@ -30,6 +30,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Android][Android icon]  | for Android, with link to its Play store page |
 | ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
+| ![Greasemonkey][Greasemonkey icon] | for Greasemonkey, with link to its official download page |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
 | ![Video][Video icon]  | It's a Video/Vlog |
 | ![AI][AI icon] | AI integrated |
