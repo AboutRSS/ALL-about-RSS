@@ -1388,6 +1388,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox)
 - [Karakeep](https://github.com/karakeep-app/karakeep)
 - [Django link archive](https://github.com/rumca-js/Django-link-archive)
+- [RSS Librarian](https://alternator.hstn.me/librarian.php) [![Open-Source Software][oss icon]](https://github.com/thefranke/rss-librarian)
 
 ### RSS2GitHub
 
