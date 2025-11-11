@@ -1388,7 +1388,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox)
 - [Karakeep](https://github.com/karakeep-app/karakeep)
 - [Django link archive](https://github.com/rumca-js/Django-link-archive)
-- [RSS Librarian](https://alternator.hstn.me/librarian.php) [![Open-Source Software][oss icon]](https://github.com/thefranke/rss-librarian)
+- [RSS Librarian](https://www.rsslibrarian.ch/librarian.php) [![Open-Source Software][oss icon]](https://github.com/thefranke/rss-librarian)
 
 ### RSS2GitHub
 
@@ -2195,3 +2195,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
+
