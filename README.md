@@ -165,7 +165,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Feed item filtering](#feed-item-filtering)
   - [Combine multiple feeds into one](#combine-multiple-feeds-into-one)
   - [Obtain translated RSS feed](#obtain-translated-rss-feed)
-  - [XSL template for XML](#xsl-template-for-xml)
+  - [Styling an RSS feed](#styling-an-rss-feed)
   - [Landing page for RSS Feed](#landing-page-for-rss-feed)
   - [Retrieve old items from a RSS feed](#retrieve-old-items-from-a-rss-feed)
   - [Change RSS feed into vertical text view](#change-rss-feed-into-vertical-text-view)
@@ -313,6 +313,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ## ✔ RSS Feed Validator
 
 - [Feed Validator for RSS and Atom](https://validator.w3.org/feed/check.cgi)
+- [Feed Analyzer](https://www.rss.style/feed-analyzer.html)
 
 ## 📖 RSS Readers
 
@@ -1545,11 +1546,13 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/)
 - [RSS Translator](https://www.rsstranslator.com/) <sup>[1372](https://t.me/s/aboutrss/1372), [1412](https://t.me/s/aboutrss/1412)</sup>
 
-### XSL template for XML
+### Styling an RSS feed
+
+So a new user can see something other than a wall of raw XML.  Note that XSLT is going to be deprecated by the browsers.
 
 - [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
 - [pretty-feed-v3](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
-- [Feed Style](https://www.feed.style/) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
+- [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 - [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
 
 ### Landing page for RSS Feed
