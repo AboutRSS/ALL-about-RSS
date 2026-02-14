@@ -990,6 +990,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Worker](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software][oss icon]](https://github.com/yllhwa/RSSWorker)
 - [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 - [mkfd](https://github.com/TBosak/mkfd)
+- [NebulaPicker](https://github.com/djsilva99/nebulapicker) [![Open-Source Software][oss icon]](https://github.com/djsilva99/nebulapicker)
 
 #### webpage/html
 
