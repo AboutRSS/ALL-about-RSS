@@ -635,6 +635,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Fusion](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion)
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software][oss icon]](https://github.com/srcrs/rss-reader)
 - [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
+- [Dashboard](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software][oss icon]![Freeware][freeware icon] lightweight, customizable, client-side RSS feeds dashboard.
 
 ### RSS Reader in Email System
 
@@ -2199,4 +2200,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
+
 
