@@ -659,6 +659,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Syndicationd](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust <sup>[1461](https://t.me/s/aboutrss/1461)</sup> [![Open-Source Software][oss icon]](https://github.com/ymgyt/syndicationd)![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
 - [Cleed](https://github.com/radulucut/cleed) [![Open-Source Software][oss icon]](https://github.com/radulucut/cleed)![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
 - [feed.nvim - Neovim Web Feed Reader](https://github.com/neo451/feed.nvim) [![Open-Source Software][oss icon]](https://github.com/neo451/feed.nvim)
+- [eilmeldung](https://github.com/christo-auer/eilmeldung) [![Open-Source Software][oss icon]](https://github.com/christo-auer/eilmeldung) ![Linux][Linux icon]![Mac][Mac icon]
 
 ### RSS services powered by utilizing GitHub
 
@@ -2200,4 +2201,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
+
 
