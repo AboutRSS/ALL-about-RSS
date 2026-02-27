@@ -852,6 +852,25 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ## 🤖 RSS bots
 
+### XMPP (Jabber)
+
+### Group chat bots
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed)
+- [Morbot](https://codeberg.org/TheCoffeMaker/Morbot)
+- [feed-to-muc](https://salsa.debian.org/mdosch/feed-to-muc)
+
+### Private chat bots
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed)
+- [JabRSS](http://www.jotwewe.de/de/xmpp/jabrss/jabrss_en.htm)
+  [JabRSS2](https://dev.cmeerw.org/Projects/jabrss)
+
+### PubSub bot
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed)
+- [atomtopubsub](https://github.com/edhelas/atomtopubsub)
+
 ### Telegram
 
 #### Telegram RSS bots
