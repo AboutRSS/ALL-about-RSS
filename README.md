@@ -1797,6 +1797,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [xLog](https://xlog.app)
 - [microfeed](https://www.microfeed.org/) <sup>[1304](https://t.me/s/aboutrss/1304)</sup> [![Open-Source Software][oss icon]](https://github.com/microfeed/microfeed)![Freeware][freeware icon]
 - [microblogpub](https://microblog.pub/) <sup>[1323](https://t.me/s/aboutrss/1323)</sup> [![Open-Source Software][oss icon]](https://sr.ht/~tsileo/microblog.pub/)
+- [Rivista](https://git.xmpp-it.net/sch/Rivista)
 
 ### Blogroll generator
 
