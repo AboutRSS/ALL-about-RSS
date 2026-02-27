@@ -1751,6 +1751,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS Feed Bundles Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527674304921362432) <sup>[1230](https://t.me/s/aboutrss/1230)</sup>
 - [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 - [MoreRSS](https://morerss.com/index.php) <sup>[1442](https://t.me/s/aboutrss/1442)</sup>
+- [Awesome RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes) [![Open-Source Software][oss icon]](https://github.com/JackyST0/awesome-rsshub-routes) ![Freeware][freeware icon]
 
 ### Aggregators of Indieblogs
 
@@ -2200,4 +2201,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
+
 
