@@ -965,6 +965,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
 - [Informate](https://informate.elsetech.io/) <sup>[724](https://t.me/s/aboutrss/724)</sup> ![Online][Online icon]
 - [Castbee](https://castbee.net/) <sup>[864](https://t.me/s/aboutrss/864), [883](https://t.me/s/aboutrss/883)</sup> ![Online][Online icon][![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/castbee-news-subscriber/pmggohjclghclepgangbbgakapljlnnc)
+- [WeWantPeace](https://www.wewantpeace.live) [![Open-Source Software][oss icon]](https://github.com/nameofkk/wewantpeace) - Real-time global conflict monitoring platform that aggregates 200+ RSS feeds across 195 countries with AI-powered analysis, interactive crisis map, severity scoring, and tension index tracking.
 
 ## 🛠 RSS Feed Generation
 
