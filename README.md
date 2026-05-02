@@ -1252,6 +1252,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### RSS2KINDLE
 
 - [Kindle Ear](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software][oss icon]](https://github.com/cdhigh/KindleEar)
+- [RSStoKindle](https://www.rsstokindle.com/) [![Online][Online icon]](https://www.rsstokindle.com/)![Freeware][freeware icon]
 - [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video][Video icon]](https://t.me/s/aboutrss/1056)</sup> ![Freeware][freeware icon]
 - [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video][Video icon]](https://t.me/s/aboutrss/1056)</sup>
   - [Reabble for Android](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software][oss icon]](https://github.com/zmk-ink/reabble-android)
