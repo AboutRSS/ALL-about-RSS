@@ -481,6 +481,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Quick RSS](https://wangchujiang.com/quick-rss/) <sup>[1485](https://t.me/s/aboutrss/1485)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/regex-mate/6670696072?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/quick-rss/6670696072)
 - [inRead](https://inread.top/) <sup>[1494](https://t.me/s/aboutrss/1494)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/inread-read-later/id6499581607?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/inread-read-later/id6499581607)
 - [Tapestry](https://usetapestry.com/) <sup>[1424](https://t.me/s/aboutrss/1424), [1498](https://t.me/s/aboutrss/1498)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074)
+- [RSSly](https://rssly.io) ![Windows][Windows icon]![Freeware][freeware icon]
 
 ### Wechat Mini Apps
 
