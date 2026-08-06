@@ -2158,7 +2158,7 @@ Any contributions like suggestions or pull requests are welcome.
 
 Thank you to all RSS supporters! It's you who have created these marvelous tools, apps, etc. and still keep bringing new ideas and innovation to the realm of RSS. Furthermore, thanks very much to members / followers of the 「AboutRSS」 [channel](https://t.me/s/aboutrss) / [twitter](https://twitter.com/aboutrss) account.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=aboutrss/all-about-rss&type=Date)](https://star-history.com/#aboutrss/all-about-rss&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=AboutRSS/ALL-about-RSS&type=date&legend=top-left)](https://star-history.dera.page/#AboutRSS/ALL-about-RSS&type=date&legend=top-left)
 
 ### Contributors
 
