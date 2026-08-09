@@ -993,6 +993,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 - [mkfd](https://github.com/TBosak/mkfd)
 - [NebulaPicker](https://github.com/djsilva99/nebulapicker) [![Open-Source Software][oss icon]](https://github.com/djsilva99/nebulapicker)
+- [RSS Emit](https://rssemit.com/) ![AI][AI icon]
 
 #### webpage/html
 
@@ -1303,6 +1304,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Buttondown](https://buttondown.email/) <sup>[1382](https://t.me/s/aboutrss/1382)</sup>
 - [lightfeed](https://www.lightfeed.app/) <sup>[1448](https://t.me/s/aboutrss/1448)</sup> ![AI][AI icon]
 - [TidyRead](https://tidyread.ai/) <sup>[1470](https://t.me/s/aboutrss/1470)</sup> [![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/tidyread/gpfnpbpkadjgeoneammbiiidbkgkncaa)![AI][AI icon]
+- [RSS Emit](https://rssemit.com/)
 
 ### RSS2TWITTER
 
