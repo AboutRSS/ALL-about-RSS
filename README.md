@@ -1724,6 +1724,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 - [Awesome-techCN-feeds](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 - [~~Refined Blog~~](https://refined.blog/)
+- [What's New](https://whatsnew.fyi/) : follows the changelogs of over a thousand software products. One feed per product, one for everything, with the release notes carried in content:encoded [![Online][Online icon]](https://whatsnew.fyi/)![Freeware][freeware icon]
 
 #### Crypto or Blockchain relevant
 
