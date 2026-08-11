@@ -1464,6 +1464,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS2Podcast
 
+- [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online][Online icon]![AI][AI icon]
 - [POD GENIE](https://pod-genie.com/) <sup>[1318](https://t.me/s/aboutrss/1318)</sup>
 
 ### RSS2Nostr
