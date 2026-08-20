@@ -2012,6 +2012,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [领讲台](https://www.lingjiangtai.com/) <sup>[1234](https://t.me/s/aboutrss/1234)</sup> [![Online][Online icon]](https://www.lingjiangtai.com/)[![iOS][iPhone icon]](https://apps.apple.com/app/%E9%A2%86%E8%AE%B2%E5%8F%B0/id1614074989)[![Android][Android icon]](https://www.lingjiangtai.com/app)
 - [Airshow](https://feedbin.com/airshow) <sup>[1237](https://t.me/s/aboutrss/1237)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/airshow-lightweight-podcasts/id1584582270)
 - [Pods](https://x.com/Enter_Apps/status/1768669206826926292) <sup>[1440](https://t.me/s/aboutrss/1440)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/pods-minimal-rss-news-reader/id6478560203)[![Android][Android icon]](https://play.google.com/store/apps/details?id=air.enter.pods)![AI][AI icon]
+- [The Podcast App](https://thepodcastapp.dev/) [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.magnolia.thepodcastapp)[![iOS][iPhone icon]](https://apps.apple.com/app/the-podcast-app/id6754806244)![AI][AI icon]
 
 ## Aggregators of Podcasts / Podcast Navigation
 
@@ -2033,6 +2034,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 - [Podbase](https://podba.se/validate/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
 - [Cast Feed Validator](https://castfeedvalidator.com/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
+- [The Podcast App RSS Validator](https://thepodcastapp.dev/tools/rss-validator)
 
 ## Podcast RSS feed submission page for audio platforms
 
