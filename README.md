@@ -1721,6 +1721,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [A collection of over 900 RSS feeds for web developers, updated monthly](https://github.com/simevidas/web-dev-feeds) <sup>[929](https://t.me/s/aboutrss/929)</sup> [![Open-Source Software][oss icon]](https://github.com/simevidas/web-dev-feeds)
 - [Information Security News](https://attachments.convertkitcdnn2.com/446246/c3c56058-be1f-4967-9fae-f21b2b563020/security-news.opml) <sup>[947](https://t.me/s/aboutrss/947)</sup>
 - [The iOS Dev Directory](https://iosdevdirectory.com/) <sup>[954](https://t.me/s/aboutrss/954)</sup>
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) : English weekly on iOS/indie App Store fees, ASO, and storefront ops. Dedicated [RSS 2.0](https://fortune-insight.onrender.com/shop/brief/feed.xml). [Issue 1 sample](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html)
 - [Indie Hackers Unofficial Feeds](https://feed.indiehackers.world/) <sup>[961](https://t.me/s/aboutrss/961)</sup>
 - [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software][oss icon]](https://github.com/kilimchoi/engineering-blogs/)
