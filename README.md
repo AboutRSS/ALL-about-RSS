@@ -439,7 +439,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - RSSCube <sup>[1164](https://t.me/s/aboutrss/1164)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/rsscube-rss%E9%98%85%E8%AF%BB%E5%99%A8/id1602812291)
 - RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
 - [Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
-- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)
+- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)</sup>
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
 - [Substack Reader](https://substack.com/inbox) <sup>[1184](https://t.me/s/aboutrss/1184), [1257](https://t.me/s/aboutrss/1257), [1261](https://t.me/s/aboutrss/1261)</sup> [![iOS][iPhone icon]](http://substack.com/app/get-ios)[![Android][Android icon]](https://on.substack.com/p/android)![Online][Online icon]
 - [News](https://f-droid.org/packages/co.appreactor.news/) <sup>[1190](https://t.me/s/aboutrss/1190)</sup> [![Open-Source Software][oss icon]](https://github.com/bubelov/news)[![Android][Android icon]](https://f-droid.org/packages/co.appreactor.news/)![Freeware][freeware icon]
@@ -734,7 +734,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 > Note: has not been updated for a while.
 
 <p align="center">
-<a href="https://public.flourish.studio/visualisation/3334386/" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/RSSReadersToolsServicesRelationship.png" alt="RSS Readers/Tools/Services Relationship"></img></a><br>
+<a href="https://public.flourish.studio/visualisation/3334386/" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/RSSReadersToolsServicesRelationship.png" alt="RSS Readers/Tools/Services Relationship"></a><br>
 <small>Click the picture above to access the interactive chart.</small>
 </p>
 
@@ -2213,5 +2213,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
-
+[Greasemonkey icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Greasemonkey.png
+[MCP icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png
 
