@@ -2218,6 +2218,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
-[Greasemonkey icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Greasemonkey.png
+[Greasemonkey icon]: https://raw.githubusercontent.com/AboutRSS/ALL-about-RSS/refs/heads/master/media/Greasemonkey.png
 [MCP icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png
 
