@@ -1553,7 +1553,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 - [Use Google Sheet translate RSS item content](https://twitter.com/LorandBodo/status/1414887449189396510) <sup>[1070](https://t.me/s/aboutrss/1070)</sup>
 - [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/)
-- [RSS Translator](https://www.rsstranslator.com/) <sup>[1372](https://t.me/s/aboutrss/1372), [1412](https://t.me/s/aboutrss/1412)</sup>
+- [RSSBox](https://rssbox.app/) <sup>[1372](https://t.me/s/aboutrss/1372), [1412](https://t.me/s/aboutrss/1412)</sup>
 
 ### Styling an RSS feed
 
@@ -1563,6 +1563,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [pretty-feed-v3](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 - [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 - [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
+- [Newspaper](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader) [![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader)
 
 ### Landing page for RSS Feed
 
@@ -2186,6 +2187,10 @@ Thank you to all RSS supporters! It's you who have created these marvelous tools
 - [@spianslabs](https://twitter.com/spianslabs) <sup>[636](https://t.me/s/aboutrss/636)</sup>
 - [Castbee](https://castbee.net/) <sup>[883](https://t.me/s/aboutrss/883)</sup>
 - [蚁阅 anyant](https://rss.anyant.com/) <sup>[959](https://t.me/s/aboutrss/959)</sup>
+
+#### Other ways
+
+- [RSSBox](https://rssbox.app/) for setting up a translated RSS feed.
 
 > Please consider supporting my work as a lot of effort takes place to generate this list! You can be a sponsor by sharing accounts of your self-hosted services or redeem codes of your apps with these RSS lovers in my telegram channel, or by providing your spare VPS so that I can set up a public RSSHub service etc., or whatever else. Thanks a lot.
 
