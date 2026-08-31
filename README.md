@@ -441,7 +441,6 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
 - [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
-- [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac][Mac icon]
 - [Substack Reader](https://substack.com/inbox) <sup>[1184](https://t.me/s/aboutrss/1184), [1257](https://t.me/s/aboutrss/1257), [1261](https://t.me/s/aboutrss/1261)</sup> [![iOS][iPhone icon]](http://substack.com/app/get-ios)[![Android][Android icon]](https://on.substack.com/p/android)![Online][Online icon]
 - [News](https://f-droid.org/packages/co.appreactor.news/) <sup>[1190](https://t.me/s/aboutrss/1190)</sup> [![Open-Source Software][oss icon]](https://github.com/bubelov/news)[![Android][Android icon]](https://f-droid.org/packages/co.appreactor.news/)![Freeware][freeware icon]
 - [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>[1193](https://t.me/s/aboutrss/1193)</sup> [![Open-Source Software][oss icon]](https://gitlab.com/spacecowboy/Feeder)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)![Freeware][freeware icon]
@@ -1380,6 +1379,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Tickr](https://www.open-tickr.net/) <sup>[1128](https://t.me/s/aboutrss/1128)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - [Desktop Ticker](http://www.battware.co.uk/desktopticker.htm) <sup>[1156](https://t.me/s/aboutrss/1156)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
+- [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac][Mac icon]
 
 #### For browser
 
