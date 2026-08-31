@@ -2053,6 +2053,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [huffduffer](https://huffduffer.com/) <sup>[562](https://t.me/s/aboutrss/562)</sup>
 - [podcast4us](https://podcast4us.herokuapp.com/) <sup>[595](https://t.me/s/aboutrss/595)</sup> : generates RSS feed for ximalaya.com [![Open-Source Software][oss icon]](https://github.com/hondajojo/podcast4us)![Freeware][freeware icon]
 - [RECAST](https://recastthis.com/) <sup>[931](https://t.me/s/aboutrss/931)</sup>
+- [ZeroAds](https://zeroads.ai/): Ad-free versions of your podcasts as private RSS feeds; works with any podcast app. ![Online][Online icon]
 
 ## Podcast Feed to Fediverse
 
