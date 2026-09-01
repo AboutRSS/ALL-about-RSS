@@ -1380,6 +1380,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Tickr](https://www.open-tickr.net/) <sup>[1128](https://t.me/s/aboutrss/1128)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - [Desktop Ticker](http://www.battware.co.uk/desktopticker.htm) <sup>[1156](https://t.me/s/aboutrss/1156)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
+- [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac][Mac icon]
 
 #### For browser
 
@@ -1755,6 +1756,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [OPML of D介子](https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml) <sup>[801](https://t.me/s/aboutrss/801)</sup>
 - [「A君私藏的超好用 RSS 订阅源」 by 爱范儿](https://shimo.im/docs/iwRFK7VNmZIxnuL7/) <sup>[803](https://t.me/s/aboutrss/803)</sup>
 - [Popular RSS Feeds by RSS.com](https://rss.com/blog/popular-rss-feeds/)
+- [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
 - [RSS Feeds from Telegram Channel: DailyRSS](https://t.me/allaboutrss/4893) <sup>[923](https://t.me/s/aboutrss/923)</sup>
 - [RSS Maker](https://rss.mk/) <sup>[936](https://t.me/s/aboutrss/936)</sup>
 - [Awesome RSS Feeds](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software][oss icon]](https://github.com/spians/awesome-rss-feeds)
