@@ -595,6 +595,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Follow](https://follow.is/) <sup>[1478](https://t.me/s/aboutrss/1478), [1489](https://t.me/s/aboutrss/1489)</sup> [![Online][Online icon]](https://app.follow.is/)[![Windows][Windows icon]](https://follow.is/download)[![Mac][Mac icon]](https://follow.is/download)[![Linux][Linux icon]](https://follow.is/download)![AI][AI icon] 
 - [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 - [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
+- [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader) : free web reader with no signup and no feed limit; subscriptions, read marks and saved items stay in browser local storage; paste a site URL to auto-discover its feed; OPML import/export, full-text search, keyword watchlist, keyboard navigation ![Online][Online icon]![Freeware][freeware icon]
 
 ### Self Hosted Readers
 - [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
@@ -1652,6 +1653,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator)
 - [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 - [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
+- [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder) : paste any site URL and get its RSS/Atom feed URLs, no signup ![Online][Online icon]![Freeware][freeware icon]
 
 ### Subscribing Button
 
