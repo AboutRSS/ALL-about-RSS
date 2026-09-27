@@ -1621,6 +1621,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 - [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
 - [RSS-GPT](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSS-GPT)![AI][AI icon]
+- [InBrief](https://github.com/frankzch/ai-news-brief) [![Open-Source Software][oss icon]](https://github.com/frankzch/ai-news-brief)![AI][AI icon]
 
 ### Generating Blog's statistics via RSS feed
 
