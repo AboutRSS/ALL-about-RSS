@@ -1347,8 +1347,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Buttondown](https://buttondown.email/) <sup>[1382](https://t.me/s/aboutrss/1382)</sup>
 - [lightfeed](https://www.lightfeed.app/) <sup>[1448](https://t.me/s/aboutrss/1448)</sup> ![AI][AI icon]
 - [TidyRead](https://tidyread.ai/) <sup>[1470](https://t.me/s/aboutrss/1470)</sup> [![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/tidyread/gpfnpbpkadjgeoneammbiiidbkgkncaa)![AI][AI icon]
-
-- [Feedletter](https://github.com/smtpfast/feedletter) [![Open-Source Software][oss icon]](https://github.com/smtpfast/feedletter)
+- [Feedletter](https://github.com/smtpfast/feedletter) [![Open-Source Software][oss icon]](https://github.com/smtpfast/feedletter)![AI][AI icon]
 
 ### RSS2TWITTER
 
