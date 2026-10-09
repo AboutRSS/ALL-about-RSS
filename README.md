@@ -1660,6 +1660,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
 - [SearQ](https://searq.org/): a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/searq.org)![Freeware][freeware icon]
 - [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon]
+- [RSS Feed Scraper](https://apify.com/tinyrex/rss-feed-scraper): reads RSS 2.0, RSS 1.0/RDF, Atom and JSON Feed (or discovers the feeds of a website) in bulk and returns normalized JSON/CSV items with keyword/date filters, cross-feed dedupe and "only new items" monitoring, via API or as an MCP tool for AI agents (pay per item)
 
 ## 🏗️ Tools for parsing / decoding RSS
 
