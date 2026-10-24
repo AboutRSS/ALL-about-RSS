@@ -1739,6 +1739,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [【925】位优质Mirror作者的Feed地址](https://twitter.com/zlexdl/status/1502629374889144323) <sup>[1210](https://t.me/s/aboutrss/1210)</sup> [![Open-Source Software][oss icon]](https://github.com/zlexdl/mirror)
 - [PrimitivesFeed](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software][oss icon]](https://github.com/PrimitivesLane/PrimitivesFeed)
 - [Bitcoin RSS Feeds](https://bc1984.com/bitcoin-rss-feeds/) <sup>[1143](https://t.me/s/aboutrss/1143)</sup>
+- [Kiwi News](https://news.kiwistand.com/) (feed: [hot](https://news.kiwistand.com/feed.xml)) [![Open-Source Software][oss icon]](https://github.com/attestate/kiwistand)
 
 ### Multi-subject
 
