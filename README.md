@@ -75,6 +75,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [DEVONthink](#devonthink)
   - [Miniflux](#miniflux)
 - [RSS bots](#-rss-bots)
+  - [XMPP (Jabber)](#xmpp-jabber)
+    - [Group chat bots](#group-chat-bots)
+    - [Private chat bots](#private-chat-bots)
+    - [PubSub bots](#pubsub-bots)
   - [Telegram](#telegram)
     - [Telegram RSS bots](#telegram-rss-bots)
     - [Bot of RSS屋 (a Full Article Extractor Service)](#bot-of-rss%E5%B1%8B-a-full-article-extractor-service)
@@ -857,6 +861,25 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Nextflux](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux)
 
 ## 🤖 RSS bots
+
+### XMPP (Jabber)
+
+#### Group chat bots
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed) [![Open-Source Software][oss icon]](https://git.xmpp-it.net/sch/Slixfeed)
+- [Morbot](https://codeberg.org/TheCoffeMaker/Morbot) [![Open-Source Software][oss icon]](https://codeberg.org/TheCoffeMaker/Morbot)
+- [feed-to-muc](https://salsa.debian.org/mdosch/feed-to-muc) [![Open-Source Software][oss icon]](https://salsa.debian.org/mdosch/feed-to-muc)
+
+#### Private chat bots
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed) [![Open-Source Software][oss icon]](https://git.xmpp-it.net/sch/Slixfeed)
+- [JabRSS](http://www.jotwewe.de/de/xmpp/jabrss/jabrss_en.htm)
+- [JabRSS2](https://dev.cmeerw.org/Projects/jabrss)
+
+#### PubSub bots
+
+- [Slixfeed](https://git.xmpp-it.net/sch/Slixfeed) [![Open-Source Software][oss icon]](https://git.xmpp-it.net/sch/Slixfeed)
+- [atomtopubsub](https://github.com/edhelas/atomtopubsub) [![Open-Source Software][oss icon]](https://github.com/edhelas/atomtopubsub)
 
 ### Telegram
 
