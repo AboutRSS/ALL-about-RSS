@@ -2172,6 +2172,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 Any contributions like suggestions or pull requests are welcome.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full criteria.
+
 > Tips: Woohoo, we are aboarding [@GitPOAP](https://www.gitpoap.io/gh/AboutRSS/ALL-about-RSS) ! Both past and future contributors of this Repo are welcome to claim a POAP !
 
 <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2022-about-rss-contributor-2022-logo-1661975591967.png&w=1920&q=75" height="250px" > <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2021-about-rss-contributor-2021-logo-1661975587563.png&w=1920&q=75" height="250px" > <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2020-about-rss-contributor-2020-logo-1661975583629.png&w=1920&q=75" height="250px" >
