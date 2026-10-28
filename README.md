@@ -95,6 +95,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [RSS Feed Hosting](#rss-feed-hosting)
   - [universally from](#universally-from)
     - [multiple sources](#multiple-sources)
+    - [software release tracking](#software-release-tracking)
     - [webpage/html](#webpagehtml)
     - [text](#text)
     - [search results](#search-results)
@@ -1015,11 +1016,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSSerpent](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software][oss icon]](https://github.com/RSSerpent/RSSerpent)
 - [pyrsshub](https://pyrsshub.vercel.app/feeds) <sup>[1211](https://t.me/s/aboutrss/1211)</sup> [![Open-Source Software][oss icon]](https://github.com/hillerliao/RSSHub-python)
 - [OpenRSS](https://openrss.org/) <sup>[1275](https://t.me/s/aboutrss/1275)</sup> ![Freeware][freeware icon]
-- [Versionfeeds](https://versionfeeds.com/) <sup>[1309](https://t.me/s/aboutrss/1309)</sup>
 - [RSS Worker](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software][oss icon]](https://github.com/yllhwa/RSSWorker)
-- [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 - [mkfd](https://github.com/TBosak/mkfd)
 - [NebulaPicker](https://github.com/djsilva99/nebulapicker) [![Open-Source Software][oss icon]](https://github.com/djsilva99/nebulapicker)
+
+#### software release tracking
+
+- [Versionfeeds](https://versionfeeds.com/) <sup>[1309](https://t.me/s/aboutrss/1309)</sup>
+- [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
+- [What's New](https://whatsnew.fyi/) : follows the changelogs of over a thousand software products. One feed per product, one for everything, with the release notes carried in content:encoded [![Online][Online icon]](https://whatsnew.fyi/)![Freeware][freeware icon]
 
 #### webpage/html
 
