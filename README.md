@@ -640,7 +640,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Social Reader](https://github.com/hyphacoop/reader.distributed.press) [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press)![Freeware][freeware icon]
 - [Dashboard](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software][oss icon]![Freeware][freeware icon] lightweight, customizable, client-side RSS feeds dashboard.
 - [Readfine](https://readfine.app) [![Online][Online icon]](https://readfine.app)[![Open-Source Software][oss icon]](https://github.com/jakublibik/readfine)![AI][AI icon]
-- [reader](https://dev.standardbeagle.com/reader/) — Google Reader clone: three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software][oss icon]](https://github.com/standardbeagle/reader)![Freeware][freeware icon]![AI][AI icon]
+- [reader](https://dev.standardbeagle.com/reader/) : Google Reader clone: three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software][oss icon]](https://github.com/standardbeagle/reader)
 
 ### RSS Reader in Email System
 
