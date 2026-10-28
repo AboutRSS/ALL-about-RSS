@@ -1816,6 +1816,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
 - [积薪](https://firewood.news/) <sup>[1331](https://t.me/s/aboutrss/1331)</sup>
 - [Blog of the .Day](https://blogofthe.day/) <sup>[1458](https://t.me/s/aboutrss/1458)</sup> [![Open-Source Software][oss icon]](https://github.com/artlung/blogofthe.day)
+- [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
 
 ## 🔨 Blog Generator that Support RSS
 
