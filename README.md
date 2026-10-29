@@ -997,6 +997,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedspot](https://www.feedspot.com/) <sup>[530](https://t.me/s/aboutrss/530)</sup> ![Online][Online icon]
 - [Informate](https://informate.elsetech.io/) <sup>[724](https://t.me/s/aboutrss/724)</sup> ![Online][Online icon]
 - [Castbee](https://castbee.net/) <sup>[864](https://t.me/s/aboutrss/864), [883](https://t.me/s/aboutrss/883)</sup> ![Online][Online icon][![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/castbee-news-subscriber/pmggohjclghclepgangbbgakapljlnnc)
+- [Trace](https://www.yourtrace.online/) [![Online][Online icon]](https://www.yourtrace.online/)[![Open-Source Software][oss icon]](https://github.com/TarunTomar122/trace)![Freeware][freeware icon][![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/trace-ai-tech-news-in-eve/cblkklekbejbbpcaihfogdmaoofmikbk)![AI][AI icon][![MCP][MCP icon]](https://www.yourtrace.online/agents) : tech and AI news from 100+ sources (RSS/Atom feeds, Hacker News, Reddit, Product Hunt), merged into one story per event with every source linked; a web feed, a daily email and public daily briefs. Self-hostable with Docker Compose.
 
 ## 🛠 RSS Feed Generation
 
