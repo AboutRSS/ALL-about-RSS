@@ -54,6 +54,16 @@ What the examples imply:
 - **Match the neighbours.** Spacing before `:`, capitalisation of the description, trailing period — copy the surrounding entries rather than a style guide. Sections differ from each other, and that is accepted.
 - **Sub-entries use two-space indent**, as in the `Reeder` entry under *RSS Readers*.
 
+## Line endings
+
+`README.md` is stored with **CRLF** line endings on every line. Please keep it that way.
+
+- **Do not let your editor normalise the file to LF.** A whole-file rewrite buries the one line you actually changed and makes the PR unreviewable.
+- **New lines end with CRLF too.** A single LF line in an otherwise-CRLF file looks harmless, but it turns into a phantom "delete + re-add" the next time someone rebases or merges, and that noise lands on whoever touches the file next.
+- **Check before you push.** `git diff --stat` should report only the handful of lines you added. If it reports thousands of insertions and deletions, your editor or your `core.autocrlf` setting has rewritten the file — fix that first.
+
+This is not a style preference. It has already cost real time here: one PR left a single LF line behind, and every later rebase against that region produced a diff that had to be untangled by hand.
+
 ## Picking a section
 
 Choose from the table of contents the section that matches what the thing *does*, not what it is called. If nothing fits, say so in the PR and suggest where you think it belongs — adding a section is possible.

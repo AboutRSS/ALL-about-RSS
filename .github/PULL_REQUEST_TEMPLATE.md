@@ -31,3 +31,4 @@ Duplicates are welcome — this is not a "why isn't it redundant" question.
 - [ ] Formatted like the neighbouring entries (icons, punctuation)
 - [ ] Appended to the end of the section — this list is explicitly unordered
 - [ ] Every new link resolves, and none of them are URL shorteners
+- [ ] `git diff --stat` shows only the lines I added — the file keeps its CRLF line endings
