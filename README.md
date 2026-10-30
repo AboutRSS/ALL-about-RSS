@@ -1706,6 +1706,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/simplepie/simplepie/)
 - [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software][oss icon]](https://github.com/sebastienrousseau/rssgen)
 - [Crawler-Buddy](https://github.com/rumca-js/crawler-buddy): A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
+- [Feedsmith](https://feedsmith.dev/): A fast JavaScript and TypeScript library for parsing and generating RSS, Atom, RDF, JSON Feed and OPML, with support for 30+ namespaces [![Open-Source Software][oss icon]](https://github.com/macieklamberski/feedsmith)
 
 ## ⛓ OPML management
 
