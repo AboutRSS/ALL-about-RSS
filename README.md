@@ -1727,6 +1727,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [上下闻](https://news.mindynode.com/en/) <sup>[111](https://t.me/s/aboutrss/111)</sup> [![Open-Source Software][oss icon]](https://github.com/josherich/RSS-ORG)
 - [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 - [Awesome-newsCN-feeds](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
+- [Noozra](https://noozra.com/): news feeds by category, drawn from 70+ publications, each item carrying the publisher's own description
 
 ### Entertainment
 
