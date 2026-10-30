@@ -871,6 +871,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Reactflux](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux)
 - [Nextflux](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux)
 
+### NetNewsWire
+
+- [thechelsuk NetNewsWire Themes](https://themes-nnw.thechels.uk/): a bundle of light, dark and adjustable themes [![Open-Source Software][oss icon]](https://github.com/thechelsuk/uk.thechels.themes-nnw)
+
 ## 🤖 RSS bots
 
 ### XMPP (Jabber)
@@ -1165,6 +1169,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Youtube RSS Extractor](https://jeffkeeling.github.io/youtube_rss_extractor/) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Open-Source Software][oss icon]](https://github.com/jeffkeeling/youtube_rss_extractor)![Freeware][freeware icon]
 - [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/youtube-rss-finder/)[![Open-Source Software][oss icon]](https://github.com/teddy-gustiaux/youtube-rss-finder)![Freeware][freeware icon]
 - [~~rss.yt~~](https://rss.yt/) <sup>[1115](https://t.me/s/aboutrss/1115)</sup> ![Freeware][freeware icon]
+- [YouTube Takeout to OPML](https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py): Python script that converts the subscriptions CSV from Google Takeout into an OPML file of channel feeds [![Open-Source Software][oss icon]](https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py)
 
 #### Itunes
 
@@ -1437,6 +1442,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Karakeep](https://github.com/karakeep-app/karakeep)
 - [Django link archive](https://github.com/rumca-js/Django-link-archive)
 - [RSS Librarian](https://www.rsslibrarian.ch/librarian.php) [![Open-Source Software][oss icon]](https://github.com/thefranke/rss-librarian)
+- [Feed archiver template](https://github.com/thechelsuk/template-feed-archiver): a GitHub template repo that monitors an RSS/Atom feed and archives it with GitHub Actions
 
 ### RSS2GitHub
 
@@ -1475,6 +1481,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - [PressForward](https://pressforward.org/) <sup>[804](https://t.me/s/aboutrss/804)</sup> [![Open-Source Software][oss icon]](https://github.com/PressForward/pressforward)
 - [CyberSEO](https://www.cyberseo.net/) <sup>[869](https://t.me/s/aboutrss/869)</sup>
+- [rss.chat reply manager for Jekyll](https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll): pulls replies from your rss.chat feed into a Jekyll site [![Open-Source Software][oss icon]](https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll)
 
 ### RSS2BOARD
 
@@ -1727,6 +1734,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [上下闻](https://news.mindynode.com/en/) <sup>[111](https://t.me/s/aboutrss/111)</sup> [![Open-Source Software][oss icon]](https://github.com/josherich/RSS-ORG)
 - [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 - [Awesome-newsCN-feeds](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
+- [Cheltenham Open Data feeds](https://cheltenham-od.uk/feeds): local feeds for Cheltenham, UK, including a daily news round-up and an alerts feed that merges flood warnings, power cuts, travel disruption and road closures
 
 ### Entertainment
 
