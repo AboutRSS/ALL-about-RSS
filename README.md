@@ -1,6 +1,12 @@
 <p align="center">
 <a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="An image containing the text: 'You wanted to know: Is RSS dead? Lots of feeds. All popular blogging platforms support RSS. As do most news orgs. Lots of feed reading software. And lots of users. Podcasting is booming. It's open, no platform vendor, anyone can use it. So no, RSS is not dead.'. Followed by a green candy heart with the letters RSS impressed."></a><br>
-<small>Screenshot of isRSSdead.com</small>
+<small>Screenshot of isRSSdead.com</small><br>
+<a href="https://iheartrss.com/">
+  <picture>
+    <source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="176" height="62">
+  </picture>
+</a>
 </p>
 
 ----
@@ -9,7 +15,6 @@ This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every 
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40AboutRSS&query=data.totalSubs&suffix=%20subscribers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/%40AboutRSS-3k%2B%20followers-blue?style=flat&logo=x)](https://twitter.com/aboutrss)[![Mastodon Follow](https://img.shields.io/mastodon/follow/112182603993100821?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=mastodon&color=blue)](https://mastodon.social/@AboutRSS)
 ![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub)
-<a href="https://iheartrss.com/"><picture><source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="88" height="31"></picture></a>
 
 Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an _Awesome list_. Any service/tool that functions well and is maintained well can be listed here.
 
@@ -1619,7 +1624,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### RSS Feed integrated with AI generated content
 
-- [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
+- [~~RSSPath~~](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
 - [RSS-GPT](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSS-GPT)![AI][AI icon]
 
 ### Generating Blog's statistics via RSS feed
@@ -1690,7 +1695,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 - [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
 - [SearQ](https://searq.org/): a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/searq.org)![Freeware][freeware icon]
-- [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon]
+- [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon][![MCP][MCP icon]](https://rssemit.com/agents.html)
 
 ## 🏗️ Tools for parsing / decoding RSS
 
@@ -1819,7 +1824,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
 - [积薪](https://firewood.news/) <sup>[1331](https://t.me/s/aboutrss/1331)</sup>
 - [Blog of the .Day](https://blogofthe.day/) <sup>[1458](https://t.me/s/aboutrss/1458)</sup> [![Open-Source Software][oss icon]](https://github.com/artlung/blogofthe.day)
-- [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
+- [I ♥ RSS](https://iheartrss.com/) <sup>[1536](https://t.me/s/aboutrss/1536)</sup>: a member directory of RSS lovers, exportable as OPML
 
 ## 🔨 Blog Generator that Support RSS
 
