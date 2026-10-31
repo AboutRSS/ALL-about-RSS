@@ -2114,12 +2114,12 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ## Turn YouTube into Podcast
 
-- [PigeonPod](https://pigeonpod.cloud/) : Convert YouTube channels and playlists into podcast feeds [![Open-Source Software][oss icon]](https://github.com/aizhimou/pigeon-pod)![Freeware][freeware icon]![Online icon]
 - [RSSYes](https://rssyes.com/youtube-to-podcast) : Convert YouTube channels into podcast RSS feeds ![Freeware][freeware icon]
 - [PodNoms](https://www.podnoms.com/) <sup>[671](https://t.me/s/aboutrss/671)</sup> : Youtube2PodcastFeed ![Freeware][freeware icon]
 - [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
 - [YouCast](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software][oss icon]](https://github.com/i3arnon/YouCast)![Freeware][freeware icon]
 - [Podsync](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software][oss icon]](https://github.com/mxpv/podsync)
+- [PigeonPod](https://pigeonpod.cloud/) : Convert YouTube channels and playlists into podcast feeds ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/aizhimou/pigeon-pod)![Freeware][freeware icon]
 
 ## Turn Twitch into Podcast
 
