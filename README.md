@@ -1063,6 +1063,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Anything](https://rss.diffbot.com/) <sup>[1406](https://t.me/s/aboutrss/1406)</sup>
 - [RSSWebAll](https://rssweball.top/) <sup>[1488](https://t.me/s/aboutrss/1488)</sup>
 - [AI RSS](https://airss.ft07.com) <sup>[1499](https://t.me/s/aboutrss/1499)</sup> [![Open-Source Software][oss icon]](https://airss.ft07.com)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/airss/hhconojkeohomnfbpbioamldompinckh)![AI][AI icon]
+- [Webpage to RSS @ Sponder](https://sponder.app/webpage-to-rss) ![Online][Online icon]
 
 #### text
 
@@ -1525,7 +1526,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [feedless](https://feedless.org/getting-started) <sup>[1340](https://t.me/s/aboutrss/1340)</sup> [![Open-Source Software][oss icon]](https://github.com/damoeb/feedless)
 - [rss-tools](https://adulau.github.io/rss-tools/): A set of crappy Python scripts to handle RSS in an Unix way [![Open-Source Software][oss icon]](https://github.com/adulau/rss-tools/)
 - [RSSBrew](https://github.com/yinan-c/RSSBrew) <sup>[1465](https://t.me/s/aboutrss/1465)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSSBrew)
-- [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online][Online icon]
+- [Sponder](https://sponder.app/tools) <sup>[1525](https://t.me/s/aboutrss/1525)</sup>: Merge, filter, split and regroup feeds with visual flows or YAML configuration ![Online][Online icon]
 
 ### Full Article Extractors
 
@@ -1661,6 +1662,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 - [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
 - [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder): paste any site URL and get its RSS/Atom feed URLs, no signup ![Online][Online icon]![Freeware][freeware icon]
+- [Find a Feed @ Sponder](https://sponder.app/find-feed): Paste any URL to discover its RSS and Atom feeds ![Online][Online icon]![Freeware][freeware icon]
+- [Find a Podcast Feed @ Sponder](https://sponder.app/find-podcast): Get the RSS feed of any podcast from its website or directory link ![Online][Online icon]![Freeware][freeware icon]
 
 ### Subscribing Button
 
@@ -2099,6 +2102,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [podcast4us](https://podcast4us.herokuapp.com/) <sup>[595](https://t.me/s/aboutrss/595)</sup> : generates RSS feed for ximalaya.com [![Open-Source Software][oss icon]](https://github.com/hondajojo/podcast4us)![Freeware][freeware icon]
 - [RECAST](https://recastthis.com/) <sup>[931](https://t.me/s/aboutrss/931)</sup>
 - [ZeroAds](https://zeroads.ai/): Ad-free versions of your podcasts as private RSS feeds; works with any podcast app. ![Online][Online icon]![AI][AI icon]
+- [Skip Podcast Reruns @ Sponder](https://sponder.app/skip-podcast-reruns): Remove rerun episodes from a podcast feed ![Online][Online icon]
+- [Podcast From the Beginning @ Sponder](https://sponder.app/podcast-from-beginning): Replay a podcast's back catalog at your own pace ![Online][Online icon]
 
 ## Podcast Feed to Fediverse
 
