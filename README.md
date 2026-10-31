@@ -1005,6 +1005,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Informate](https://informate.elsetech.io/) <sup>[724](https://t.me/s/aboutrss/724)</sup> ![Online][Online icon]
 - [Castbee](https://castbee.net/) <sup>[864](https://t.me/s/aboutrss/864), [883](https://t.me/s/aboutrss/883)</sup> ![Online][Online icon][![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/castbee-news-subscriber/pmggohjclghclepgangbbgakapljlnnc)
 - [InBrief](https://github.com/frankzch/ai-news-brief) [![Open-Source Software][oss icon]](https://github.com/frankzch/ai-news-brief)![AI][AI icon]
+- [Digest AI](https://digestai.news/) : AI news from 71 curated sources merged into one story per event with every source linked; publishes its own [RSS feed](https://digestai.news/rss.xml), an [AI at Work feed](https://digestai.news/work/rss.xml) and a [podcast feed](https://digestai.news/podcast.xml) ![Online][Online icon]![AI][AI icon]
 
 ## 🛠 RSS Feed Generation
 
