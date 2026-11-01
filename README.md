@@ -873,6 +873,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Reactflux](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux)
 - [Nextflux](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux)
 
+### NetNewsWire
+
+- [thechelsuk NetNewsWire Themes](https://themes-nnw.thechels.uk/): a bundle of light, dark and adjustable themes [![Open-Source Software][oss icon]](https://github.com/thechelsuk/uk.thechels.themes-nnw)
+
 ## 🤖 RSS bots
 
 ### XMPP (Jabber)
@@ -1736,6 +1740,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 - [Awesome-newsCN-feeds](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
 - [Noozra](https://noozra.com/): news feeds by category, drawn from 70+ publications, each item carrying the publisher's own description
+- [Cheltenham Open Data feeds](https://cheltenham-od.uk/feeds): local feeds for Cheltenham, UK, including a daily news round-up and an alerts feed that merges flood warnings, power cuts, travel disruption and road closures
 
 ### Entertainment
 
