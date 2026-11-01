@@ -14,6 +14,8 @@
 
 **2. Does it import or generate RSS feeds?**
 
+<sub>Self-hosting counts. If the source list changes when you run it yourself — a config file, a JSON list, a database table — that is importing custom feeds, even when the hosted version fixes the sources for you. Say so and point at the file that holds the list.</sub>
+
 <!--
 If yes, give a verifiable entry point: a feed URL, an OPML import page, or the page for the feature.
 If it does not touch feeds at all, say why it still belongs in this list.
