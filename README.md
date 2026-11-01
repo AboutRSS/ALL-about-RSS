@@ -235,6 +235,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
   - [Podcast Feed Customization](#podcast-feed-customization)
   - [Podcast Feed to Fediverse](#podcast-feed-to-fediverse)
   - [Turn YouTube into Podcast](#turn-youtube-into-podcast)
+  - [Turn Twitch into Podcast](#turn-twitch-into-podcast)
+  - [Turn MP3 into Podcast](#turn-mp3-into-podcast)
   - [Turn Podcast/MP3 into Video via Podcast Feed](#turn-podcast-mp3-into-video-via-podcast-feed)
   - [Turn Webpage into Podcast](#turn-webpage-into-podcast)
   - [Podcast Statistics](#podcast-statistics)
@@ -2135,6 +2137,10 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 ## Turn Twitch into Podcast
 
 - [TwitchPOD](https://twitchpod.tv/) <sup>[1455](https://t.me/s/aboutrss/1455)</sup> [![Open-Source Software][oss icon]](https://github.com/trevorsharp/twitchpod)
+
+## Turn MP3 into Podcast
+
+- [Fourble](https://fourble.co.uk/): turns an ordered list of .mp3 files hosted anywhere into a podcast feed you can subscribe to ![Freeware][freeware icon]
 
 ## Turn Podcast/MP3 into Video via Podcast Feed
 
