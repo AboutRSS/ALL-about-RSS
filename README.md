@@ -1799,6 +1799,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [PrimitivesFeed](https://github.com/PrimitivesLane/PrimitivesFeed)  [![Open-Source Software][oss icon]](https://github.com/PrimitivesLane/PrimitivesFeed)
 - [Bitcoin RSS Feeds](https://bc1984.com/bitcoin-rss-feeds/) <sup>[1143](https://t.me/s/aboutrss/1143)</sup>
 - [Kiwi News](https://news.kiwistand.com/): community-curated crypto and Ethereum links, also published as a [feed](https://news.kiwistand.com/feed.xml) [![Open-Source Software][oss icon]](https://github.com/attestate/kiwistand)
+- [RealMarketFeed](https://rss.realmarketapi.com/): a curated directory of trading news feeds (crypto, forex, stocks, macro), with an [OPML file](https://rss.realmarketapi.com/opml.xml) of every feed and a combined [feed](https://rss.realmarketapi.com/feed.xml) [![Open-Source Software][oss icon]](https://github.com/Phideround/RealMarketFeed)
 
 ### Multi-subject
 
