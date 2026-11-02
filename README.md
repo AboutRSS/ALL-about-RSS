@@ -1474,6 +1474,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [PushEngage](https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 - [BalloonRSS](https://embyt.github.io/balloonrss/index.html) <sup>[851](https://t.me/s/aboutrss/851)</sup> [![Windows][Windows icon]](https://embyt.github.io/balloonrss/download.html)[![Open-Source Software][oss icon]](https://github.com/embyt/balloonrss)![Freeware][freeware icon]
 - [INK RSS](https://channel.1nk.workers.dev/channel) <sup>[1078](https://t.me/s/aboutrss/1078)</sup> [![Open-Source Software][oss icon]](https://github.com/pureink/inkrss)![Freeware][freeware icon]
+- [Topic Watch](https://github.com/0xzerolight/topic_watch) : self-hosted news monitor that uses an LLM to only notify on genuinely new information [![Open-Source Software][oss icon]](https://github.com/0xzerolight/topic_watch)![Freeware][freeware icon]![AI][AI icon]
 
 #### Webpage Monitor Services with capability of monitoring RSS Feed <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
