@@ -498,6 +498,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [inRead](https://inread.top/) <sup>[1494](https://t.me/s/aboutrss/1494)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/inread-read-later/id6499581607?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/inread-read-later/id6499581607)
 - [Tapestry](https://usetapestry.com/) <sup>[1424](https://t.me/s/aboutrss/1424), [1498](https://t.me/s/aboutrss/1498)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074)
 - [NitroFeed](https://getapps.cafe/app/nitrofeed) : a desktop RSS reader that pulls the full article into the reader, plays podcasts inline and can summarize with your own AI key ![Windows][Windows icon]![Mac][Mac icon]![AI][AI icon]
+- [Zetfeed](https://zetfeed.com/) : Sync across web, iOS, Android, and Mac. No ads and no tracking. Follow news sites, blogs, YouTube channels, podcasts, Bluesky accounts and more, with OPML import and export [![iOS][iPhone icon]](https://apps.apple.com/app/id6787800273)[![Mac][Mac icon]](https://apps.apple.com/app/id6787800273?platform=mac)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.imgwerx.zetfeed)[![Online][Online icon]](https://zetfeed.com/signup)
 
 ### Wechat Mini Apps
 
@@ -605,6 +606,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
 - [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
 - [Feeddi](https://feeddi.com/) ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.feeddi)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/feeddide-abone-ol/hdiigdlnndhpjdcjbgddiddnboobphpc)[![Firefox][Firefox icon]](https://addons.mozilla.org/addon/subscribe-in-feeddi/)![Freeware][freeware icon]
+- [Zetfeed](https://zetfeed.com/) [![Online][Online icon]](https://zetfeed.com/signup)[![iOS][iPhone icon]](https://apps.apple.com/app/id6787800273)[![Mac][Mac icon]](https://apps.apple.com/app/id6787800273?platform=mac)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.imgwerx.zetfeed)
 
 ### Self Hosted Readers
 - [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
@@ -717,6 +719,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 ### Smart Watch Apps
 
 - Watch Highlights <sup>[1203](https://t.me/s/aboutrss/1203)</sup> [![][iPhone icon]](https://apps.apple.com/app/watch-highlights/id1514917662)
+- [Zetfeed](https://zetfeed.com/) : An Apple Watch app and complication that work with the iPhone app [![][iPhone icon]](https://apps.apple.com/app/id6787800273)
 
 ### Other Apps
 
@@ -1827,6 +1830,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 - [MoreRSS](https://morerss.com/index.php) <sup>[1442](https://t.me/s/aboutrss/1442)</sup>
 - [Awesome RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes) [![Open-Source Software][oss icon]](https://github.com/JackyST0/awesome-rsshub-routes) ![Freeware][freeware icon]
+- [The RSS Feed List by Zetfeed](https://zetfeed.com/feeds) : 1,200+ feeds by topic, checked daily, each source page listing its feed URLs, plus a [feed finder](https://zetfeed.com/feeds/finder) that turns a website, YouTube channel, Bluesky handle or podcast link into its feed
 
 ### Aggregators of Indieblogs
 
