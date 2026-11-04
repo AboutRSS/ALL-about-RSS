@@ -14,6 +14,7 @@ One thing first: this repository is **not an Awesome list**. As the README puts 
 2. **Alive.** The link resolves, and it is not a parked domain, a "domain for sale" page, or a redirect to something unrelated.
 3. **Verifiable feed capability.** It imports or generates RSS feeds, or it is a collection of feeds. Point to where that can be checked: a feed URL, an OPML import doc, or the page of the feature. If the item does not touch feeds at all, explain why it still belongs here.
 4. **Maintained.** It works today. Abandoned projects are not added; when an existing one dies, it is struck through rather than deleted.
+5. **Established.** It has been in service for some months, is still being updated, and shows every sign of continuing. Being new is not a rejection — such a PR is held until the project has a record. See *New projects* below.
 
 Not accepted: marketing landing pages with no product behind them, URL shorteners or redirect hops standing in for the real link, and entries unrelated to feeds.
 
@@ -67,6 +68,17 @@ This is not a style preference. It has already cost real time here: one PR left 
 ## Picking a section
 
 Choose from the table of contents the section that matches what the thing *does*, not what it is called. If nothing fits, say so in the PR and suggest where you think it belongs — adding a section is possible.
+
+## New projects
+
+The list prefers things that have been running for a while. Two reasons, both practical:
+
+- **It filters out launch-week enthusiasm.** Most projects submitted on release day do not see a second month of commits. What is worth listing is what stays in service and keeps being tended.
+- **Maturity helps the promotion.** Announcing something in its first days mostly surfaces bugs rather than users. Waiting until the rough edges are filed off is better for the project and for the reader who follows the link.
+
+A new project is therefore not turned away. The PR stays open and is labelled `still open`; come back in a few months. What earns a merge is not age by itself but evidence of a habit: a release or two after the initial launch, a fix that answers a real defect, commits that continue past the first fortnight.
+
+If you submit on launch day, say when it launched and what the update cadence looks like. Being upfront does not hurt the PR — a submission that reads as finished on day one is what gets held.
 
 ## Disclosure
 
