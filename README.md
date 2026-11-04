@@ -139,6 +139,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [Zhihu (知乎)](#zhihu-%E7%9F%A5%E4%B9%8E)
     - [Comments of V2EX post](#comments-of-v2ex-post)
     - [Docsify](#docsify)
+    - [Steam](#steam)
+    - [TMDB](#tmdb)
   - [RSS Editor](#rsseditor)
 - [Information spreading/forwarding via RSS feeds](#-information-spreadingforwarding-via-rss-feeds)
   - [RSS2Bluesky](#rss2bluesky)
@@ -452,7 +454,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Feedibus](https://www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/) <sup>[1127](https://t.me/s/aboutrss/1127)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/feedibus/id1585543362)
 - [LinkLonk](https://linklonk.com/) <sup>[1154](https://t.me/s/aboutrss/1154)</sup> ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.linklonk.twa)![Freeware][freeware icon]
 - RSSCube <sup>[1164](https://t.me/s/aboutrss/1164)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/rsscube-rss%E9%98%85%E8%AF%BB%E5%99%A8/id1602812291)
-- RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
+- ~~RSS Manager~~ <sup>[1169](https://t.me/s/aboutrss/1169)</sup>
 - [Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
 - [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)</sup>
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
@@ -498,6 +500,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [inRead](https://inread.top/) <sup>[1494](https://t.me/s/aboutrss/1494)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/inread-read-later/id6499581607?platform=iphone)[![Mac][Mac icon]](https://apps.apple.com/app/inread-read-later/id6499581607)
 - [Tapestry](https://usetapestry.com/) <sup>[1424](https://t.me/s/aboutrss/1424), [1498](https://t.me/s/aboutrss/1498)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074)
 - [NitroFeed](https://getapps.cafe/app/nitrofeed) : a desktop RSS reader that pulls the full article into the reader, plays podcasts inline and can summarize with your own AI key ![Windows][Windows icon]![Mac][Mac icon]![AI][AI icon]
+- [Newsbin](https://xetabit.com/apps/newsbin/) : a native RSS reader for iPhone, iPad, Mac and Apple Watch with optional on-device AI, free to try [![iPhone][iPhone icon]](https://apps.apple.com/us/app/newsbin/id6737723338)[![Mac][Mac icon]](https://apps.apple.com/us/app/newsbin/id6737723338)
+- [Feedler](https://feedlerapp.com/) : a smart RSS reader with an in-house full-article parser and cross-source Trending Stories, free for five feeds then €9.99/year [![iPhone][iPhone icon]](https://apps.apple.com/app/id6777101828)
 
 ### Wechat Mini Apps
 
@@ -605,6 +609,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
 - [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
 - [Feeddi](https://feeddi.com/) ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.feeddi)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/feeddide-abone-ol/hdiigdlnndhpjdcjbgddiddnboobphpc)[![Firefox][Firefox icon]](https://addons.mozilla.org/addon/subscribe-in-feeddi/)![Freeware][freeware icon]
+- [Sublime Feed](https://sublimefeed.com/) : an RSS reader without unread counts, free for five feeds then $4/month or $40/year ![Online][Online icon]
 
 ### Self Hosted Readers
 - [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
@@ -659,6 +664,9 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Dashboard](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software][oss icon]![Freeware][freeware icon] lightweight, customizable, client-side RSS feeds dashboard.
 - [Readfine](https://readfine.app) [![Online][Online icon]](https://readfine.app)[![Open-Source Software][oss icon]](https://github.com/jakublibik/readfine)![AI][AI icon]
 - [reader](https://dev.standardbeagle.com/reader/) : Google Reader clone with three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software][oss icon]](https://github.com/standardbeagle/reader)![AI][AI icon][![MCP][MCP icon]](https://github.com/standardbeagle/reader#readme)
+- [FeedThing](https://github.com/xurble/FeedThing) : a Django reader with a two-pane catch-up model and river-of-news folders, self-hosted on gunicorn [![Open-Source Software][oss icon]](https://github.com/xurble/FeedThing)![Freeware][freeware icon]
+- [Tuvix](https://tuvix.app/) : an open-source RSS aggregator, self-host it or use the free hosted app [![Online][Online icon]](https://feed.tuvix.app/)[![Open-Source Software][oss icon]](https://github.com/TechSquidTV/Tuvix-RSS)
+- [Simple Feed Reader](https://github.com/larspohlmann/simple-feed-reader) : a self-hosted multi-user reader with full-text extraction, email digests and Bluesky/Mastodon timelines and lists as feeds, Docker Compose deploy [![Open-Source Software][oss icon]](https://github.com/larspohlmann/simple-feed-reader)
 
 ### RSS Reader in Email System
 
@@ -781,6 +789,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS 工具大全 by 幻璧](https://blog.wizos.me/20180412-134.html)
 - [RSS 项目: a WorkFlowy list](https://workflowy.com/#/6e20a3531287)
 - [RSS指南](https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d) <sup>[1224](https://t.me/s/aboutrss/1224)</sup>
+- [The RSS Universe](https://toolbox.rss.here.now/) : a living directory of 133 RSS apps, tools and standards, links checked live
 
 ## ☁ Free Servers
 
@@ -1292,6 +1301,14 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 - tutorial <sup>[868](https://t.me/s/aboutrss/868)</sup>
 
+#### Steam
+
+- [Owned Steam Game RSS Feeds](https://steam-rss.zackboe.hm) : generates an .opml of news feeds for the games you own, optionally including wishlisted, free and unplayed titles ![Online][Online icon]![Freeware][freeware icon]
+
+#### TMDB
+
+- [Magnanium](https://magnanium.vercel.app/) : generates an RSS feed for the upcoming releases of any actor or director, filterable by role, release type and lead time ![Online][Online icon]![Freeware][freeware icon]
+
 ### RSS Editor
 
 - [RSSme](http://www.amlpages.com/rssme.shtml) <sup>[649](https://t.me/s/aboutrss/649)</sup> ![Freeware][freeware icon]
@@ -1539,6 +1556,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [rss-tools](https://adulau.github.io/rss-tools/): A set of crappy Python scripts to handle RSS in an Unix way [![Open-Source Software][oss icon]](https://github.com/adulau/rss-tools/)
 - [RSSBrew](https://github.com/yinan-c/RSSBrew) <sup>[1465](https://t.me/s/aboutrss/1465)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSSBrew)
 - [Sponder](https://sponder.app/tools) <sup>[1525](https://t.me/s/aboutrss/1525)</sup>: Merge, filter, split and regroup feeds with visual flows or YAML configuration ![Online][Online icon]
+- [FeedCraft](https://github.com/Colin-XKL/FeedCraft): an RSS middleware in Go that translates, extracts full text, renders JS-heavy pages, and summarizes or filters items with an LLM [![Open-Source Software][oss icon]](https://github.com/Colin-XKL/FeedCraft)![Freeware][freeware icon]![AI][AI icon]
 
 ### Full Article Extractors
 
@@ -1589,6 +1607,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSS Generator](https://synk.info/) <sup>[952](https://t.me/s/aboutrss/952)</sup>
 - [RSSHub with RSS-Parser](https://telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01) <sup>[1060](https://t.me/s/aboutrss/1060)</sup>
 - [Feed Filter Maker](https://feed.janicek.co/) <sup>[1279](https://t.me/s/aboutrss/1279)</sup>
+- [Feed Rinse](http://feedrinse.com/index-old.php): filter items out by keyword, author or category; the link goes to the pre-2.0 site, which is still the only working one ![Freeware][freeware icon]
 - [rss-lambda](https://rss-lambda.ktachibana.party/) <sup>[1405](https://t.me/s/aboutrss/1405)</sup> [![Open-Source Software][oss icon]](https://github.com/k-t-corp/rss-lambda)
 
 ### Combine multiple feeds into one
@@ -1667,7 +1686,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSSAid](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911), [1475](https://t.me/s/aboutrss/1475)</sup> : Android-version RSSHub Radar [![Android][Android icon]](https://github.com/lt94/RSSAid/releases)[![Open-Source Software][oss icon]](https://github.com/lt94/RSSAid/)![Freeware][freeware icon]
 - [RSS Finder](https://rss-finder-web-app.vercel.app/) <sup>[1003](https://t.me/s/aboutrss/1003)</sup> [![Open-Source Software][oss icon]](https://github.com/alexdevero/rss-finder-web-app)
 - [Another RSS Finder](https://rss-finder.rook1e.com/) [![Open-Source Software][oss icon]](https://github.com/0x2E/rss-finder)
-- RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
+- ~~RSS Manager~~ <sup>[1169](https://t.me/s/aboutrss/1169)</sup>
 - [Thirdplace Discovery](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~thirdplace)![Freeware][freeware icon]
 - [Get RSS Feed URL](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software][oss icon]](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware][freeware icon]
 - [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator)
