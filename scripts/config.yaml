@@ -1,0 +1,50 @@
+# link_check 配置 v3 (GitHub Actions 兼容)
+repo:
+  branch: "master"
+
+# 检查目标：全部主链接纳入，按类型分类处理
+scope:
+  check_github: true      # github.com 仓库用 GitHub API 检查
+  check_telegram: true    # t.me 链接单独检查
+  check_twitter: true     # twitter/x 链接单独检查
+
+# 判定参数
+judge:
+  # 连续失效多少周期后标记"待人工确认"
+  confirm_threshold: 3
+  # HTTP 请求超时（秒）
+  http_timeout: 15
+  # 判定失效的状态码集合
+  fail_status: [403, 404, 410, 451, 500, 502, 503, 504]
+  # 待售/失效信号关键词（出现在页面中则视为失效信号）
+  for_sale_keywords:
+    - "for sale"
+    - "domain is parked"
+    - "buy this domain"
+    - "parked domain"
+    - "domain for sale"
+    - "这域名待售"
+    - "域名出售"
+
+# 并发
+concurrency:
+  workers: 16              # 并发线程数（CI 境外机器资源充足，可调大）
+  delay: 0.1               # 每请求间最小延迟（秒）
+
+# 状态记录文件（CI 中存于 status 分支 checkout 目录）
+status:
+  file: "status.md"
+  # 待人工确认清单文件
+  confirm_file: "confirm_list.md"
+
+# 搜索引擎（免 key，仅记录搜索 URL，供人工复核时点击）
+search:
+  # 搜索词策略：url / name / both
+  mode: "both"
+  engines:
+    - "https://www.google.com/search?q="
+    - "https://www.bing.com/search?q="
+
+# 网络
+network:
+  user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"

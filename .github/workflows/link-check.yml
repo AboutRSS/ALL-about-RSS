@@ -1,0 +1,128 @@
+name: Link Checker
+
+# 触发：
+#   - 每两周一次（每月 1 日、15 日 03:00 UTC）
+#   - 可手动触发 (workflow_dispatch)
+on:
+  schedule:
+    - cron: "0 3 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 允许 push 到 status 分支
+  issues: write     # 允许创建"待人工确认"issue
+
+concurrency:
+  group: link-check-status-branch   # 防止并发运行互相覆盖 status 分支
+  cancel-in-progress: false
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest   # 境外服务器，可访问所有站点（Google/Wikipedia 等）
+    timeout-minutes: 60
+
+    steps:
+      # 1. 检出仓库（默认分支，含 scripts/ 与 README.md）
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # 2. 准备 status 分支工作区：
+      #    - status 分支已存在 -> 检出到 ./_status
+      #    - 不存在（首次运行）-> 从当前分支创建并拷贝脚本
+      - name: Prepare status branch worktree
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin status 2>/dev/null && echo "status-exists" || echo "status-missing"
+
+          if git show-ref --verify --quiet refs/remotes/origin/status; then
+            # 状态分支已存在：单独检出到 _status 目录，避免与 master 工作树冲突
+            git worktree add ./_status origin/status -B status
+          else
+            # 首次运行：创建 status 分支（孤儿分支，仅保留脚本与状态文件）
+            git worktree add --detach ./_status
+            git -C ./_status symbolic-ref HEAD refs/heads/status
+            git -C ./_status add -A
+            git -C ./_status commit -m "chore(status): initialize status branch" --allow-empty
+          fi
+          # 每次运行都用 master 最新脚本覆盖 status 分支的脚本，保证脚本始终最新
+          rm -rf ./_status/scripts
+          cp -r scripts ./_status/scripts
+          cp config.yaml ./_status/config.yaml 2>/dev/null || true
+        shell: bash
+
+      # 3. 安装依赖
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      # 4. 运行检查（境外执行）
+      #    --readme: master 工作树的 README.md
+      #    --status-dir: status 分支工作区（_status）
+      #    continue-on-error: 脚本检测到失效链接会返回非零，但我们仍需继续
+      #    更新 status 分支并上传/创建 confirm_list，故设置 continue-on-error 并捕获退出码。
+      - name: Run link checker
+        id: checker
+        continue-on-error: true
+        run: |
+          set +e
+          python scripts/link_check.py \
+            --readme README.md \
+            --status-dir "$GITHUB_WORKSPACE/_status" \
+            --workers 16
+          rc=$?
+          echo "exit_code=$rc" >> "$GITHUB_OUTPUT"
+          echo "checker_exit_code=$rc"
+          # 不主动 exit，让 workflow 继续后续步骤
+          exit 0
+        shell: bash
+
+      # 5. 提交并推送 status 分支（始终执行，确保状态跨周累计）
+      - name: Commit and push status branch
+        if: always()
+        run: |
+          git -C ./_status add -A
+          git -C ./_status commit -m "chore(status): update link check ($(date -u +%Y-%m-%d))" \
+            --allow-empty
+          git -C ./_status push origin status
+        shell: bash
+
+      # 6. 若存在待人工确认清单，上传为 artifact 并创建 issue 通知（始终检查）
+      - name: Upload confirmation list artifact
+        if: always() && hashFiles('_status/confirm_list.md') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: confirm-list
+          path: _status/confirm_list.md
+
+      - name: Create issue for manual confirmation
+        if: always() && hashFiles('_status/confirm_list.md') != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('_status/confirm_list.md', 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[待人工确认] 链接失效清单 ${new Date().toISOString().slice(0,10)}`,
+              body: body + '\n\n---\n请人工确认后，在 master 分支对相应条目 cross out 并 push。',
+            });
+
+      # 7. 若检测到失效链接（checker 退出码非零），将 workflow 标记为失败（便于监控）
+      - name: Fail workflow when invalid links detected
+        if: always() && steps.checker.outputs.exit_code != '0'
+        run: |
+          echo "检测到失效链接（checker exit_code=${{ steps.checker.outputs.exit_code }}）。"
+          echo "status 分支已更新，confirm_list 已生成。此失败为有意为之，用于提示存在待处理链接。"
+          exit 1
+        shell: bash
