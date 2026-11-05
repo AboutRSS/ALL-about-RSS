@@ -1742,6 +1742,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software][oss icon]](https://github.com/sebastienrousseau/rssgen)
 - [Crawler-Buddy](https://github.com/rumca-js/crawler-buddy): A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
 - [Feedsmith](https://feedsmith.dev/): A fast JavaScript and TypeScript library for parsing and generating RSS, Atom, RDF, JSON Feed and OPML, with support for 30+ namespaces [![Open-Source Software][oss icon]](https://github.com/macieklamberski/feedsmith)
+- [RSS & Atom Feed Reader (Apify Actor)](https://apify.com/ahmed.fouaad82/rss-feed-reader): hosted tool that reads public RSS 2.0 and Atom feeds into deduplicated JSON items, with date and keyword filters; pay per item
+- [Podcast Transcripts from RSS (Apify Actor)](https://apify.com/ahmed.fouaad82/podcast-published-transcripts): hosted tool that follows the Podcasting 2.0 `<podcast:transcript>` links in podcast feeds and returns each published SRT, WebVTT, JSON or HTML transcript as plain text plus timestamped segments; pay per transcript
 
 ## ⛓ OPML management
 
