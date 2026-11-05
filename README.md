@@ -2114,7 +2114,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [KKBOX podcast](https://podcast.kkbox.com/)
 - [Apple Podcast 人气最高的100个中文播客](https://zhuanlan.zhihu.com/p/166002110) <sup>[758](https://t.me/s/aboutrss/758)</sup>
 - [分享你人为值得订阅的内容 by Notion中文社区](https://www.notion.so/cnotion/Notion-Vol-13-89e51bdb621a4e009e7ec60d1cc58c2f)
-- [Podcast OPML collections](http://b19.se/data/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
+- [Podcast OPML collections](https://b19.se/data/opml/) <sup>[926](https://t.me/s/aboutrss/926)</sup>
 - [Chris Abraham's Podcast Collection](https://chrisabraham.com/opml/view) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 - [中文播客榜](https://xyzrank.com/) <sup>[1236](https://t.me/s/aboutrss/1236)</sup>
 - [中文播客数据分析 · 公众版](https://wav.pub/analysis/)
