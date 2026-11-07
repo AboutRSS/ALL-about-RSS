@@ -141,6 +141,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
     - [Docsify](#docsify)
     - [Steam](#steam)
     - [TMDB](#tmdb)
+    - [Bluesky](#bluesky)
   - [RSS Editor](#rsseditor)
 - [Information spreading/forwarding via RSS feeds](#-information-spreadingforwarding-via-rss-feeds)
   - [RSS2Bluesky](#rss2bluesky)
@@ -1129,6 +1130,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [TwiSSR](http://www.twissr.com/) <sup>[875](https://t.me/s/aboutrss/875)</sup> ![Freeware][freeware icon]
 - [Typefully Profiles](https://typefully.com/profile): Generate RSS Feed for your Twitter Threads <sup>[1177](https://t.me/s/aboutrss/1177)</sup> ![Freeware][freeware icon]
 - [TweetFeed](http://tweetfeed.org/) <sup>[1242](https://t.me/s/aboutrss/1242)</sup> ![Freeware][freeware icon]
+- [FxEmbed](https://docs.fxembed.com/guide/advanced/rss-atom-feeds/) : generates RSS 2.0 and Atom feeds for X/Twitter profiles, with media-only variants and a configurable item count [![Open-Source Software][oss icon]](https://github.com/FxEmbed/FxEmbed)![Online][Online icon]
 
 #### Instagram
 
@@ -1308,6 +1310,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 #### TMDB
 
 - [Magnanium](https://magnanium.vercel.app/) : generates an RSS feed for the upcoming releases of any actor or director, filterable by role, release type and lead time ![Online][Online icon]![Freeware][freeware icon]
+
+#### Bluesky
+
+- [FxEmbed](https://docs.fxembed.com/guide/advanced/rss-atom-feeds/) : generates RSS 2.0 and Atom feeds for Bluesky profiles, with media-only variants and a configurable item count [![Open-Source Software][oss icon]](https://github.com/FxEmbed/FxEmbed)![Online][Online icon]
 
 ### RSS Editor
 
