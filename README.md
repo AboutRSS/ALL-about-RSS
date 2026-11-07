@@ -993,6 +993,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Wire](https://search.wirereader.app/)
 - [Awakari](https://awakari.com/login.html)
 - [OpenOrb](https://openorb.idiot.sh/) <sup>[1451](https://t.me/s/aboutrss/1451)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~lown/openorb)![Freeware][freeware icon]
+- [Offline Web Search](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/) : searches a bundled offline catalogue of 56,000+ RSS and Atom feed URLs, with swappable SQLite indexes and no network queries [![Android][Android icon]](https://f-droid.org/en/packages/io.github.rumcajs.offlinewebsearch/)[![Open-Source Software][oss icon]](https://github.com/rumca-js/OfflineWebSearch)![Freeware][freeware icon]
 
 ## 🔱 Workflow Automation
 
