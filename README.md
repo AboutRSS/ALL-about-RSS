@@ -1620,6 +1620,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [RSSUnify](https://feederss.com/index.html) <sup>[1189](https://t.me/s/aboutrss/1189)</sup> ![Freeware][freeware icon]
 - [mior](http://mior.ericfu.me/) <sup>[1215](https://t.me/s/aboutrss/1215)</sup> [![Open-Source Software][oss icon]](https://github.com/fuyufjh/mior)![Freeware][freeware icon]
 - [Feed Filter Maker](https://feed.janicek.co/) <sup>[1279](https://t.me/s/aboutrss/1279)</sup>
+- [rssrssrssrss](https://www.rssrssrssrss.com/) <sup>[1521](https://t.me/s/aboutrss/1521)</sup> : merge multiple RSS feeds into one without an account, with the feed list encoded into the permalink ![Online][Online icon]![Freeware][freeware icon]
 
 ### Obtain translated RSS feed
 
