@@ -1755,6 +1755,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [OPML-compatible apps list](http://opml.org/compatibleApps.opml) <sup>[1216](https://t.me/s/aboutrss/1216)</sup>
 - [Little Outliner](http://littleoutliner.com/) <sup>[1055](https://t.me/s/aboutrss/1055)</sup>: browse and edit OPML files.
 - [opml-editor](https://opml.imadij.com/) <sup>[1467](https://t.me/s/aboutrss/1467)</sup> [![Open-Source Software][oss icon]](https://github.com/imdj/opml-editor)
+- [Podcast Export](https://stanczykwyatt.github.io/podcast-export/): export the shows you follow in Apple Podcasts on a Mac as an OPML file with their feed URLs, plus your listening history. [![Mac][Mac icon]](https://github.com/stanczykwyatt/podcast-export/releases/latest)[![Open-Source Software][oss icon]](https://github.com/stanczykwyatt/podcast-export)![Freeware][freeware icon]
 
 ## 📦 Feed Resources/Providers/Recommendations
 
