@@ -1010,6 +1010,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [~~Automate.io~~](https://automate.io/)
 - [Actionsflow](https://actionsflow.github.io/) <sup>[956](https://t.me/s/aboutrss/956)</sup> [![Open-Source Software][oss icon]](https://github.com/actionsflow/actionsflow)
 - [integrately](https://integrately.com/) <sup>[1114](https://t.me/s/aboutrss/1114)</sup>
+- [Vidfiddle](https://vidfiddle.com) [![Open-Source Software][oss icon]](https://github.com/zellerhaus/vidfiddle)
 
 ## ✳ Information Aggregators
 
