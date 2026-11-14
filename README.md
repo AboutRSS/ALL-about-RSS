@@ -1856,6 +1856,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [MoreRSS](https://morerss.com/index.php) <sup>[1442](https://t.me/s/aboutrss/1442)</sup>
 - [Awesome RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes) [![Open-Source Software][oss icon]](https://github.com/JackyST0/awesome-rsshub-routes) ![Freeware][freeware icon]
 - [MyFeed](https://myfeed.space/explore) : 103 public topic feeds (AI, Rust, security, privacy and more), each built from hundreds of RSS sources and news outlets and AI-picked into one feed; every topic publishes its own RSS, e.g. [AI](https://myfeed.space/ai/rss.xml), [Rust](https://myfeed.space/rust/rss.xml) and [Privacy](https://myfeed.space/explore/privacy/rss.xml) ![Online][Online icon]![AI][AI icon]
+- [Brew RSS Collections](https://getbrew.app/collections/) : Curated technology, gaming, cybersecurity and science feeds, with topic-specific OPML downloads for importing into compatible readers
 
 ### Aggregators of Indieblogs
 
