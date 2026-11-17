@@ -503,6 +503,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [NitroFeed](https://getapps.cafe/app/nitrofeed) : a desktop RSS reader that pulls the full article into the reader, plays podcasts inline and can summarize with your own AI key ![Windows][Windows icon]![Mac][Mac icon]![AI][AI icon]
 - [Newsbin](https://xetabit.com/apps/newsbin/) : a native RSS reader for iPhone, iPad, Mac and Apple Watch with optional on-device AI, free to try [![iPhone][iPhone icon]](https://apps.apple.com/us/app/newsbin/id6737723338)[![Mac][Mac icon]](https://apps.apple.com/us/app/newsbin/id6737723338)
 - [Feedler](https://feedlerapp.com/) : a smart RSS reader with an in-house full-article parser and cross-source Trending Stories, free for five feeds then €9.99/year [![iPhone][iPhone icon]](https://apps.apple.com/app/id6777101828)
+- [Shows & Stories](https://showsandstories.com/en) : podcasts, video podcasts and blog articles from RSS feeds in one library with folders, tags and OPML import/export, free for ten feeds in the browser then €9/month or €79 for 12 months [![Online][Online icon]](https://app.showsandstories.com)[![Windows][Windows icon]](https://apps.microsoft.com/detail/9P4S6W88B7LG)
 
 ### Wechat Mini Apps
 
@@ -2112,6 +2113,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Airshow](https://feedbin.com/airshow) <sup>[1237](https://t.me/s/aboutrss/1237)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/airshow-lightweight-podcasts/id1584582270)
 - [Pods](https://x.com/Enter_Apps/status/1768669206826926292) <sup>[1440](https://t.me/s/aboutrss/1440)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/pods-minimal-rss-news-reader/id6478560203)[![Android][Android icon]](https://play.google.com/store/apps/details?id=air.enter.pods)![AI][AI icon]
 - [The Podcast App](https://thepodcastapp.dev/) [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.magnolia.thepodcastapp)[![iOS][iPhone icon]](https://apps.apple.com/app/the-podcast-app/id6754806244)![AI][AI icon]
+- [Shows & Stories](https://showsandstories.com/en) [![Online][Online icon]](https://app.showsandstories.com)[![Windows][Windows icon]](https://apps.microsoft.com/detail/9P4S6W88B7LG)
 
 ## Aggregators of Podcasts / Podcast Navigation
 
