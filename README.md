@@ -746,6 +746,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [PlainApp](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software][oss icon]](https://github.com/ismartcoding/plain-app)
 - MacOS Raycast Launcher
   - [TidyRead](https://www.tidyread.info/): a Raycast Extension for information reading <sup>[1413](https://t.me/s/aboutrss/1413)</sup> [![Open-Source Software][oss icon]](https://github.com/DophinL/raycast-extensions/tree/ext/tidyread---streamline-your-daily-reading/extensions/tidyread---streamline-your-daily-reading)
+- [Sponge](https://sponge.computer): a reading library for articles and PDFs that follows a site's RSS, Atom or JSON Feed and saves each new page to read and search later, free on your own computer with a paid plan to sync more than 2 MB [![Online][Online icon]](https://sponge.computer/docs/web-library)[![Mac][Mac icon]](https://sponge.computer/docs/mac)[![Linux][Linux icon]](https://sponge.computer/docs/linux)
 
 ### TestFlight / Early Access
 
