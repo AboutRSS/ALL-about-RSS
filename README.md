@@ -668,6 +668,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [FeedThing](https://github.com/xurble/FeedThing) : a Django reader with a two-pane catch-up model and river-of-news folders, self-hosted on gunicorn [![Open-Source Software][oss icon]](https://github.com/xurble/FeedThing)![Freeware][freeware icon]
 - [Tuvix](https://tuvix.app/) : an open-source RSS aggregator, self-host it or use the free hosted app [![Online][Online icon]](https://feed.tuvix.app/)[![Open-Source Software][oss icon]](https://github.com/TechSquidTV/Tuvix-RSS)
 - [Simple Feed Reader](https://github.com/larspohlmann/simple-feed-reader) : a self-hosted multi-user reader with full-text extraction, email digests and Bluesky/Mastodon timelines and lists as feeds, Docker Compose deploy [![Open-Source Software][oss icon]](https://github.com/larspohlmann/simple-feed-reader)
+- [Krss](https://github.com/kue02/Krss) : a self-hosted RSS reader that ships as a single binary with SQLite, with built-in AI summaries and translation, an automation rule engine, multi-view reading and an MCP server [![Open-Source Software][oss icon]](https://github.com/kue02/Krss)![Freeware][freeware icon]
 
 ### RSS Reader in Email System
 
