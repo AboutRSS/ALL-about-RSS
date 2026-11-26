@@ -611,6 +611,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
 - [Feeddi](https://feeddi.com/) ![Online][Online icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.feeddi)[![Chrome][Chrome icon]](https://chromewebstore.google.com/detail/feeddide-abone-ol/hdiigdlnndhpjdcjbgddiddnboobphpc)[![Firefox][Firefox icon]](https://addons.mozilla.org/addon/subscribe-in-feeddi/)![Freeware][freeware icon]
 - [Sublime Feed](https://sublimefeed.com/) : an RSS reader without unread counts, free for five feeds then $4/month or $40/year ![Online][Online icon]
+- [RecapOne](https://recapone.com/) ![Online][Online icon]
 
 ### Self Hosted Readers
 - [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha)![AI][AI icon]
